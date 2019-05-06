@@ -15,7 +15,7 @@
 
 <body>
 
-  <div id="mainbox" onclick="openFunction()">&#9776</div>
+  <div id="mainbox" onclick="openFunction()">&#9776;</div>
   <div id="menu" class="sidemenu">
     <a href="index.html">
       <h5>Software</h5>
@@ -24,7 +24,7 @@
     </a>
     <ul>
       <li><a href="#"></a></li>
-      <li class="main-link"><a href="#about">About SSL</a></li>
+      <li class="main-link" onclick="closeFunction()"><a href="#about">About SSL</a></li>
       <li class="main-link"><a href="#">People</a>
         <ul class="on-click" id="list-show">
           <li class="sub-main-link">Director</li>
@@ -48,7 +48,7 @@
       </li>
     </ul>
 
-    <a href="#" class="closebtn" onclick="closeFunction()">&times;</a>
+    <a href="" class="closebtn" onclick="closeFunction()">&times;</a>
   </div>
   <div class="main">
     <div class="homepage-canvas">
@@ -88,7 +88,7 @@
 
   <script type="text/javascript">
     function openFunction() {
-      document.getElementById("menu").style.width = "600px";
+      document.getElementById("menu").style.width = "100%";
       document.getElementById("mainbox").display = none;
     }
 
@@ -97,6 +97,11 @@
       document.getElementById("mainbox").style.marginLeft = "0px";
       document.getElementById("mainbox").innerHTML = "&#9776;";
     }
+
+
+
+
+
   </script>
 
 
