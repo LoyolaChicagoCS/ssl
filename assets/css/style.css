@@ -1,3 +1,9 @@
+html,body
+{
+    overflow-x: hidden;
+
+}
+
 header {
   position: absolute;
   z-index: 10;
@@ -80,8 +86,8 @@ header {
 }
 
 .about-bio p {
-  margin-left: -85px !important;
-  margin-right: -85px !important;
+  margin-left: -45px !important;
+  margin-right: -45px !important;
 }
 
 .about-heading {
@@ -117,7 +123,7 @@ header {
 /* Start picture styling */
 .pics {
   margin: 0px !important;
-  padding: 0 !important;
+  padding: 0px !important;
   /* border-radius: 2px; */
   /* border-style: solid; */
   height: 100%;
@@ -141,6 +147,15 @@ header {
   .picture-row-bottom {
     padding-left: 4rem;
     padding-right: 4rem;
+  }
+
+  .about-bio p {
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+  }
+
+  .team-heading-underline {
+    width: 25rem!important;
   }
 }
 
