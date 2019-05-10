@@ -12,8 +12,8 @@ header {
 
 .navbar {
   padding: 20px 0;
-  padding-left: 200px;
-  padding-right: 200px;
+  margin-left: 200px;
+  margin-right: 200px;
   font-family: bebas-neue, sans-serif;
   letter-spacing: 1px;
 }
@@ -28,6 +28,7 @@ header {
 .nav-item {
   font-weight: 800;
   font-size: 1.5em;
+  background-color: white;
   text-transform: uppercase;
 }
 
@@ -92,15 +93,16 @@ header {
 
 .about-heading {
   font-family: bebas-neue, sans-serif;
-  font-size: 4rem;
+  font-size: 5rem;
   letter-spacing: 1px;
-  padding-bottom: 0.2rem;
+  padding-bottom: .7rem;
+  margin-left: -60px;
 }
 
 .about-heading-underline {
-  width: 20rem;
+  width: 120;
   height: .5rem;
-  background-color: lightgray;
+  background-color: black;
   margin: 0 auto 2rem;
   margin-bottom: 2.3rem!important;
 }
@@ -110,7 +112,7 @@ header {
   height: 400px;
   left: 5em;
   /* top: 0px; */
-  margin-top: 200px;
+  margin-top: 350px;
   padding-top: 40px;
   z-index: -2000;
   background-color: #4ef9a3;
@@ -154,8 +156,18 @@ header {
     margin-right: 20px !important;
   }
 
+  .about-heading {
+    padding-left: 65px!important;
+  }
+
   .team-heading-underline {
     width: 25rem!important;
+  }
+
+  .circle-image {
+    height: 500px;
+    width: 500px;
+    left: -200px;
   }
 }
 
@@ -197,12 +209,14 @@ header {
 /* End headshot, name, and information styling */
 .team-heading {
   font-family: bebas-neue, sans-serif;
-  font-size: 4rem;
+  font-size: 5rem;
   letter-spacing: 1px;
-  padding-bottom: 0.2rem;
+  padding-bottom: .7rem;
+  margin-left: 84px;
 }
 
 #team {
+  padding-top: 10em;
   padding-bottom: 10rem;
 }
 
