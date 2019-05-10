@@ -1,0 +1,208 @@
+header {
+  position: absolute;
+  z-index: 10;
+  width: 100%;
+}
+
+.navbar {
+  padding: 20px 0;
+  padding-left: 200px;
+  padding-right: 200px;
+  font-family: bebas-neue, sans-serif;
+  letter-spacing: 1px;
+}
+
+.navbar-brand {
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 3em;
+  color: black;
+}
+
+.nav-item {
+  font-weight: 800;
+  font-size: 1.5em;
+  text-transform: uppercase;
+}
+
+.navbar-light .navbar-nav .nav-item .nav-link:hover,
+.navbar-light .navbar-nav .nav-item.active .nav-link {
+  background: #262626;
+  color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-item .nav-link {
+  color: #262626;
+  padding: 5px 15px;
+}
+
+.navbar-light .navbar-toggler {
+  border: none;
+  color: #fff;
+  border: 2px solid #7f7f7f;
+  border-radius: 0;
+  outline: none;
+}
+
+.banner {
+  max-width: 100%;
+  height: auto;
+  position: relative;
+  background: url(../images/ssl.jpg);
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  padding: 250px 0 250px;
+  margin-bottom: 40px;
+}
+
+@media (max-width: 990px) {
+  .banner {
+    padding: 200px 0;
+  }
+
+  .navbar-collapse {
+    background: #fff;
+  }
+
+  .navbar {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+}
+
+#about {
+  padding-top: 8em;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  padding-bottom: 20em;
+}
+
+.about-bio p {
+  margin-left: -85px !important;
+  margin-right: -85px !important;
+}
+
+.about-heading {
+  font-family: bebas-neue, sans-serif;
+  font-size: 4rem;
+  letter-spacing: 1px;
+  padding-bottom: 0.2rem;
+}
+
+.about-heading-underline {
+  width: 20rem;
+  height: .5rem;
+  background-color: lightgray;
+  margin: 0 auto 2rem;
+  margin-bottom: 2.3rem!important;
+}
+
+.circle-image {
+  width: 400px;
+  height: 400px;
+  left: 5em;
+  /* top: 0px; */
+  margin-top: 200px;
+  padding-top: 40px;
+  z-index: -2000;
+  background-color: #4ef9a3;
+  position: absolute;
+  border-radius: 50%;
+}
+
+
+
+/* Start picture styling */
+.pics {
+  margin: 0px !important;
+  padding: 0 !important;
+  /* border-radius: 2px; */
+  /* border-style: solid; */
+  height: 100%;
+  width: 100%;
+  opacity: 1;
+}
+
+.picture-row-top.row, .picture-row-bottom.row {
+  margin-top: -24px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+/* Adding responsivity for images */
+@media only screen and (max-width: 1200px) {
+  .picture-row-top {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+
+  .picture-row-bottom {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+}
+
+/* Ending responsivity for images */
+/* Headshot, name, and information styling */
+.pics img {
+  width: 100%;
+  height: 100%;
+  transition: transform .2s;
+  /* border: solid 1px black; */
+  background: none;
+  transition: filter .5s ease-in-out;
+  -webkit-filter: grayscale(100%);
+  /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(100%);
+  /* FF 35+ */
+}
+
+.pics img:hover {
+  background-color: black;
+  cursor: pointer;
+  -webkit-filter: none;
+  /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: none;
+  /* FF 35+ */
+}
+
+.student-name {
+  padding-top: 0.9rem;
+  font-size: 1.1rem;
+}
+
+.student-details {
+  margin-top: -0.3rem;
+  font-size: 0.7rem;
+  color: gray;
+}
+
+/* End headshot, name, and information styling */
+.team-heading {
+  font-family: bebas-neue, sans-serif;
+  font-size: 4rem;
+  letter-spacing: 1px;
+  padding-bottom: 0.2rem;
+}
+
+#team {
+  padding-bottom: 10rem;
+}
+
+.team-heading-underline {
+  width: 30rem;
+  height: .5rem;
+  background-color: lightgray;
+  margin: 0 auto 2rem;
+  margin-bottom: 3.7rem!important;
+}
+
+.current-heading {
+  margin-left: 4.4rem;
+  font-size: 2rem;
+  padding-bottom: 1rem;
+  font-family: bebas-neue, sans-serif;
+
+}

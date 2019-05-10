@@ -1,0 +1,31 @@
+.button {
+  position: absolute;
+  width: 500px;
+  left:0;
+  top: 180px;
+  text-align: center;
+  opacity: 0;
+  transition: opacity .35s ease;
+}
+
+.pics button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transition: .2s;
+}
+
+.pics h5 {
+  text-align: left;
+  font-family: 'Barlow Condensed', sans-serif;
+  margin-top: 2px;
+}
+
+.pics h6 {
+  text-align: left;
+  font-family: 'Barlow Condensed', sans-serif;
+  color: gray;
+  margin-top: -12px;
+}

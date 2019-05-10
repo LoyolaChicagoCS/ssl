@@ -5,117 +5,166 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>Software Systems Laboratory - Loyola University Chicago</title>
-  <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/members.css">
+  <link rel="stylesheet" href="https://use.typekit.net/twu5bha.css">
+  <link href="https://fonts.googleapis.com/css?family=Barlow+Condensed" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono" rel="stylesheet">
-
   <link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
 </head>
 
 <body>
-
-  <div id="mainbox" onclick="openFunction()">&#9776;</div>
-  <div id="menu" class="sidemenu">
-    <a href="index.html">
-      <h5>Software</h5>
-      <h5>Systems</h5>
-      <h5>Laboratory</h5>
-    </a>
-    <ul>
-      <li><a href="#"></a></li>
-      <li class="main-link" onclick="closeFunction()"><a href="#about">About SSL</a></li>
-      <li class="main-link"><a href="assets/pages/people.html">People</a>
-        <ul class="on-click" id="list-show">
-          <li class="sub-main-link">Director</li>
-          <li class="sub-main-link">Faculty</li>
-        </ul>
-      </li>
-      <li class="main-link"><a href="#">The Team</a>
-        <ul class="on-click" id="list-show">
-          <li class="sub-main-link">Current Members</li>
-          <li class="sub-main-link">Alumni</li>
-        </ul>
-      </li>
-      <li class="main-link"><a href="#">Research Projects</a>
-        <ul class="on-click" id="list-show">
-          <li class="sub-main-link">Platform Research</li>
-          <li class="sub-main-link">Applied Mathematics Research</li>
-          <li class="sub-main-link">ML/AI Specific Research</li>
-          <li class="sub-main-link">Interdisciplinary Research</li>
-          <li class="sub-main-link">Software Quality</li>
-        </ul>
-      </li>
-    </ul>
-
-    <a href="" class="closebtn" onclick="closeFunction()">&times;</a>
-  </div>
-  <div class="main">
-    <div class="homepage-canvas">
-      <canvas id="cnv"></canvas>
-      <div>
-        <!-- <div>
-          <h4>Software <br> Systems <br> Laboratory</h4>
-        </div> -->
-      </div>
-    </div>
-  </div>
-
-  <div id="about" class="offset">
+  <header>
     <div class="container">
-      <div class="col-12">
-        <h1 class="about-heading heading text-center">About Software Systems Laboratory</h1>
-        <div class="suggestions-heading-underline"></div>
-      </div>
+      <nav class="navbar fixed-top navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="#">Ssl</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-lg-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#team">Team</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Projects</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://forms.gle/uEP4sARvpmmAHGDk7">Apply</a>
+            </li>
+          </ul>
+
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <section class="banner">
+    <div class="container">
       <div class="row">
-        <div class="about-bio col-lg text-center">
-          <p>The Software and Systems Laboratory (SSL), based in the Computer Science Department at Loyola University Chicago, conducts research in computer systems and applied software engineering. We foster innovation by encouraging experimentation
-            and collaboration with a strong emphasis on openness, including open source software development, open access dissemination of research software, and reproducible results. We are an interdisciplinary group with faculty and student
-            interests in computer science, software engineering, information technology, cybersecurity, and engineering. We are a STEAM (Science, Technology, Engineering, Arts, and Mathematics) group, which means that we align ourselves not only with
-            the sciences and mathematics, but also arts and humanities disciplines.
-            <br><br>
-            SSL embraces the notion that diversity drives creativity and innovation. Following the principles of the IEEE Special Technical Community on Broadening Participation, all are welcome, regardless of gender, race, ethnicity, socio-economic
-            advantage, physical, mental, and cognitive ability, and LGBTQA+ status. Whilst we are based at Loyola University Chicago, we welcome anyone who is interested in using emerging technologies and software engineering to solve problems.
-            <br><br>
-            To join the research group, you must submit an application. Current team members interview prospective team members, followed by an interview with the director (note: put URL to me), and affiliated faculty. Decisions are based on previous
-            development experience, ability to work in a team setting, and a statement of purpose. All Loyola University Chicago participants are eligible to apply for independent study. Regardless of whether one earns credit or non-credit, we expect
-            participants to make at least a 6-month commitment to remain in active status within the research group.
-          </p>
+        <div class="col-sm-6">
+
         </div>
       </div>
     </div>
+  </section>
+  <span class="circle-image"></span>
+  <div id="about" class="offset">
+    <div class="container">
+      <div class="col-12">
+        <h1 class="about-heading heading text-center">About</h1>
+        <div class=" col-sm-12 my-auto about-heading-underline"></div>
+      </div>
+      <div class="row">
+        <div class="about-bio col-lg">
+          <p><b>Hi there!</b> Thank you for checking out the Software Systems Laboratory website. We’re based in the Computer Science Department at Loyola University Chicago. SSL conducts research in computer systems and applied software engineering.
+            We foster innovation by encouraging experimentation and collaboration with a strong emphasis on openness, including open source software development, open access dissemination of research software, and reproducible results. We are an
+            interdisciplinary group with faculty and student interests in computer science, software engineering, information technology, cybersecurity, and engineering. We are a STEAM (Science, Technology, Engineering, Arts, and Mathematics) group,
+            which means that we align ourselves not only with the sciences and mathematics, but also arts and humanities disciplines.
+          </p>
+          <br>
+          <p>SSL embraces the notion that diversity drives creativity and innovation. Following the principles of the IEEE Special Technical Community on Broadening Participation, all are welcome, regardless of gender, race, ethnicity, socio-economic
+            advantage, physical, mental, and cognitive ability, and LGBTQA+ status. Whilst we are based at Loyola University Chicago, we welcome anyone who is interested in using emerging technologies and software engineering to solve problems. </p>
+          <br>
+          <p>To join the research group, you must submit an application. Current team members interview prospective team members, followed by an interview with the director (note: put URL to me), and affiliated faculty. Decisions are based on
+            previous development experience, ability to work in a team setting, and a statement of purpose. All Loyola University Chicago participants are eligible to apply for independent study. Regardless of whether one earns credit or non-credit,
+            we expect participants to make at least a 6-month commitment to remain in active status within the research group.</p>
+        </div>
+      </div>
+    </div>
+
   </div>
 
+  <div id="team" class="container-fluid justify-content-center">
+    <h1 class="team-heading heading text-center">RESEARCH TEAM</h1>
+    <div class=" col-sm-12 my-auto team-heading-underline"></div>
+    <div class="current-heading col-lg-12">
+      <p>CURRENT MEMBERS</p>
+    </div>
 
-  <script type="text/javascript">
-    function openFunction() {
-      document.getElementById("menu").style.width = "100%";
-      document.getElementById("mainbox").display = none;
-    }
+    <div class="picture-row-top row">
+      <div class="pics col-md-2 text-center">
+        <img src="assets/images/morgan.jpg" alt="Morgan Richardson">
+        <h5>Morgan Richardson</h5>
+        <h6>Front-end Lead, Zettelgeist</h6>
+        <button class="button" type="button" id="morgan">Default Button</button>
+      </div>
+      <div class="pics col-md-2 text-center">
+        <img src="assets/images/sean.jpeg" alt="Sean Higgins">
+        <h5>Sean Higgins</h5>
+        <h6>Machine Learning Developer, Zettlegeist</h6>
+      </div>
+      <div class="pics col-md-2 text-center">
+        <img src="assets/images/jack.jpeg" alt="Jack West">
+        <h5>Jack West</h5>
+        <h6>Backend Lead, Zettlegeist</h6>
+      </div>
+      <div class="pics col-md-2 text-center">
+        <img src="assets/images/johnathan.jpg" alt="Johnathan Warnekin">
+        <h5>Jonathan Warkentin</h5>
+        <h6>Backend Developer</h6>
+      </div>
+      <div class="pics col-md-2 text-center">
+        <img src="assets/images/emmanuel.jpg" alt="Emmanuel Ammobi">
+        <h5>Emmanuel Amobi</h5>
+        <h6>Backend Developer, Zettlegeist</h6>
+      </div>
+      <div class="pics col-md-2 text-center">
+        <img src="assets/images/linette.jpeg" alt="Linette">
+        <h5>Linette Maliakal</h5>
+        <h6>Front-end Developer, Zettlegeist</h6>
+      </div>
+    </div>
+    <br>
+    <!-- <div class="picture-row-bottom row">
+      <div class="pics col-md-2 text-center"><img src="assets/images/user.jpg" alt="Athina Gerodias">
+      </div>
+      <div class="pics col-md-2 text-center"><img src="assets/images/user.jpg" alt="Nazifa Safdary">
+      </div>
+      <div class="pics col-md-2 text-center"><img src="assets/images/user.jpg" alt="Michael Collins">
+      </div>
+      <div class="pics col-md-2 text-center"><img src="assets/images/user.jpg" alt="Nkem Mogbo">
+      </div>
+      <div class="pics col-md-2 text-center"><img src="assets/images/user.jpg" alt="Holly Stauffer">
+      </div>
+      <div class="pics col-md-2 text-center"><img src="assets/images/user.jpg" alt="Holly Stauffer">
+      </div>
+    </div> -->
+    <br><br>
+    <div class="current-heading col-lg-12">
+      <p>alumni</p>
+    </div>
+    <div class="picture-row-top row">
+      <div class="pics col-md-2 text-center">
+        <img src="assets/images/riley.jpg" alt="Riley Clarkson">
+        <h5>Riley Clarkson</h5>
+        <h6>Zettlegeist</h6>
+      </div>
+      <!-- <div class="pics col-md-2 text-center"><img src="assets/images/user.jpg" alt="Sean Higgins">
+      </div>
+      <div class="pics col-md-2 text-center"><img src="assets/images/user.jpg" alt="Riley Clarkson">
+      </div>
+      <div class="pics col-md-2 text-center"><img src="assets/images/user.jpg" alt="Machila Kalyalya">
+      </div>
+      <div class="pics col-md-2 text-center"><img src="assets/images/user.jpg" alt="Nick Predey">
+      </div>
+      <div class="pics col-md-2 text-center"><img src="assets/images/user.jpg" alt="Zhihao Zhou">
+      </div>
+    </div> -->
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="assets/scripts/buttons.js"></script>
 
-    function closeFunction() {
-      document.getElementById("menu").style.width = "0px";
-      document.getElementById("mainbox").style.marginLeft = "0px";
-      document.getElementById("mainbox").innerHTML = "&#9776;";
-    }
-
-
-
-
-
-  </script>
-
-
-
-  <!-- PRELOADER -->
-  <!-- /PRELOADER -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script type="text/javascript">
-    $("#wrapper").click(function() {
-      $(".icon").toggleClass("close");
-    });
-  </script>
-  <script src="assets/scripts/main.js"></script>
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
