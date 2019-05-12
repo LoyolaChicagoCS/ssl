@@ -83,12 +83,16 @@ header {
   font-family: 'Barlow Condensed', sans-serif;
   font-size: 1.2rem;
   letter-spacing: 1px;
-  padding-bottom: 20em;
+  padding-bottom: 5em;
 }
 
 .about-bio p {
   margin-left: -45px !important;
   margin-right: -45px !important;
+}
+
+.about-bio a {
+  color: black;
 }
 
 .about-heading {

@@ -74,7 +74,7 @@
           </p>
           <p>SSL embraces the notion that diversity drives creativity and innovation. Following the principles of the IEEE Special Technical Community on Broadening Participation, all are welcome, regardless of gender, race, ethnicity, socio-economic
             advantage, physical, mental, and cognitive ability, and LGBTQA+ status. Whilst we are based at Loyola University Chicago, we welcome anyone who is interested in using emerging technologies and software engineering to solve problems. </p>
-          <p>To join the research group, you must submit an application. Current team members interview prospective team members, followed by an interview with the director (note: put URL to me), and affiliated faculty. Decisions are based on
+          <p>To join the research group, you must submit an application. Current team members interview prospective team members, followed by an interview with the <a href="#team"><b>director</b></a>, and affiliated faculty. Decisions are based on
             previous development experience, ability to work in a team setting, and a statement of purpose. All Loyola University Chicago participants are eligible to apply for independent study. Regardless of whether one earns credit or non-credit,
             we expect participants to make at least a 6-month commitment to remain in active status within the research group.</p>
         </div>
@@ -90,7 +90,7 @@
     </div>
     <div class="picture-row-top row">
       <div class="pics col-md-2 text-center">
-        <a href="https://thiruvathukal.com/"><img src="assets/images/george.jpg" alt="Riley Clarkson"></a>
+        <img src="assets/images/george.jpg" alt="George Thiruvathukal" onClick="georgeBio()">
         <h5>George K. Thiruvathukal</h5>
         <h6>Director, Software Systems Laboratory</h6>
       </div>
@@ -100,6 +100,14 @@
         <h6>Faculty Advisor, ZettelGeist</h6>
       </div>
     </div>
+    <div class="description justify-content-lg-auto" id="george-description">
+      Hi, I'm George, sometimes known as Professor Thiruvathukal or Dr. T.  I'm a professor of computer science at Loyola University Chicago, where I teach many classes in the computer science and software engineering areas with a strong focus on distributed systems. I'm also visiting faculty at Argonne National Laboratory, where I work on leadership-class supercomputers. When I am not busy as professor and researcher, I enjoy designing/developing software, playing piano, cooking, and humor. (Favorite bumper sticker: "Of all the things I lost in life, I miss my mind the most.")
+      <br>
+      <a href="https://twitter.com/gktheoretical" class="george-link"><i class="fab fa-twitter-square"></i></a>&nbsp
+      <a href="https://github.com/gkthiruvathukal" class="george-link"><i class="fab fa-github-square"></i></a>&nbsp
+      <a href="https://www.linkedin.com/in/gkthiruvathukal" class="george-link"><i class="fab fa-linkedin"></i></a>&nbsp
+      <a href="https://thiruvathukal.com/" class="george-link"><i class="fas fa-code"></i></a>
+    </div>
     <br><br>
     <div class="current-heading col-lg-12">
       <p>CURRENT MEMBERS</p>
@@ -107,12 +115,12 @@
 
     <div class="picture-row-top row">
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/morgan.jpg" alt="Morgan Richardson" onClick="myFunction()">
+        <img src="assets/images/morgan.jpg" alt="Morgan Richardson" onClick="morganBio()">
         <h5>Morgan Richardson</h5>
         <h6>Front-end Lead, ZettelGeist</h6>
       </div>
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/sean.jpeg" alt="Sean Higgins">
+        <img src="assets/images/sean.jpeg" alt="Sean Higgins" onClick="seanBio()">
         <h5>Sean Higgins</h5>
         <h6>Machine Learning Developer, ZettelGeist</h6>
       </div>
@@ -137,10 +145,19 @@
         <h6>Front-end Developer, ZettelGeist</h6>
       </div>
     </div>
-    <div class="description justify-content-lg-auto" id="member-description">
-      Hi! I'm Morgan, and I'm currently studying Software Engineering at Loyola University Chicago. I am currently President of Loyola's Computer Science Student
+    <div class="description justify-content-lg-auto" id="morgan-description">
+      Hi! I'm Morgan, and I'm currently studying software engineering at Loyola University Chicago. I am currently President of Loyola's Computer Science Student
       Advisory Council (CS-STAC), a mentor for Girls Who Code, and a tutor for the CS department. When I'm not working as a front-end developer, I enjoy
       designing, working on personal projects, and reading! (Currently reading: <u>Ghost in the Wires</u> by Kevin Mitnick)
+      <br>
+      <a href="https://www.instagram.com/morgan.codes/" class="morgan-link"><i class="fab fa-instagram"></i></a>&nbsp
+      <a href="https://twitter.com/MorganR41208123" class="morgan-link"><i class="fab fa-twitter-square"></i></a>&nbsp
+      <a href="https://github.com/morganrmarie" class="morgan-link"><i class="fab fa-github-square"></i></a>&nbsp
+      <a href="https://www.linkedin.com/in/morganrmarie/" class="morgan-link"><i class="fab fa-linkedin"></i></a>&nbsp
+      <a href="https://morgancodes.co/" class="morgan-link"><i class="fas fa-code"></i></a>
+    </div>
+    <div class="description justify-content-lg-auto" id="sean-description">
+      Hi! I'm Sean Higgins
       <br>
       <a href="https://www.instagram.com/morgan.codes/"><i class="fab fa-instagram"></i></a>&nbsp
       <a href="https://twitter.com/MorganR41208123"><i class="fab fa-twitter-square"></i></a>&nbsp
@@ -168,16 +185,34 @@
     <br><br>
   </div>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
-  <script src="assets/scripts/buttons.js"></script>
+  <script src="assets/scripts/bios.js"></script>
   <script>
-    function myFunction() {
-      var bio = document.getElementById('member-description');
-      if (bio.style.display== "block") {
-        bio.style.display = 'none';
-      } else {
-        bio.style.display = 'block';
-      }
+  function georgeBio() {
+    var bio = document.getElementById('george-description');
+    if (bio.style.display== "block") {
+      bio.style.display = 'none';
+    } else {
+      bio.style.display = 'block';
     }
+  }
+  function morganBio() {
+    var bio = document.getElementById('morgan-description');
+    if (bio.style.display== "block") {
+      bio.style.display = 'none';
+    } else {
+      bio.style.display = 'block';
+    }
+  }
+
+  function seanBio() {
+    var bio = document.getElementById('sean-description');
+    if (bio.style.display== "block") {
+      bio.style.display = 'none';
+    } else {
+      bio.style.display = 'block';
+    }
+  }
+
   </script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

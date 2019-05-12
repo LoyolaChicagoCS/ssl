@@ -41,10 +41,20 @@
   margin-left: 85px!important;
 }
 
-.description a {
+
+.morgan-link {
   color: #ff748c;
 }
 
-.description a:hover {
+.morgan-link:hover {
   color: #ffa7b6;
+}
+
+.george-link {
+  color: #335EFF;
+}
+
+.george-link:hover {
+  color: #5D7FFD;
+
 }
