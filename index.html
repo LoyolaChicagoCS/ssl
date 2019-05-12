@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="stylesheet" href="assets/css/members.css">
   <link rel="stylesheet" href="https://use.typekit.net/twu5bha.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css?family=Barlow+Condensed" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono" rel="stylesheet">
@@ -106,10 +107,9 @@
 
     <div class="picture-row-top row">
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/morgan.jpg" alt="Morgan Richardson">
+        <img src="assets/images/morgan.jpg" alt="Morgan Richardson" onClick="myFunction()">
         <h5>Morgan Richardson</h5>
         <h6>Front-end Lead, ZettelGeist</h6>
-        <button class="button" type="button" id="morgan">Default Button</button>
       </div>
       <div class="pics col-md-2 text-center">
         <img src="assets/images/sean.jpeg" alt="Sean Higgins">
@@ -137,6 +137,17 @@
         <h6>Front-end Developer, ZettelGeist</h6>
       </div>
     </div>
+    <div class="description justify-content-lg-auto" id="member-description">
+      Hi! I'm Morgan, and I'm currently studying Software Engineering at Loyola University Chicago. I am currently President of Loyola's Computer Science Student
+      Advisory Council (CS-STAC), a mentor for Girls Who Code, and a tutor for the CS department. When I'm not working as a front-end developer, I enjoy
+      designing, working on personal projects, and reading! (Currently reading: <u>Ghost in the Wires</u> by Kevin Mitnick)
+      <br>
+      <a href="https://www.instagram.com/morgan.codes/"><i class="fab fa-instagram"></i></a>&nbsp
+      <a href="https://twitter.com/MorganR41208123"><i class="fab fa-twitter-square"></i></a>&nbsp
+      <a href="https://github.com/morganrmarie"><i class="fab fa-github-square"></i></a>&nbsp
+      <a href="https://www.linkedin.com/in/morganrmarie/"><i class="fab fa-linkedin"></i></a>&nbsp
+      <a href="https://morgancodes.co/"><i class="fas fa-code"></i></a>
+    </div>
     <br>
     <br><br>
     <div class="current-heading col-lg-12">
@@ -158,7 +169,16 @@
   </div>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
   <script src="assets/scripts/buttons.js"></script>
-
+  <script>
+    function myFunction() {
+      var x = document.getElementById("member-description");
+      if (x.style.display === "none") {
+        x.style.display = "block";
+      } else {
+        x.style.display = "none";
+      }
+    }
+  </script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>

@@ -29,3 +29,22 @@
   color: gray;
   margin-top: -12px;
 }
+
+.description {
+  display: none;
+  text-align: left;
+  font-family: 'Barlow Condensed', sans-serif;
+  color: black;
+  background-color: rgb(220,220,220, 0.5);
+  padding: 5px;
+  margin-right: 85px!important;
+  margin-left: 85px!important;
+}
+
+.description a {
+  color: #ff748c;
+}
+
+.description a:hover {
+  color: #ffa7b6;
+}

@@ -124,6 +124,7 @@ header {
 
 /* Start picture styling */
 .pics {
+  position: relative;
   margin: 0px !important;
   padding: 0px !important;
   /* border-radius: 2px; */
@@ -233,5 +234,11 @@ header {
   font-size: 2rem;
   padding-bottom: 1rem;
   font-family: bebas-neue, sans-serif;
+}
 
+.more-text {
+  text-decoration: underline;
+  font-style: italic;
+  color: #E8E8E8;
+  font-size: 0.9rem;
 }
