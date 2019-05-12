@@ -144,6 +144,12 @@ header {
   padding-right: 100px;
 }
 
+.picture-row-second.row {
+  margin-top: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
 /* Adding responsivity for images */
 @media only screen and (max-width: 1200px) {
   .picture-row-top {

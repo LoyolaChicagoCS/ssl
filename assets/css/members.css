@@ -50,11 +50,58 @@
   color: #ffa7b6;
 }
 
+.sean-link {
+  color: #F97D37;
+}
+
+.sean-link:hover {
+  color: #FC965C;
+}
+
+.jack-link {
+  color: #0DC03E;
+}
+
+.jack-link:hover {
+  color: #4CD572;
+}
+
+.jonathan-link {
+  color: #881540;
+}
+
+.jonathan-link:hover {
+  color: #B21D55;
+}
+
+.emmanuel-link {
+  color: #35C2C0;
+}
+
+.emmanuel-link:hover {
+  color: #45E4E2;
+}
+
+.linette-link {
+  color: #654EB8;
+}
+
+.linette-link:hover {
+  color: #9480DF;
+}
+
+.allan-link {
+  color: #FF900B;
+}
+
+.allan-link:hover {
+  color: #FBC27D;
+}
+
 .george-link {
   color: #335EFF;
 }
 
 .george-link:hover {
   color: #5D7FFD;
-
 }

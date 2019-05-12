@@ -11,12 +11,11 @@
   <link rel="stylesheet" href="https://use.typekit.net/twu5bha.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css?family=Barlow+Condensed" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
 </head>
 
 <body>
+  <!-- NAVBAR BEGIN -->
   <header>
     <div class="container">
       <nav class="navbar fixed-top navbar-expand-lg navbar-light">
@@ -24,7 +23,6 @@
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-lg-auto">
             <li class="nav-item active">
@@ -43,27 +41,31 @@
               <a class="nav-link" href="https://forms.gle/uEP4sARvpmmAHGDk7">Apply</a>
             </li>
           </ul>
-
         </div>
       </nav>
     </div>
   </header>
+  <!-- NAVBAR END -->
 
+
+  <!-- BANNER BEGIN -->
   <section id="banner" class="banner">
     <div class="container">
       <div class="row">
         <div class="col-sm-6">
-
         </div>
       </div>
     </div>
   </section>
+  <!-- BANNER END -->
+
+
+  <!-- ABOUT SECTION BEGIN -->
   <span class="circle-image"></span>
   <div id="about" class="offset">
     <div class="container">
       <div class="col-12">
         <h1 class="about-heading heading">About</h1>
-        <!-- <div class=" col-sm-12 my-auto about-heading-underline"></div> -->
       </div>
       <div class="row">
         <div class="about-bio col-lg">
@@ -80,11 +82,14 @@
         </div>
       </div>
     </div>
-
   </div>
+  <!-- ABOUT SECTION END -->
 
+  <!-- TEAM SECTION BEGIN -->
   <div id="team" class="container-fluid justify-content-center">
     <h1 class="team-heading heading">RESEARCH TEAM</h1>
+
+    <!-- FACULTY BEGIN -->
     <div class="current-heading col-lg-12">
       <p>FACULTY</p>
     </div>
@@ -101,18 +106,24 @@
       </div>
     </div>
     <div class="description justify-content-lg-auto" id="george-description">
-      Hi, I'm George, sometimes known as Professor Thiruvathukal or Dr. T.  I'm a professor of computer science at Loyola University Chicago, where I teach many classes in the computer science and software engineering areas with a strong focus on distributed systems. I'm also visiting faculty at Argonne National Laboratory, where I work on leadership-class supercomputers. When I am not busy as professor and researcher, I enjoy designing/developing software, playing piano, cooking, and humor. (Favorite bumper sticker: "Of all the things I lost in life, I miss my mind the most.")
+      Hi, I'm George, sometimes known as Professor Thiruvathukal or Dr. T. I'm a professor of computer science at Loyola University Chicago, where I teach many classes in the computer science and software engineering areas with a strong focus on
+      distributed systems. I'm also visiting faculty at Argonne National Laboratory, where I work on leadership-class supercomputers. When I am not busy as professor and researcher, I enjoy designing/developing software, playing piano, cooking, and
+      humor. (Favorite bumper sticker: "Of all the things I lost in life, I miss my mind the most.")
       <br>
       <a href="https://twitter.com/gktheoretical" class="george-link"><i class="fab fa-twitter-square"></i></a>&nbsp
       <a href="https://github.com/gkthiruvathukal" class="george-link"><i class="fab fa-github-square"></i></a>&nbsp
       <a href="https://www.linkedin.com/in/gkthiruvathukal" class="george-link"><i class="fab fa-linkedin"></i></a>&nbsp
       <a href="https://thiruvathukal.com/" class="george-link"><i class="fas fa-code"></i></a>
     </div>
+    <!-- FACULTY END -->
+
+
     <br><br>
+
+    <!-- CURRENT MEMBERS BEGIN -->
     <div class="current-heading col-lg-12">
       <p>CURRENT MEMBERS</p>
     </div>
-
     <div class="picture-row-top row">
       <div class="pics col-md-2 text-center">
         <img src="assets/images/morgan.jpg" alt="Morgan Richardson" onClick="morganBio()">
@@ -125,30 +136,30 @@
         <h6>Machine Learning Developer, ZettelGeist</h6>
       </div>
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/jack.jpeg" alt="Jack West">
+        <img src="assets/images/jack.jpeg" alt="Jack West" onClick="jackBio()">
         <h5>Jack West</h5>
         <h6>Backend Lead, ZettelGeist</h6>
       </div>
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/johnathan.jpg" alt="Johnathan Warnekin">
+        <img src="assets/images/johnathan.jpg" alt="Johnathan Warnekin" onClick="jonathanBio()">
         <h5>Jonathan Warkentin</h5>
         <h6>Backend Developer, ZettelGeist</h6>
       </div>
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/emmanuel.jpg" alt="Emmanuel Ammobi">
+        <img src="assets/images/emmanuel.jpg" alt="Emmanuel Ammobi" onClick="emmanuelBio()">
         <h5>Emmanuel Amobi</h5>
         <h6>Backend Developer, ZettelGeist</h6>
       </div>
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/linette.jpeg" alt="Linette">
+        <img src="assets/images/linette.jpeg" alt="Linette" onClick="linetteBio()">
         <h5>Linette Maliakal</h5>
         <h6>Front-end Developer, ZettelGeist</h6>
       </div>
     </div>
     <div class="description justify-content-lg-auto" id="morgan-description">
-      Hi! I'm Morgan, and I'm currently studying software engineering at Loyola University Chicago. I am currently President of Loyola's Computer Science Student
+      Hi! 😁I'm Morgan, and I'm currently studying software engineering at Loyola University Chicago. I am currently President of Loyola's Computer Science Student
       Advisory Council (CS-STAC), a mentor for Girls Who Code, and a tutor for the CS department. When I'm not working as a front-end developer, I enjoy
-      designing, working on personal projects, and reading! (Currently reading: <u>Ghost in the Wires</u> by Kevin Mitnick)
+      designing, working on personal projects, and reading! (Currently reading: <u>Ghost in the Wires</u> by Kevin Mitnick 📚)
       <br>
       <a href="https://www.instagram.com/morgan.codes/" class="morgan-link"><i class="fab fa-instagram"></i></a>&nbsp
       <a href="https://twitter.com/MorganR41208123" class="morgan-link"><i class="fab fa-twitter-square"></i></a>&nbsp
@@ -157,16 +168,60 @@
       <a href="https://morgancodes.co/" class="morgan-link"><i class="fas fa-code"></i></a>
     </div>
     <div class="description justify-content-lg-auto" id="sean-description">
-      Hi! I'm Sean Higgins
+      Hi! I'm Sean Higgings, currently pursuing a B.S. in Computer Science and M.S. in Software Engineering at Loyola University Chicago. I have experience in software development through research and industry. My research interests include: Machine
+      Learning, Computer Vision, Quantum Computing.
       <br>
-      <a href="https://www.instagram.com/morgan.codes/"><i class="fab fa-instagram"></i></a>&nbsp
-      <a href="https://twitter.com/MorganR41208123"><i class="fab fa-twitter-square"></i></a>&nbsp
-      <a href="https://github.com/morganrmarie"><i class="fab fa-github-square"></i></a>&nbsp
-      <a href="https://www.linkedin.com/in/morganrmarie/"><i class="fab fa-linkedin"></i></a>&nbsp
-      <a href="https://morgancodes.co/"><i class="fas fa-code"></i></a>
+      <a href="https://www.linkedin.com/in/sean-m-higgins20" class="sean-link"><i class="fab fa-linkedin"></i></a>&nbsp
     </div>
-    <br>
-    <br><br>
+    <div class="description justify-content-lg-auto" id="jack-description">
+      Nice to meet you, I'm Jack! I'm a low level backend programmer, with a research interests in distributed systems and optimization.
+      <br>
+      <a href="https://github.com/jweezy24" class="jack-link"><i class="fab fa-github-square"></i></a>&nbsp
+      <a href="https://www.linkedin.com/in/jack-west-0b03a2121/ " class="jack-link"><i class="fab fa-linkedin"></i></a>&nbsp
+    </div>
+    <div class="description justify-content-lg-auto" id="jonathan-description">
+      Hi! I am currently a senior at Loyola University Chicago pursuing my bachelors in Computer Science with a minor in Spanish. I have full-stack experience and am excited to use technology to solve real-world problems.
+      <br>
+      <a href="https://github.com/jonathanwarkentin" class="jonathan-link"><i class="fab fa-github-square"></i></a>&nbsp
+      <a href="https://www.linkedin.com/in/jonathan-warkentin/" class="jonathan-link"><i class="fab fa-linkedin"></i></a>&nbsp
+    </div>
+    <div class="description justify-content-lg-auto" id="emmanuel-description">
+      Hi, I'm Emmanuel! I'm currently a junior at Loyola University Chicago pursuing my bachelors in Software Engineering with a minor in Mathematics.
+      I am currently a member of Systems Software Laboratory research group. Some of my interests include web development and machine learning. I am very self driven and always motivated to learn new technologies.
+      <br>
+      <a href="https://github.com/jonathanwarkentin" class="emmanuel-link"><i class="fab fa-github-square"></i></a>&nbsp
+      <a href="https://www.linkedin.com/in/jonathan-warkentin/" class="emmanuel-link"><i class="fab fa-linkedin"></i></a>&nbsp
+    </div>
+    <div class="description justify-content-lg-auto" id="linette-description">
+      Currently an undergrad at Loyola interested in improving UI/UE, AI, Machine Learning. I balance my time between
+      classes, being on board of DON’T PANIC! CS, hackathons, volunteering with Girls Who Code, and tutoring. In my free
+      time, I loves to play tennis. Otherwise, you can find me playing my ukulele, painting scenic moments I've
+      captured with my camera, or practicing Indian dances for performances.
+      <br>
+      <a href="https://twitter.com/linmaliakal" class="linette-link"><i class="fab fa-twitter-square"></i></a>&nbsp
+      <a href="https://github.com/linmaliakal" class="linette-link"><i class="fab fa-github-square"></i></a>&nbsp
+      <a href="https://www.linkedin.com/in/Linette-Maliakal/" class="linette-link"><i class="fab fa-linkedin"></i></a>&nbsp
+    </div>
+    <div class="picture-row-second row">
+      <div class="pics col-md-2 text-center">
+        <img src="assets/images/allan.jpeg" alt="Allan J Miller" onClick="allanBio()">
+        <h5>Allan J Miller</h5>
+        <h6>Machine Learning Lead, ZettelGeist</h6>
+      </div>
+    </div>
+    <div class="description justify-content-lg-auto" id="allan-description">
+      CS graduate student at LUC. I act as a TA for a few classes and love watching others grow. I've thrown
+      my fair share or bonfires and go through 300+ books/year but not at the same time. I love to cook (especially for others),
+      make music, and I dabble in homebrewing.
+      <br>
+      <a href="https://www.linkedin.com/in/ajm10565/" class="allan-link"><i class="fab fa-linkedin"></i></a>&nbsp
+      <a href="https://github.com/AJM10565" class="allan-link"><i class="fab fa-github-square"></i></a>&nbsp
+    </div>
+    <!-- CURRENT MEMBERS END -->
+
+    <br><br><br>
+
+    <!-- ALUMNI SECTION BEGIN -->
     <div class="current-heading col-lg-12">
       <p>alumni</p>
     </div>
@@ -182,38 +237,94 @@
         <h6>ZettelGeist</h6>
       </div>
     </div>
+    <!-- ALUMNI SECTION END -->
+
+
     <br><br>
+
+
   </div>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
   <script src="assets/scripts/bios.js"></script>
+
+
+  <!-- MEMBER BIO SCRIPT BEGIN -->
   <script>
-  function georgeBio() {
-    var bio = document.getElementById('george-description');
-    if (bio.style.display== "block") {
-      bio.style.display = 'none';
-    } else {
-      bio.style.display = 'block';
+    function georgeBio() {
+      var bio = document.getElementById('george-description');
+      if (bio.style.display == "block") {
+        bio.style.display = 'none';
+      } else {
+        bio.style.display = 'block';
+      }
     }
-  }
-  function morganBio() {
-    var bio = document.getElementById('morgan-description');
-    if (bio.style.display== "block") {
-      bio.style.display = 'none';
-    } else {
-      bio.style.display = 'block';
-    }
-  }
 
-  function seanBio() {
-    var bio = document.getElementById('sean-description');
-    if (bio.style.display== "block") {
-      bio.style.display = 'none';
-    } else {
-      bio.style.display = 'block';
+    function morganBio() {
+      var bio = document.getElementById('morgan-description');
+      if (bio.style.display == "block") {
+        bio.style.display = 'none';
+      } else {
+        bio.style.display = 'block';
+      }
     }
-  }
 
+    function seanBio() {
+      var bio = document.getElementById('sean-description');
+      if (bio.style.display == "block") {
+        bio.style.display = 'none';
+      } else {
+        bio.style.display = 'block';
+      }
+    }
+
+    function jackBio() {
+      var bio = document.getElementById('jack-description');
+      if (bio.style.display == "block") {
+        bio.style.display = 'none';
+      } else {
+        bio.style.display = 'block';
+      }
+    }
+
+    function jonathanBio() {
+      var bio = document.getElementById('jonathan-description');
+      if (bio.style.display == "block") {
+        bio.style.display = 'none';
+      } else {
+        bio.style.display = 'block';
+      }
+    }
+
+    function emmanuelBio() {
+      var bio = document.getElementById('emmanuel-description');
+      if (bio.style.display == "block") {
+        bio.style.display = 'none';
+      } else {
+        bio.style.display = 'block';
+      }
+    }
+
+    function linetteBio() {
+      var bio = document.getElementById('linette-description');
+      if (bio.style.display == "block") {
+        bio.style.display = 'none';
+      } else {
+        bio.style.display = 'block';
+      }
+    }
+
+    function allanBio() {
+      var bio = document.getElementById('allan-description');
+      if (bio.style.display == "block") {
+        bio.style.display = 'none';
+      } else {
+        bio.style.display = 'block';
+      }
+    }
   </script>
+  <!-- MEMBER BIO SCRIPT END -->
+
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
