@@ -19,13 +19,13 @@
   <header>
     <div class="container">
       <nav class="navbar fixed-top navbar-expand-lg navbar-light">
-        <a class="navbar-brand" href="#">Ssl</a>
+        <a class="navbar-brand">Ssl</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav ml-lg-auto">
-            <li class="nav-item active">
+          <ul class="navbar-nav ml-lg-auto" id="nav">
+            <li class="nav-item">
               <a class="nav-link" href="#banner">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
@@ -35,7 +35,7 @@
               <a class="nav-link" href="#team">Team</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Projects</a>
+              <a class="nav-link" href="#projects">Projects</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="https://forms.gle/uEP4sARvpmmAHGDk7">Apply</a>
@@ -51,10 +51,6 @@
   <!-- BANNER BEGIN -->
   <section id="banner" class="banner">
     <div class="container">
-      <div class="row">
-        <div class="col-sm-6">
-        </div>
-      </div>
     </div>
   </section>
   <!-- BANNER END -->
@@ -95,12 +91,12 @@
     </div>
     <div class="picture-row-top row">
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/george.jpg" alt="George Thiruvathukal" onClick="georgeBio()">
+        <img src="assets/images/george.jpg" alt="George Thiruvathukal" id="george">
         <h5>George K. Thiruvathukal</h5>
         <h6>Director, Software Systems Laboratory</h6>
       </div>
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/dave.jpg" alt="Riley Clarkson">
+        <img src="assets/images/dave.jpg" id="david" alt="David B. Dennis">
         <h5>David B. Dennis</h5>
         <h6>Faculty Advisor, ZettelGeist</h6>
       </div>
@@ -118,40 +114,38 @@
     <!-- FACULTY END -->
 
 
-    <br><br>
-
     <!-- CURRENT MEMBERS BEGIN -->
     <div class="current-heading col-lg-12">
       <p>CURRENT MEMBERS</p>
     </div>
     <div class="picture-row-top row">
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/morgan.jpg" alt="Morgan Richardson" onClick="morganBio()">
+        <img src="assets/images/morgan.jpg" id="morgan" alt="Morgan Richardson">
         <h5>Morgan Richardson</h5>
         <h6>Front-end Lead, ZettelGeist</h6>
       </div>
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/sean.jpeg" alt="Sean Higgins" onClick="seanBio()">
+        <img src="assets/images/sean.jpeg" id="sean" alt="Sean Higgins">
         <h5>Sean Higgins</h5>
         <h6>Machine Learning Developer, ZettelGeist</h6>
       </div>
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/jack.jpeg" alt="Jack West" onClick="jackBio()">
+        <img src="assets/images/jack.jpeg" id="jack" alt="Jack West">
         <h5>Jack West</h5>
         <h6>Backend Lead, ZettelGeist</h6>
       </div>
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/johnathan.jpg" alt="Johnathan Warnekin" onClick="jonathanBio()">
+        <img src="assets/images/johnathan.jpg" id="jonathan" alt="Johnathan Warnekin">
         <h5>Jonathan Warkentin</h5>
         <h6>Backend Developer, ZettelGeist</h6>
       </div>
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/emmanuel.jpg" alt="Emmanuel Ammobi" onClick="emmanuelBio()">
+        <img src="assets/images/emmanuel.jpg" alt="Emmanuel Ammobi" id="emmanuel">
         <h5>Emmanuel Amobi</h5>
         <h6>Backend Developer, ZettelGeist</h6>
       </div>
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/linette.jpeg" alt="Linette" onClick="linetteBio()">
+        <img src="assets/images/linette.jpeg" alt="Linette" id="linette">
         <h5>Linette Maliakal</h5>
         <h6>Front-end Developer, ZettelGeist</h6>
       </div>
@@ -204,7 +198,7 @@
     </div>
     <div class="picture-row-second row">
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/allan.jpeg" alt="Allan J Miller" onClick="allanBio()">
+        <img src="assets/images/allan.jpeg" alt="Allan J Miller" id="allan">
         <h5>Allan J Miller</h5>
         <h6>Machine Learning Lead, ZettelGeist</h6>
       </div>
@@ -219,7 +213,6 @@
     </div>
     <!-- CURRENT MEMBERS END -->
 
-    <br><br><br>
 
     <!-- ALUMNI SECTION BEGIN -->
     <div class="current-heading col-lg-12">
@@ -227,108 +220,75 @@
     </div>
     <div class="picture-row-top row">
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/riley.jpg" alt="Riley Clarkson">
+        <img src="assets/images/riley.jpg" alt="Riley Clarkson" id="riley">
         <h5>Riley Clarkson</h5>
         <h6>ZettelGeist</h6>
       </div>
       <div class="pics col-md-2 text-center">
-        <img src="assets/images/zac.jpeg" alt"Zac Gallagher">
+        <img src="assets/images/zac.jpeg" id="zac" alt="Zac Gallagher">
         <h5>Zac Gallagher</h5>
         <h6>ZettelGeist</h6>
       </div>
     </div>
+    <div class="description justify-content-lg-auto" id="riley-description">
+      Hi! I'm Riley, an SSL Alumni with interests all over the place, but particularly in systems programming
+      and devops technologies, currently working at the Federal Reserve Bank of Chicago as
+      a software engineer.
+      <br>
+    </div>
+    <div class="description justify-content-lg-auto" id="zac-description">
+      Graduated in 2018 in with a Bachelor’s Degree in Software Engineering from LUC and
+      graduated in 2019 with a Master’s Degree in Software Engineering LUC. Was a
+      teaching assistant as a graduate student and now currently works at Slalom as a
+      Quality Engineer.
+      <br>
+    </div>
     <!-- ALUMNI SECTION END -->
 
 
-    <br><br>
+    <div id="projects" class="container-fluid justify-content-center">
+      <h1 class="projects-heading heading">RESEARCH PROJECTS</h1>
+      <br><br>
 
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img class="d-block w-100" src="assets/images/zg.jpg" alt="First slide">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>ZettelGeist is a plaintext note-taking system, inspired by the <a href="http://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/">ZettelKasten Method</a>.</h5>
+              <p>View more <a href="https://zettelgeist.com/about/">here</a></p>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="assets/images/mcs.jpg" alt="Second slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="assets/images/mcs.jpg" alt="Third slide">
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="assets/scripts/bios.js"></script>
+    <script src="assets/scripts/navbar.js"></script>
 
-  </div>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
-  <script src="assets/scripts/bios.js"></script>
-
-
-  <!-- MEMBER BIO SCRIPT BEGIN -->
-  <script>
-    function georgeBio() {
-      var bio = document.getElementById('george-description');
-      if (bio.style.display == "block") {
-        bio.style.display = 'none';
-      } else {
-        bio.style.display = 'block';
-      }
-    }
-
-    function morganBio() {
-      var bio = document.getElementById('morgan-description');
-      if (bio.style.display == "block") {
-        bio.style.display = 'none';
-      } else {
-        bio.style.display = 'block';
-      }
-    }
-
-    function seanBio() {
-      var bio = document.getElementById('sean-description');
-      if (bio.style.display == "block") {
-        bio.style.display = 'none';
-      } else {
-        bio.style.display = 'block';
-      }
-    }
-
-    function jackBio() {
-      var bio = document.getElementById('jack-description');
-      if (bio.style.display == "block") {
-        bio.style.display = 'none';
-      } else {
-        bio.style.display = 'block';
-      }
-    }
-
-    function jonathanBio() {
-      var bio = document.getElementById('jonathan-description');
-      if (bio.style.display == "block") {
-        bio.style.display = 'none';
-      } else {
-        bio.style.display = 'block';
-      }
-    }
-
-    function emmanuelBio() {
-      var bio = document.getElementById('emmanuel-description');
-      if (bio.style.display == "block") {
-        bio.style.display = 'none';
-      } else {
-        bio.style.display = 'block';
-      }
-    }
-
-    function linetteBio() {
-      var bio = document.getElementById('linette-description');
-      if (bio.style.display == "block") {
-        bio.style.display = 'none';
-      } else {
-        bio.style.display = 'block';
-      }
-    }
-
-    function allanBio() {
-      var bio = document.getElementById('allan-description');
-      if (bio.style.display == "block") {
-        bio.style.display = 'none';
-      } else {
-        bio.style.display = 'block';
-      }
-    }
-  </script>
-  <!-- MEMBER BIO SCRIPT END -->
-
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </body>
 
 </html>

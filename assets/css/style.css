@@ -1,7 +1,5 @@
-html,body
-{
-    overflow-x: hidden;
-
+html, body {
+  overflow-x: hidden;
 }
 
 header {
@@ -11,11 +9,14 @@ header {
 }
 
 .navbar {
-  padding: 20px 0;
-  margin-left: 200px;
-  margin-right: 200px;
+  padding: 25px;
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 75px;
+  margin-right: 75px;
   font-family: bebas-neue, sans-serif;
   letter-spacing: 1px;
+  /* background-color: white; */
 }
 
 .navbar-brand {
@@ -57,14 +58,15 @@ header {
   position: relative;
   background: url(../images/ssl.jpg);
   min-height: 100vh;
-  background-size: cover;
-  background-position: center;
-  padding: 250px 0 250px;
+  padding-top: 20px !important;
   margin-bottom: 40px;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 @media (max-width: 990px) {
   .banner {
+    margin-bottom: -500px!important;
     padding: 200px 0;
   }
 
@@ -72,10 +74,18 @@ header {
     background: #fff;
   }
 
-  .navbar {
-    padding-right: 40px;
-    padding-left: 40px;
+}
+
+@media (max-width: 700px) {
+  .banner {
+    margin-bottom: -700px!important;
+    padding: 200px 0;
   }
+
+  .navbar-collapse {
+    background: #fff;
+  }
+
 }
 
 #about {
@@ -83,7 +93,7 @@ header {
   font-family: 'Barlow Condensed', sans-serif;
   font-size: 1.2rem;
   letter-spacing: 1px;
-  padding-bottom: 5em;
+  padding-bottom: 3em;
 }
 
 .about-bio p {
@@ -108,7 +118,7 @@ header {
   height: .5rem;
   background-color: black;
   margin: 0 auto 2rem;
-  margin-bottom: 2.3rem!important;
+  margin-bottom: 2.3rem !important;
 }
 
 .circle-image {
@@ -123,8 +133,6 @@ header {
   position: absolute;
   border-radius: 50%;
 }
-
-
 
 /* Start picture styling */
 .pics {
@@ -152,6 +160,11 @@ header {
 
 /* Adding responsivity for images */
 @media only screen and (max-width: 1200px) {
+  .navbar {
+    box-shadow: none;
+    background-color: none;
+  }
+
   .picture-row-top {
     padding-left: 4rem;
     padding-right: 4rem;
@@ -168,17 +181,17 @@ header {
   }
 
   .about-heading {
-    padding-left: 65px!important;
-  }
-
-  .team-heading-underline {
-    width: 25rem!important;
+    padding-left: 65px !important;
   }
 
   .circle-image {
     height: 500px;
     width: 500px;
     left: -200px;
+  }
+
+  .projects-heading {
+    padding-left: 80px;
   }
 }
 
@@ -236,7 +249,7 @@ header {
   height: .5rem;
   background-color: lightgray;
   margin: 0 auto 2rem;
-  margin-bottom: 3.7rem!important;
+  margin-bottom: 3.7rem !important;
 }
 
 .current-heading {
@@ -251,4 +264,24 @@ header {
   font-style: italic;
   color: #E8E8E8;
   font-size: 0.9rem;
+}
+
+.projects-heading {
+  font-family: bebas-neue, sans-serif;
+  font-size: 5rem;
+  letter-spacing: 1px;
+  padding-bottom: .7rem;
+  margin-right: 84px;
+  float: right;
+}
+
+#projects {
+  padding-top: 10em;
+  padding-bottom: 10rem;
+}
+
+.carousel-caption a, .carousel-caption {
+  color: white;
+  font-style: bold;
+  font-family: bebas-neue, sans-serif;
 }
