@@ -9,38 +9,59 @@ header {
 }
 
 .navbar {
-  padding: 25px;
-  height: 60px;
-  margin-top: 10px;
-  margin-left: 75px;
-  margin-right: 75px;
+  padding-left: 75px;
+  padding-right: 75px;
+  /* margin-left: 75px; */
+  /* margin-right: 75px; */
   font-family: bebas-neue, sans-serif;
   letter-spacing: 1px;
-  /* background-color: white; */
+  background-color: black !important;
+
 }
+
+
 
 .navbar-brand {
   font-weight: 800;
   text-transform: uppercase;
   font-size: 3em;
-  color: black;
+  color: white !important;
 }
 
 .nav-item {
   font-weight: 800;
   font-size: 1.5em;
-  background-color: white;
+  /* background-color: white; */
   text-transform: uppercase;
 }
 
-.navbar-light .navbar-nav .nav-item .nav-link:hover,
-.navbar-light .navbar-nav .nav-item.active .nav-link {
-  background: #262626;
-  color: #fff;
+span {
+  position: relative;
+}
+
+span::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: -5px;
+  left: 0;
+  background-color: white;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+span:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
 }
 
 .navbar-light .navbar-nav .nav-item .nav-link {
-  color: #262626;
+  color: white;
   padding: 5px 15px;
 }
 
@@ -66,26 +87,24 @@ header {
 
 @media (max-width: 990px) {
   .banner {
-    margin-bottom: -500px!important;
+    margin-bottom: -500px !important;
     padding: 200px 0;
   }
 
   .navbar-collapse {
-    background: #fff;
+    background: black!important;
   }
-
 }
 
 @media (max-width: 700px) {
   .banner {
-    margin-bottom: -700px!important;
+    margin-bottom: -700px !important;
     padding: 200px 0;
   }
 
   .navbar-collapse {
     background: #fff;
   }
-
 }
 
 #about {
