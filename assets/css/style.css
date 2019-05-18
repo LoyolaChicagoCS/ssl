@@ -11,15 +11,10 @@ header {
 .navbar {
   padding-left: 75px;
   padding-right: 75px;
-  /* margin-left: 75px; */
-  /* margin-right: 75px; */
   font-family: bebas-neue, sans-serif;
   letter-spacing: 1px;
   background-color: black !important;
-
 }
-
-
 
 .navbar-brand {
   font-weight: 800;
@@ -31,7 +26,6 @@ header {
 .nav-item {
   font-weight: 800;
   font-size: 1.5em;
-  /* background-color: white; */
   text-transform: uppercase;
 }
 
@@ -92,7 +86,7 @@ span:hover:before {
   }
 
   .navbar-collapse {
-    background: black!important;
+    background: black !important;
   }
 }
 
@@ -144,7 +138,6 @@ span:hover:before {
   width: 400px;
   height: 400px;
   left: 5em;
-  /* top: 0px; */
   margin-top: 350px;
   padding-top: 40px;
   z-index: -2000;
@@ -158,8 +151,6 @@ span:hover:before {
   position: relative;
   margin: 0px !important;
   padding: 0px !important;
-  /* border-radius: 2px; */
-  /* border-style: solid; */
   height: 100%;
   width: 100%;
   opacity: 1;
@@ -220,22 +211,17 @@ span:hover:before {
   width: 100%;
   height: 100%;
   transition: transform .2s;
-  /* border: solid 1px black; */
   background: none;
   transition: filter .5s ease-in-out;
   -webkit-filter: grayscale(100%);
-  /* Ch 23+, Saf 6.0+, BB 10.0+ */
   filter: grayscale(100%);
-  /* FF 35+ */
 }
 
 .pics img:hover {
   background-color: black;
   cursor: pointer;
   -webkit-filter: none;
-  /* Ch 23+, Saf 6.0+, BB 10.0+ */
   filter: none;
-  /* FF 35+ */
 }
 
 .student-name {
@@ -289,9 +275,8 @@ span:hover:before {
   font-family: bebas-neue, sans-serif;
   font-size: 5rem;
   letter-spacing: 1px;
-  padding-bottom: .7rem;
-  margin-right: 84px;
-  float: right;
+  margin-left: 84px;
+  float: left;
 }
 
 #projects {
@@ -299,8 +284,66 @@ span:hover:before {
   padding-bottom: 10rem;
 }
 
-.carousel-caption a, .carousel-caption {
-  color: white;
-  font-style: bold;
+.project-specific-heading {
+  float: left;
   font-family: bebas-neue, sans-serif;
+  font-size: 5rem;
+  letter-spacing: 1px;
+  float: right;
+}
+
+.project-name {
+  padding-top: 120px;
+  text-align: left;
+  padding-left: 84px;
+  padding-right: 84px;
+  font-family: bebas-neue, sans-serif;
+  font-size: 2rem;
+}
+
+.project-description {
+  padding-left: 84px;
+  padding-right: 84px;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1.2rem;
+}
+
+.project-more-collapse {
+  display: none;
+  background-color: rgb(220,220,220, 0.5);;
+  padding: 5px;
+  margin-left: 84px;
+  margin-right: 84px;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1.2rem;
+}
+
+.learn-more-button {
+  width: 100px;
+  margin-left: 84px;
+  padding: 5px;
+  margin-bottom: 10px;
+  background-color: white;
+  border: 2px black solid;
+  font-family: bebas-neue;
+  font-size: 1.2rem;
+}
+
+.learn-more-button:hover {
+  color: white;
+  background-color: black;
+}
+
+.learn-more-button.foo {
+  color: white;
+  background-color: black;
+}
+
+.projects a {
+  color: black;
+}
+
+.projects a:hover {
+  text-decoration: underline;
+  color: black;
 }
