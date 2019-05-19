@@ -281,7 +281,7 @@ span:hover:before {
 
 #projects {
   padding-top: 10em;
-  padding-bottom: 10rem;
+  padding-bottom: 2rem;
 }
 
 .project-specific-heading {
@@ -346,4 +346,23 @@ span:hover:before {
 .projects a:hover {
   text-decoration: underline;
   color: black;
+}
+
+.bottom-row {
+  position: fixed;
+  bottom: 20px;
+  justify-content: center;
+  width: 100%;
+}
+
+.scrollToTop {
+  color: black;
+  transition: all .2s ease-in-out;
+  display: none;
+}
+
+.scrollToTop:hover {
+  color: black;
+  cursor: pointer;
+  transform: scale(1.3);
 }
