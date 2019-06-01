@@ -10,7 +10,9 @@ document.addEventListener("DOMContentLoaded", () => {
         'jonathan',
         'emmanuel',
         'linette',
-        'george'
+        'george',
+        'gregory',
+        'konstantin'
     ];
 
     displayBioOnClick(team);
