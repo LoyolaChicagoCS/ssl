@@ -7,6 +7,10 @@ $(document).ready(function() {
     $('#learn-more-hermes-expanded').slideToggle(500);
   })
 
+  $('#learn-more-voltkey').on('click', function() {
+    $('#learn-more-voltkey-expanded').slideToggle(500);
+  })
+
   $(function() {
     $("#learn-more").click(function() {
       $(this).toggleClass('foo');
@@ -18,6 +22,15 @@ $(document).ready(function() {
 
   $(function() {
     $("#learn-more-hermes").click(function() {
+      $(this).toggleClass('foo2');
+      $(this).text(function(i, text) {
+        return text === "CLOSE" ? "LEARN MORE" : "CLOSE";
+      })
+    });
+  })
+
+  $(function() {
+    $("#learn-more-voltkey").click(function() {
       $(this).toggleClass('foo2');
       $(this).text(function(i, text) {
         return text === "CLOSE" ? "LEARN MORE" : "CLOSE";
