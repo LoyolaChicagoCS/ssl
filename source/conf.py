@@ -306,9 +306,9 @@ epub_copyright = u'2012, Software and Systems Laboratory'
 #epub_tocdup = True
 
 rst_epilog = """
-.. |pdf-version| replace:: `printable PDF  <https://github.com/LoyolaChicagoCS/syshandbook/releases/download/%(version)s/SoftwareSystemsLaboratory.pdf>`__
+.. |pdf-version| replace:: `printable PDF  <https://github.com/LoyolaChicagoCS/ssl/releases/download/%(version)s/SoftwareSystemsLaboratory.pdf>`__
 
-.. |epub-version| replace:: `eBook <https://github.com/LoyolaChicagoCS/syshandbook/releases/download/%(version)s/SoftwareSystemsLaboratory.epub>`__
+.. |epub-version| replace:: `eBook <https://github.com/LoyolaChicagoCS/ssl/releases/download/%(version)s/SoftwareSystemsLaboratory.epub>`__
 
 .. |George-K-Thiruvathukal| replace:: George K. Thiruvathukal
 

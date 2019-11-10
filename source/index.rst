@@ -16,5 +16,19 @@ To join the research group, you must submit an application. Current team members
    apply
 
 
+GitHub
+--------
+
+See https://github.com/LoyolaChicagoCS/ssl for source code or to report issues. Current SSL members should use the issue tracker or pull requests to suggest content changes.
+
+
+Download
+----------
+
+This site is also available in |pdf-version| or |epub-version| formats.
+
+Index
+-------
+
 * :ref:`genindex`
 
