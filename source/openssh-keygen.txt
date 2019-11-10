@@ -1,0 +1,17 @@
+$ ssh-keygen -b 1024 -t rsa
+
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/xyz/.ssh/id_rsa): 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again:
+
+This passphrase is not sent to the remote host, and it
+is only used to protect your private key. Otherwise, 
+anyone who has access to your private key can 
+authenticate to your account automatically.
+
+Your identification has been saved in /home/xyz/.ssh/id_rsa.
+Your public key has been saved in /home/xyz/.ssh/id_rsa.pub.
+The key fingerprint is:
+13:91:31:0a:9c:8f:5c:11:04:e7:d2:88:e8:5d:a3:42 xyz@xxx.yy.zzz.com
+

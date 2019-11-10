@@ -1,0 +1,9 @@
+$ cd ~/NVIDIA_GPU_Computing_SDK/C/bin/linux/release/
+$ ./deviceQuery          
+[deviceQuery] starting...
+./deviceQuery Starting...
+
+CUDA Device Query (Runtime API) version (CUDART static linking)
+
+Found 4 CUDA Capable device(s)
+......

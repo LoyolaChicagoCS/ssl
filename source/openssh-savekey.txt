@@ -1,0 +1,3 @@
+~/.ssh$ cat id_rsa.pub 
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA5KoVuV/XnikQqHG5bW3MWF3Q1aqlISOo2Mnvsqo/OqsgfvStQgJsTA/OzlzHLcCjdLhNhWX/4I9WnseZGQtzaRIrLmePqNdoun1VPVnBJP/5cD3OhRbHkCLwRTAGHfWk57hhRqxNXt1Zz0kk/qr9KNQ== xyz@xxx.yy.zz.com
+~/.ssh$ 
