@@ -31,8 +31,8 @@ deploy:
   api_key: $GH_TOKEN
   file_glob: true
   file:
-    - ./**/LoyolaUniversityChicagoCS-SoftwareSystemsLaboratory.pdf
-    - ./**/LoyolaUniversityChicagoCS-SoftwareSystemsLaboratory.epub
+    - ./**/SoftwareSystemsLaboratory.pdf
+    - ./**/SoftwareSystemsLaboratory.epub
   skip_cleanup: true
   on:
     repo: LoyolaChicagoCS/ssl

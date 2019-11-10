@@ -204,7 +204,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'LoyolaUniversityChicagoCS-SoftwareSystemsLaboratory.tex', u'Software and Systems Laboratory',
+  ('index', 'SoftwareSystemsLaboratory.tex', u'Software and Systems Laboratory',
    u'Software and Systems Laboratory', 'manual'),
 ]
 
@@ -306,8 +306,8 @@ epub_copyright = u'2012, Software and Systems Laboratory'
 #epub_tocdup = True
 
 rst_epilog = """
-.. |pdf-version| replace:: `printable PDF  <https://github.com/LoyolaChicagoCS/syshandbook/releases/download/%(version)s/LoyolaUniversityChicagoCS-SoftwareSystemsLaboratory.pdf>`__
+.. |pdf-version| replace:: `printable PDF  <https://github.com/LoyolaChicagoCS/syshandbook/releases/download/%(version)s/SoftwareSystemsLaboratory.pdf>`__
 
-.. |epub-version| replace:: `eBook <https://github.com/LoyolaChicagoCS/syshandbook/releases/download/%(version)s/LoyolaUniversityChicagoCS-SoftwareSystemsLaboratory.epub>`__
+.. |epub-version| replace:: `eBook <https://github.com/LoyolaChicagoCS/syshandbook/releases/download/%(version)s/SoftwareSystemsLaboratory.epub>`__
 
 """ % vars()
