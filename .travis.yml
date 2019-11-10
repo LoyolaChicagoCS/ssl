@@ -25,15 +25,15 @@ script:
 - BOOK_VERSION=$(./get-current-version.sh) make latexpdf
 - BOOK_VERSION=$(./get-current-version.sh) make epub
 after_success:
-- travis-sphinx deploy --cname systemshandbook.cs.luc.edu
+- travis-sphinx deploy --cname ssl.cs.luc.edu
 deploy:
   provider: releases
   api_key: $GH_TOKEN
   file_glob: true
   file:
-    - ./**/LoyolaUniversityChicagoCS-SystemsHandbook.pdf
-    - ./**/LoyolaUniversityChicagoCS-SystemsHandbook.epub
+    - ./**/LoyolaUniversityChicagoCS-SoftwareSystemsLaboratory.pdf
+    - ./**/LoyolaUniversityChicagoCS-SoftwareSystemsLaboratory.epub
   skip_cleanup: true
   on:
-    repo: LoyolaChicagoCS/syshandbook
+    repo: LoyolaChicagoCS/ssl
     tags: true
