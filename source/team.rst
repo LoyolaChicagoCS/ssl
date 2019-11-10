@@ -44,7 +44,7 @@ Faculty
 Collaborators
 ---------------
 
-.. todo:: Coming soon.
+.. todo:: Will add Purdue, Argonne, U Alabama, and LSU collaborators shortly. Can get this from George's pages.
 
 Students
 ---------
