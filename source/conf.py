@@ -266,6 +266,7 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
+epub_basename = u'SoftwareSystemsLaboratory'
 epub_title = u'Software and Systems Laboratory'
 epub_author = u'Software and Systems Laboratory'
 epub_publisher = u'Software and Systems Laboratory'
