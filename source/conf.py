@@ -313,4 +313,10 @@ rst_epilog = """
 
 .. |George-K-Thiruvathukal| replace:: George K. Thiruvathukal
 
+.. |paper-reading-lead| replace:: Allan Miller
+
+.. |paper-reading-email| replace:: amiller17@luc.edu
+
+
+
 """ % vars()

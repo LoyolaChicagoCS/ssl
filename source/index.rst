@@ -14,6 +14,7 @@ To join the research group, you must submit an application. Current team members
    team
    projects
    apply
+   reading
 
 
 GitHub
