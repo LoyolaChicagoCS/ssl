@@ -1,22 +1,19 @@
 Team
 ======
 
+The Software and Systems Laboratory includes a *diverse* team of interdisicplinary faculty, students, collaborators, and alumni, all united by a strong interest in software engineering and computer systems. Want to join us? :doc:`apply` today!
+
 Faculty
 --------
 
 
 .. list-table::
-   :header-rows: 1
    :widths: 10 20 10 10
-
-   * - Photo
-     - Name/Affiliation
-     - Role
-     - Projects
 
    * - .. image:: images/george.jpg
      - `George K. Thiruvathukal <https://thiruvathukal.com>`__, Loyola University Chicago, Computer Science Department
-     - Director
+     - | **Director**
+       | Faculty Advisor
      - :doc:`metrics_dashboard`, :doc:`test_effectiveness`, :doc:`shape_analysis`, :doc:`lute`, :doc:`voltkey`
 
    * - .. image:: images/dave.jpg
@@ -53,13 +50,7 @@ Students
 ---------
 
 .. list-table::
-   :header-rows: 1
    :widths: 10 20 10 10
-
-   * - Photo
-     - Name/Web Site
-     - Role
-     - Projects
 
    * - .. image:: images/morgan.jpg
      - Morgan Richardson
@@ -73,7 +64,8 @@ Students
 
    * - .. image:: images/jack.jpeg
      - Jack West
-     - Backend Developer, Systems
+     - | Backend Developer, Systems
+       | **SSL Team Co-Leader**
      - :doc:`zettelgeist`, :doc:`voltkey`
 
    * - .. image:: images/jonathan.jpg
@@ -93,7 +85,8 @@ Students
 
    * - .. image:: images/allan.jpeg
      - Allan Miller
-     - Software Engineering
+     - | Software Engineering
+       | **SSL Team Co-Leader**
      - :doc:`metrics_dashboard`
 
 
@@ -101,13 +94,7 @@ Alumni
 --------
 
 .. list-table::
-   :header-rows: 1
    :widths: 10 20 10 10
-
-   * - Photo
-     - Name/Web Site
-     - Role
-     - Projects
 
    * - .. image:: images/riley.jpg
      - Riley Clarkson
