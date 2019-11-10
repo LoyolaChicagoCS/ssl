@@ -310,4 +310,6 @@ rst_epilog = """
 
 .. |epub-version| replace:: `eBook <https://github.com/LoyolaChicagoCS/syshandbook/releases/download/%(version)s/SoftwareSystemsLaboratory.epub>`__
 
+.. |George-K-Thiruvathukal| replace:: George K. Thiruvathukal
+
 """ % vars()
