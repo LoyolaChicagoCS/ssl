@@ -9,6 +9,7 @@ To join the research group, you must submit an application. Current team members
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
 
    team
    projects
