@@ -34,7 +34,7 @@ The deadline to apply varies by semester: Fall, Spring, and Summer.
      - June 1
 
    * - Spring
-     - November 15
+     - November 22
      - December 15
  
    * - Summer
