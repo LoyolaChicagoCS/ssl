@@ -108,7 +108,7 @@ Researchers
        |
        | *Projects:* :doc:`metrics_dashboard`
 
-   * - Coming soon
+   * - .. image:: images/martin.jpg
      - | Martin Zugschwert, Software Developer
        |
        | *Projects:* :doc:`metrics_dashboard`
