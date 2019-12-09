@@ -1,12 +1,12 @@
 Team
 ======
 
-The Software and Systems Laboratory includes a *diverse* team of interdisicplinary faculty, students, collaborators, and alumni, all united by a strong interest in software engineering and computer systems. Want to join us? :doc:`apply` today!
+The Software and Systems Laboratory is led by a core group of computer science and interdisciplinary faculty with projects that span software engineering and computer systems.
 
-.. todo:: Add social handles, web sites.
+Want to join us? :doc:`apply` today!
 
-Director
----------
+Core Faculty 
+-------------
 
 .. list-table::
    :widths: 10 25
@@ -19,21 +19,6 @@ Director
        | *Areas*: parallel/distributed computing, software engineering, programming languages and systems, history of computing, computational and data science, computing education, and ethical/legal/social issues in computing, cyber-physical systems
 
        | *Projects*: :doc:`metrics_dashboard`, :doc:`test_effectiveness`, :doc:`shape_analysis`, :doc:`lute`, :doc:`voltkey`
-
-
-Faculty 
---------
-
-.. list-table::
-   :widths: 10 25
-
-   * - .. image:: images/dave.jpg
-     - | `David B. Dennis <https://www.luc.edu/history/people/facultyandstaffdirectory/facultybytheme/politics/dennisdavidb.shtml>`__
-       | Professor of History
-       | Loyola University Chicago
-       |
-       | *Areas*: historiographic methods, cultural history, research tools
-       | *Projects*: :doc:`zettelgeist`
 
    * - .. image:: images/neil.jpg
      - | `Neil Klingensmith <https://luc.edu>`__
@@ -51,6 +36,21 @@ Faculty
        | *Areas*: programming languages, computer systems, software engineering
        | *Projects*: :doc:`metrics_dashboard`, :doc:`test_effectiveness`
 
+   * - .. image:: images/david.jpg
+     - | `David Wetzel <http://davidbrookewetzel.net/>`__
+       | Instructor of Computer Science and Fine/Performing Arts
+       | Loyola University Chicago
+       |
+       | *Areas*: digital music, electronic music
+       | *Projects*: :doc:`lute`
+
+
+Affiliated Faculty
+---------------------
+
+.. list-table::
+   :widths: 10 25
+
    * - .. image:: images/gregory.jpg
      - | `Gregory J. Matthews <https://luc.edu>`__
        | Assistant Professor of Mathematics/Statistics
@@ -60,13 +60,13 @@ Faculty
        | *Areas*: data science, statistical methods
        | *Projects*: :doc:`shape_analysis`
 
-   * - .. image:: images/david.jpg
-     - | `David Wetzel <http://davidbrookewetzel.net/>`__
-       | Instructor of Computer Science and Fine/Performing Arts
+   * - .. image:: images/dave.jpg
+     - | `David B. Dennis <https://www.luc.edu/history/people/facultyandstaffdirectory/facultybytheme/politics/dennisdavidb.shtml>`__
+       | Professor of History
        | Loyola University Chicago
        |
-       | *Areas*: digital music, electronic music
-       | *Projects*: :doc:`lute`
+       | *Areas*: historiographic methods, cultural history, research tools
+       | *Projects*: :doc:`zettelgeist`
 
 
 Researchers
