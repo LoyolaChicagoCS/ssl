@@ -3,22 +3,13 @@ Team
 
 The Software and Systems Laboratory is led by a core group of computer science and interdisciplinary faculty with projects that span software engineering and computer systems.
 
-Want to join us? :doc:`apply` today!
+Want to join us? :doc:`apply` today! You may also directly inquire other core faculty and members of the research team to find out more about SSL and our projects but an application is required to be considered for membership. We work as peers when it comes to day-to-day life in the research group. We rely upon our current members to grow the research group to include new researchers and faculty with synergistic interests. In the spirit of being true peers, we list all names in alphabetical order.
 
 Core Faculty 
 -------------
 
 .. list-table::
    :widths: 10 25
-
-   * - .. image:: images/george.jpg
-     - | `George K. Thiruvathukal <https://thiruvathukal.com>`__
-       | Professor of Computer Science
-       | Loyola University Chicago
-       |
-       | *Areas*: parallel/distributed computing, software engineering, programming languages and systems, history of computing, computational and data science, computing education, and ethical/legal/social issues in computing, cyber-physical systems
-
-       | *Projects*: :doc:`metrics_dashboard`, :doc:`test_effectiveness`, :doc:`shape_analysis`, :doc:`lute`, :doc:`voltkey`
 
    * - .. image:: images/neil.jpg
      - | `Neil Klingensmith <https://luc.edu>`__
@@ -36,6 +27,15 @@ Core Faculty
        | *Areas*: programming languages, computer systems, software engineering
        | *Projects*: :doc:`metrics_dashboard`, :doc:`test_effectiveness`
 
+   * - .. image:: images/george.jpg
+     - | `George K. Thiruvathukal <https://thiruvathukal.com>`__
+       | Professor of Computer Science
+       | Loyola University Chicago
+       |
+       | *Areas*: parallel/distributed computing, software engineering, programming languages and systems, history of computing, computational and data science, computing education, and ethical/legal/social issues in computing, cyber-physical systems
+
+       | *Projects*: :doc:`metrics_dashboard`, :doc:`test_effectiveness`, :doc:`shape_analysis`, :doc:`lute`, :doc:`voltkey`
+
    * - .. image:: images/david.jpg
      - | `David Wetzel <http://davidbrookewetzel.net/>`__
        | Instructor of Computer Science and Fine/Performing Arts
@@ -51,6 +51,14 @@ Affiliated Faculty
 .. list-table::
    :widths: 10 25
 
+   * - .. image:: images/dave.jpg
+     - | `David B. Dennis <https://www.luc.edu/history/people/facultyandstaffdirectory/facultybytheme/politics/dennisdavidb.shtml>`__
+       | Professor of History
+       | Loyola University Chicago
+       |
+       | *Areas*: historiographic methods, cultural history, research tools
+       | *Projects*: :doc:`zettelgeist`
+
    * - .. image:: images/gregory.jpg
      - | `Gregory J. Matthews <https://luc.edu>`__
        | Assistant Professor of Mathematics/Statistics
@@ -60,53 +68,43 @@ Affiliated Faculty
        | *Areas*: data science, statistical methods
        | *Projects*: :doc:`shape_analysis`
 
-   * - .. image:: images/dave.jpg
-     - | `David B. Dennis <https://www.luc.edu/history/people/facultyandstaffdirectory/facultybytheme/politics/dennisdavidb.shtml>`__
-       | Professor of History
-       | Loyola University Chicago
-       |
-       | *Areas*: historiographic methods, cultural history, research tools
-       | *Projects*: :doc:`zettelgeist`
-
-
 Researchers
 ------------
 .. list-table::
    :widths: 10 25
-
-   * - .. image:: images/morgan.jpg
-     - | Morgan Richardson, Front-end Developer
-       |
-       | *Projects*: :doc:`zettelgeist`
-
-   * - .. image:: images/sean.jpeg
-     - | Sean Higgins, Machine Learning
-       |
-       | *Projects*: :doc:`zettelgeist`
-
-   * - .. image:: images/jack.jpeg
-     - | Jack West, **Co-Research Lead** and Software Developer
-       |
-       | *Projects:* :doc:`zettelgeist`, :doc:`voltkey`
-
-   * - .. image:: images/jonathan.jpg
-     - | Jonathan Warkentin, Software Developer
-       |
-       | *Projects*: :doc:`zettelgeist`, :doc:`shape_analysis`
 
    * - .. image:: images/emmanuel.jpg
      - | Emmanuel Amobi, Software Developer
        |
        | *Projects:* :doc:`zettelgeist`, :doc:`metrics_dashboard`
 
+   * - .. image:: images/sean.jpeg
+     - | Sean Higgins, Machine Learning
+       |
+       | *Projects*: :doc:`zettelgeist`
+
    * - .. image:: images/linette.jpeg
      - | Linette Maliakal, Software Developer
        | *Projects*: :doc:`zettelgeist`
 
    * - .. image:: images/allan.jpeg
-     - | Allan Miller, **Co-Research Lead** and Software Developer/Engineering
+     - | Allan Miller, Software Developer/Engineering
        |
        | *Projects:* :doc:`metrics_dashboard`
+   * - .. image:: images/morgan.jpg
+     - | Morgan Richardson, Front-end Developer
+       |
+       | *Projects*: :doc:`zettelgeist`
+
+   * - .. image:: images/jonathan.jpg
+     - | Jonathan Warkentin, Software Developer
+       |
+       | *Projects*: :doc:`zettelgeist`, :doc:`shape_analysis`
+
+   * - .. image:: images/jack.jpeg
+     - | Jack West, Software Developer/Engineering
+       |
+       | *Projects:* :doc:`zettelgeist`, :doc:`voltkey`
 
    * - .. image:: images/martin.jpg
      - | Martin Zugschwert, Software Developer
