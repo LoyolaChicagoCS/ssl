@@ -137,7 +137,7 @@ Undergraduate/Graduate Researchers
 Undergraduate/Graduate Trainees
 --------------------------------
 
-TBD
+- TBD
 
 Alumni
 --------
@@ -228,4 +228,9 @@ Collaborations (Outside PhD Students)
 Collaborations (Other)
 ------------------------
 
-TBD
+- TBD
+
+Not Listed Here?
+-----------------
+
+.. note:: If you're a past collaborator with the SSL or one of Prof. Thiruvathukal's earlier research groups/projects and *want to be listed here*, please e-mail gkt@cs.luc.edu to be added. Just because your name is not shown here doesn't mean that your past participation is not valued, but we'd like your permission before listing you.
