@@ -17,6 +17,7 @@ The Software and Systems laboratory engages in traditional and applied research 
    shape_analysis
    voltkey
    zettelgeist
+   NLC
 
 Publications
 -------------
@@ -88,4 +89,6 @@ Incubation Projects are either in early stages or have temporarily taken a "back
 
    * - :doc:`hermes`
      - Hermes is a hypervisor for MCU-based systems with real-time requirements. The goal of Hermes is to manage tradeoffs between performance and flexibility in software that runs on embedded systems. 
-
+  
+   * - :doc:`NLC`
+     - NLC is a mathematics project centered around writting algorithms for analyical mathematical concepts in a parraell way.
