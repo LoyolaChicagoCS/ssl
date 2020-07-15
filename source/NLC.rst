@@ -13,6 +13,8 @@ Faculty Advisor
 
 Brian Sequin
 
+George K. Thiruvathukal
+
 
 Github Repo
 ------------------
