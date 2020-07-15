@@ -18,6 +18,7 @@ The Software and Systems laboratory engages in traditional and applied research 
    voltkey
    zettelgeist
    NLC
+   FLIC
 
 Publications
 -------------
@@ -92,3 +93,6 @@ Incubation Projects are either in early stages or have temporarily taken a "back
   
    * - :doc:`NLC`
      - NLC is a mathematics project centered around writting algorithms for analyical mathematical concepts in a parraell way.
+  
+   * - :doc:`FLIC`
+     - FLIC is a fog computing project which makes a fog topology more effecient with it's bytes in and bytes out.
