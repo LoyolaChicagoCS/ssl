@@ -11,13 +11,9 @@ The laboratory's focus is on researching computer systems and applied software e
 
 Methodology
 -----------
-We foster innovation by encouraging experimentation and collaboration with a strong emphasis on openness. To uphold this commitment, we enforce open-source software development, open access and dissemination of research software, and by creating reproducible results within all of our projects.
+We foster innovation by encouraging experimentation and collaboration with a strong emphasis on openness. To uphold this commitment, we enforce `open-source software development <https://github.com/SoftwareSystemsLaboratory>`_, open access and dissemination of research software, and by creating reproducible results within all of our projects.
 
-|SSL| embraces the notion that diversity drives creativity and innovation. Following the principles of the IEEE Special Technical Community on Broadening Participation, all are welcome, regardless of gender, race, ethnicity, socio-economic advantage, physical, mental, and cognitive ability, and LGBTQA+ status.
-
-.. todo::
-    * Link to the Organization GitHub page at open-source software development
-    * Link to the IEEE Special Technical Community on Broadening Participation
+|SSL| embraces the notion that diversity drives creativity and innovation. Following the principles of the `IEEE Special Technical Community on Broadening Participation <http://stcbp.org/>`_, all are welcome, regardless of gender, race, ethnicity, socio-economic advantage, physical, mental, and cognitive ability, and LGBTQA+ status.
 
 Apply
 -----
