@@ -33,6 +33,14 @@ Other Formats
 -------------
 This site is also available in |pdf-version| or |epub-version| formats.
 
+.. _Computer Science Department at Loyola University Chicago: https://www.luc.edu/cs
+
+.. _open-source software development: https://github.com/SoftwareSystemsLaboratory
+
+.. _IEEE Special Technical Community on Broadening Participation: http://stcbp.org/
+
+.. _independent study: https://academics.cs.luc.edu/courses/comp398.html
+
 .. toctree::
     :maxdepth: 2
     :name: roottoc
@@ -43,11 +51,3 @@ This site is also available in |pdf-version| or |epub-version| formats.
     Open CS Initiative <open-cs-initiative/index>
     Reading Group/ Podcast <open-cs-initiative/reading-group-podcast>
     Research <research/index>
-
-.. _Computer Science Department at Loyola University Chicago: https://www.luc.edu/cs
-
-.. _open-source software development: https://github.com/SoftwareSystemsLaboratory
-
-.. _IEEE Special Technical Community on Broadening Participation: http://stcbp.org/
-
-.. _independent study: https://academics.cs.luc.edu/courses/comp398.html
