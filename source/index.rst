@@ -42,7 +42,7 @@ This site is also available in |pdf-version| or |epub-version| formats.
 .. _independent study: https://academics.cs.luc.edu/courses/comp398.html
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :name: roottoc
     :hidden:
 

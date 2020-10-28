@@ -44,7 +44,7 @@ Below is a list of research projects that are currently being worked on by membe
 
 Collaborative Research
 ^^^^^^^^^^^^^^^^^^^^^^
-Below is a list of research projects that are currently being worked on by members of |SSL| and other research organizations in the United States and Abroad.
+Below is a list of research projects that are currently being worked on by members of |SSL| and other research organizations in the United States and abroad.
 
 .. list-table::
     :widths: 50 50
@@ -102,14 +102,3 @@ Publications prior to the formation of the |SSL| Collection (2019) can be found 
 
 .. _SSL Collecton: https://ecommons.luc.edu/ssl_pubs
 .. _Computer Science Collection: https://ecommons.luc.edu/cs_facpubs
-
-.. toctree::
-    :maxdepth: 2
-    :name: researchtoc
-    :hidden:
-
-    Collaborative Research <collaborative/index>
-    Completed Research <completed/index>
-    Depricated Research <depricated/index>
-    Incubation Research <incubation/index>
-    In Progress Research <in-progress/index>
