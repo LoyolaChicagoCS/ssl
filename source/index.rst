@@ -34,13 +34,14 @@ Other Formats
 This site is also available in |pdf-version| or |epub-version| formats.
 
 .. toctree::
-   :maxdepth: 1
-   :hidden:
+    :maxdepth: 2
+    :hidden:
 
-   Apply <apply>
-   Members <team/index>
-   Open-Edu Initiative <open-cs-initiative/index>
-   Projects <projects/index>
+    Apply <apply>
+    Members <team/index>
+    Open CS Initiative <open-cs-initiative/index>
+    Projects <projects/index>
+    Reading Group/ Podcast <open-cs-initiative/reading-group-podcast>
 
 .. _Computer Science Department at Loyola University Chicago: https://www.luc.edu/cs
 
