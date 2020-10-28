@@ -6,6 +6,18 @@ Application Process
 
 We consider applicants for SSL on an ongoing basis.
 
+What YOU Need to Do
+-------------------
+
+What WE Will Do
+---------------
+
+Notification of Decision
+------------------------
+
+Final Steps
+-----------
+
 Process
 -------
 
