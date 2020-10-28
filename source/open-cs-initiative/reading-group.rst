@@ -1,29 +1,49 @@
-Reading Group
-==============
+Reading Group/ Podcast
+======================
 
-The SSL embraces an old-fashioned concept of *reading papers*. Also, we are hoping to make a *podcast* around our discussions of papers we are reading (starting 2020). Participating in the reading group requires the willingness to read the paper *prior* to attend the discussion.
+.. todo::
+    Come up with a better name
 
-Schedule
-----------
+Introduction
+------------
+The |SSL| Reading Group/ Podcast is an attempt at engaging college students to not only read and understand the latest research in the field of Computer Science, Software Engineering, Cyber Security, and Information Technology, but also a chance for them to learn how to properly write research papers and associated documents. Furthermore, the podcast aspect of this project is meant to answer a growing problem in the Computer Science community: a lack of accessible discussions that anyone could listen in on.
 
-The Reading Group typically meets from 1-2 pm on Fridays in Doyle Center 214, which is available via Google Calendar:
+Project Abstract
+----------------
+The |SSL| Reading Group/ Podcast is an attempt at educating college researchers on how to properly write and read research material as well as meet the growing demand for an open and accessible discussion on Computer Science related topics. The Reading Group/ Podcast is a weekly event that is held internally at |SSL| but all notes and recordings are made public to the community via YouTube and associated platforms. The material covered by the group will typically by research papers published in esteemed journals as well as the occasional book or news in the realm(s) of Computer Science, Software Engineering, Cyber Security, and Information Technology. The end goal of this social experiement is to develop individuals fluent in the practices of as well as prolific  and knowledgable in the Computer Science research community.
 
-.. raw:: html
+Features
+--------
+* The |SSL| Reading Group/ Podcast is ran by a fluid, interdisciplanary group of individuals focussed on the Computer Science research.
 
-   <iframe src="https://calendar.google.com/calendar/embed?height=480&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FChicago&amp;src=MnE0MTA4b25mM3YzaDliNTQ1dGwxY2MxbmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23A87070&amp;showTabs=1&amp;mode=AGENDA" style="border:solid 1px #777" width="640" height="480" frameborder="0" scrolling="no"></iframe>
-   <p/>
+* All research read and discussed will be acredited to the authors of said research. Furthermore, attempts will be made to try and get the researchers of such material to join in on the discussion of thier work(s) in order to properly further the discussion about their research.
+
+* Notes will be taken during these meetings and posted publicly online. Furthermore, as the intent is to have this be a podcast, an audio recording will be made available online. If the meeting is conducted over the internet, a video recording will also be uploaded as well.
+
+    .. note::
+        If a video recording is done, it is recommended that the participants have a digital copy of the text pulled up on thier computers in case they need to share their screens with other participants.
+
+* Meetings will be held weekly on TBD. The schedule of what texts will be read and when can be found at :ref:`reading-schedule`.
+
+    .. todo::
+        Come up with a date when to meet.
+
+* Material can be suggested via a TBD.
+
+    .. todo::
+        Come up with a way that individuals can suggest material to read and discuss.
 
 
-Reading Ideas?
----------------
+.. _reading-schedule:
 
-If you wish to suggest a paper, please e-mail the following to |paper-reading-lead| at |paper-reading-email|:
+Reading Schedule
+----------------
 
-- Author(s) of Paper
-- Title of Paper
-- Year Published
-- Link to PDF or DOI (e.g. ACM or IEEE digital library or similar)
+.. todo::
+    Create a reading schedule that is hosted in Microsoft Calendar or Google Calendar.
 
-.. todo:: Add Google Form for suggesting readings?
+Suggesting Material
+-------------------
 
-Please note that we will not read papers that we cannot get via direct PDF or the DOI. Our group is strongly committed to open access, open data, and open source.
+.. todo::
+    Create a process to suggest reading material.

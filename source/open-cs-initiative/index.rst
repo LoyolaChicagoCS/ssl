@@ -11,7 +11,7 @@ The Open CS Initiative is an attempt to create a database of freely and legally 
 
 Features
 --------
-The Open CS Initiative is two parts at its core:
+The Open CS Initiative consists of two parts:
 
 1. An internal reading group/ podcast hosted by members of SSL.
 2. A searchable static website that contains all of the links aggregated by members of the Computer Science community.
