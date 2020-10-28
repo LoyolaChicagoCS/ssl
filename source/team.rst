@@ -3,7 +3,7 @@ Team
 
 The Software and Systems Laboratory is led by a core group of computer science and interdisciplinary faculty with projects that span software engineering and computer systems.
 
-Want to join us? :doc:`apply` today! You may also directly inquire other core faculty and members of the research team to find out more about SSL and our projects but an application is required to be considered for membership. We work as peers when it comes to day-to-day life in the research group. We rely upon our current members to grow the research group to include new researchers and faculty with synergistic interests. In the spirit of being true peers, we list all names in alphabetical order.
+Want to join us? :doc:`apply` today! You may also directly inquire about other core faculty and members of the research team to find out more about SSL and our projects but an application is required to be considered for membership. We work as peers when it comes to day-to-day life in the research group. We rely upon our current members to grow the research group to include new researchers and faculty with synergistic interests. In the spirit of being true peers, we list all names in alphabetical order.
 
 Faculty Leadership
 --------------------
@@ -147,14 +147,14 @@ Alumni
 
    * - .. image:: images/riley.jpg
      - | Riley Clarkson, Software Developer
-       | 
+       |
        | *Projects:* :doc:`zettelgeist`
 
    * - .. image:: images/shilpika.jpeg
      - | Shilpika, Software Developer and Researcher
-       | 
+       |
        | *Projects*: :doc:`metrics_dashboard`
-  
+
    * - .. image:: images/zac.jpeg
      - | Zac Gallagher, Software Developer
        |
@@ -211,7 +211,7 @@ Collaborations (Argonne National Laboratory)
        | Argonne National Laboratory
        | Computer Scientist
 
-Collaborations (Outside PhD Students)
+Collaborations (Outside Ph.D. Students)
 ----------------------------------------
 
 .. list-table::

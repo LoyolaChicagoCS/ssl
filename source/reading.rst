@@ -1,12 +1,12 @@
 Reading Group
 ==============
 
-The SSL embraces an old-fashioned concept of *reading papers*. In addition, we are hoping to make a *podcast* around our discussions of papers we are reading (starting 2020). Participating in the reading group requires the willingness to read the paper *prior* to attending the discussion.
+The SSL embraces an old-fashioned concept of *reading papers*. Also, we are hoping to make a *podcast* around our discussions of papers we are reading (starting 2020). Participating in the reading group requires the willingness to read the paper *prior* to attend the discussion.
 
 Schedule
 ----------
 
-The Reading Group typically meets from 1-2pm on Fridays in Doyle Center 214, which is available via Google Calendar:
+The Reading Group typically meets from 1-2 pm on Fridays in Doyle Center 214, which is available via Google Calendar:
 
 .. raw:: html
 
@@ -27,4 +27,3 @@ If you wish to suggest a paper, please e-mail the following to |paper-reading-le
 .. todo:: Add Google Form for suggesting readings?
 
 Please note that we will not read papers that we cannot get via direct PDF or the DOI. Our group is strongly committed to open access, open data, and open source.
-

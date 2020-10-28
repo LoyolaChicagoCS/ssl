@@ -10,11 +10,11 @@ Process
 
 - Upon completion of the challenge, you will meet with existing members of the team.
 
-- The interview involves a good deal of back and forth, and you may be asked to make an enhancement (with a short timeframe) to your code to assess your ability to deal with changing requirements.
+- The interview involves a good deal of back and forth, and you may be asked to enhance (with a short timeframe) your code to assess your ability to deal with changing requirements.
 
-- Upon completion of the interview, you will meet with the professors and team leaders to discuss next steps.
+- Upon completion of the interview, you will meet with the professors and team leaders to discuss the next steps.
 
-- Please do not enroll in independent study until you have completed the screening process.
+- Please do not enroll in an independent study until you have completed the screening process.
 
 Deadlines
 -----------
@@ -36,10 +36,9 @@ The deadline to apply varies by semester: Fall, Spring, and Summer.
    * - Spring
      - November 22
      - December 15
- 
+
    * - Summer
      - May 1
      - June 1
 
 To apply, please fill in this `Google Form <https://docs.google.com/forms/d/e/1FAIpQLSdwWsOnLZZtBTeDjk9MR_Cx-tUk0vOnPvq2EcnEL18jGFU71w/viewform>`__.
-

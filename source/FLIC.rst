@@ -1,9 +1,9 @@
 FLIC: Fog Linked Internet of Things Cache
 =========================================
 
-FLIC is a project in the field of fog computing. 
+FLIC is a project in the field of fog computing.
 Fog computing is an exciting new area of research in computer science.
-Fog computation began as an off-shoot of cloud computing but in the past five years has started to become it's own thing.
+Fog computation began as an off-shoot of cloud computing but in the past five years has started to become its own thing.
 FLIC approaches the motivation of, "What if we take the good from fog computing and combine it with the good from cloud computing?"
 FLIC acts as a shared cache within a fog system.
 With FLIC we were able to save an exponential amount of data leaving fog networks.
@@ -38,4 +38,4 @@ Presentations
 Publications
 --------------
 
-- Jack West, Neil Klingensmith, and George K. Thiruvathukal, *FLIC: A Distributed Fog Cache for City-Scale Applications, Proceedings of 2020 IEEE International Conference on Fog Computing*, https://ecommons.luc.edu/cs_facpubs/243/ 
+- Jack West, Neil Klingensmith, and George K. Thiruvathukal, *FLIC: A Distributed Fog Cache for City-Scale Applications, Proceedings of 2020 IEEE International Conference on Fog Computing*, https://ecommons.luc.edu/cs_facpubs/243/

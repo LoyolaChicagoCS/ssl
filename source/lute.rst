@@ -1,7 +1,7 @@
 Laptop Ensemble and Software
 ==============================
 
-We develop software that enables and complements our performances. The software is free and open source and can be used in other laptop ensemble performances.
+We develop software that enables and complements our performances. The software is free and open-source and can be used in other laptop ensemble performances.
 
 Opportunities
 ---------------
@@ -24,4 +24,3 @@ Repositories
 - `In C Performance App <https://github.com/loyola-university-tech-ensemble/InC>`__
 
 - `In C Score Progress App <https://github.com/loyola-university-tech-ensemble/in-c-score-progress>`__
-
