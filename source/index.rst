@@ -1,11 +1,51 @@
 Welcome to SSL
-================
+==============
 
-Hi there! Thank you for checking out the Software Systems Laboratory website. We’re based in the Computer Science Department at Loyola University Chicago. SSL researches computer systems and applied software engineering. We foster innovation by encouraging experimentation and collaboration with a strong emphasis on openness, including open-source software development, open access dissemination of research software, and reproducible results. We are an interdisciplinary group with faculty and student interests in computer science, software engineering, information technology, cybersecurity, and engineering. We are a STEAM (Science, Technology, Engineering, Arts, and Mathematics) group, which means that we align ourselves not only with the sciences and mathematics but also with arts and humanities disciplines.
+Hello World
+-----------
+Thank you for checking out the Software and Systems Laboratory (SSL) website. We are a research laboratory based in the Computer Science Department at Loyola University Chicago.
 
-SSL embraces the notion that diversity drives creativity and innovation. Following the principles of the IEEE Special Technical Community on Broadening Participation, all are welcome, regardless of gender, race, ethnicity, socio-economic advantage, physical, mental, and cognitive ability, and LGBTQA+ status. Whilst we are based at Loyola University Chicago, we welcome anyone interested in using emerging technologies and software engineering to solve problems.
+Our members form an interdisciplinary group with faculty and student interests in computer science, software engineering, information technology, cybersecurity, and engineering.
+
+The laboratory's focus is on researching computer systems and applied software engineering to solve STEAM releated problems.
+
+.. todo::
+    * Add link to Loyola University Chicago
+    * Add abbreviation for Loyola University Chicago
+    * Add link to the Computer Science Department
+    * Add abbreviation for STEAM
+    * Add link to the team page at the word members
+    * Add link to the projects page at the words faculty and student interests
+
+Methodology
+-----------
+We foster innovation by encouraging experimentation and collaboration with a strong emphasis on openness. To uphold this commitment, we enforce open-source software development, open access and dissemination of research software, and by creating reproducible results within all of our projects.
+
+|SSL| embraces the notion that diversity drives creativity and innovation. Following the principles of the IEEE Special Technical Community on Broadening Participation, all are welcome, regardless of gender, race, ethnicity, socio-economic advantage, physical, mental, and cognitive ability, and LGBTQA+ status.
+
+.. todo::
+    * Link to the Organization GitHub page at open-source software development
+    * Link to the IEEE Special Technical Community on Broadening Participation
+
+Apply
+-----
+While we are based at Loyola University Chicago, we welcome anyone interested in using emerging technologies and software engineering to solve problems.
 
 To join the research group, you must apply. Current team members interview prospective team members, followed by an interview with the director, and affiliated faculty. Decisions are based on previous development experience, the ability to work in a team setting, and a statement of purpose. All Loyola University Chicago participants are eligible to apply for independent study. Regardless of whether one earns credit or non-credit, we expect participants to make at least a 6-month commitment to remain inactive status within the research group.
+
+.. todo::
+    * Change the application requirements
+    * Add a link to the application at the word apply
+    * Add a link to the LUC undergraduate independent study page at the words independent study
+
+Website Issues
+--------------
+See https://github.com/LoyolaChicagoCS/SSL for source code or to report issues for this website. Current |SSL| members should use the issue tracker or pull requests to suggest content changes.
+
+Download
+----------
+
+This site is also available in |pdf-version| or |epub-version| formats.
 
 .. toctree::
    :maxdepth: 2
@@ -17,18 +57,4 @@ To join the research group, you must apply. Current team members interview prosp
    team
 
 
-GitHub
---------
-
-See https://github.com/LoyolaChicagoCS/ssl for source code or to report issues. Current SSL members should use the issue tracker or pull requests to suggest content changes.
-
-
-Download
-----------
-
-This site is also available in |pdf-version| or |epub-version| formats.
-
-Index
--------
-
-* :ref:`genindex`
+.. |SSL| replace:: :abbr:`SSL (Software Systems Laboratory)`
