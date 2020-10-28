@@ -19,12 +19,11 @@ Apply
 -----
 While we are based at Loyola University Chicago, we welcome anyone interested in using emerging technologies and software engineering to solve problems.
 
-To join the research group, you must apply. Current team members interview prospective team members, followed by an interview with the director, and affiliated faculty. Decisions are based on previous development experience, the ability to work in a team setting, and a statement of purpose. All Loyola University Chicago participants are eligible to apply for independent study. Regardless of whether one earns credit or non-credit, we expect participants to make at least a 6-month commitment to remain inactive status within the research group.
+To join the research group, you must apply. Current team members interview prospective team members, followed by an interview with the director, and affiliated faculty. Decisions are based on previous development experience, the ability to work in a team setting, and a statement of purpose. All Loyola University Chicago participants are eligible to apply for `independent study <https://academics.cs.luc.edu/courses/comp398.html>`_. Regardless of whether one earns credit or non-credit, we expect participants to make at least a 6-month commitment to remain inactive status within the research group.
 
 .. todo::
     * Change the application requirements
     * Add a link to the application at the word apply
-    * Add a link to the LUC undergraduate independent study page at the words independent study
 
 Website Issues
 --------------
@@ -32,7 +31,6 @@ See https://github.com/LoyolaChicagoCS/SSL for source code or to report issues f
 
 Download
 ----------
-
 This site is also available in |pdf-version| or |epub-version| formats.
 
 .. toctree::
