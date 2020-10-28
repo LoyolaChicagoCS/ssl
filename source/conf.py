@@ -101,7 +101,7 @@ html_theme_options = {
 }
 # html_theme_path =
 # html_style =
-html_title = "%(project)s v%(%(release)s" % vars()
+html_title = "%(project)s v%(release)s" % vars()
 # html_short_title =
 # html_baseurl =
 # html_codeblock_linenos_styl =
