@@ -38,9 +38,9 @@ This site is also available in |pdf-version| or |epub-version| formats.
    :hidden:
 
    apply
-   projects
+   projects/index
    reading
-   team
+   team/index
 
 .. _Computer Science Department at Loyola University Chicago: https://www.luc.edu/cs
 
