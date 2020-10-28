@@ -1,5 +1,5 @@
-Research and Publications
-###########################
+Research, and Publications
+====================================
 
 Overview
 ----------

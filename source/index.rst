@@ -40,8 +40,8 @@ This site is also available in |pdf-version| or |epub-version| formats.
     Apply <apply>
     Members <team/index>
     Open CS Initiative <open-cs-initiative/index>
-    Projects <projects/index>
     Reading Group/ Podcast <open-cs-initiative/reading-group-podcast>
+    Research <research/index>
 
 .. _Computer Science Department at Loyola University Chicago: https://www.luc.edu/cs
 
