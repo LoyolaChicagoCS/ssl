@@ -35,6 +35,7 @@ This site is also available in |pdf-version| or |epub-version| formats.
 
 .. toctree::
     :maxdepth: 2
+    :name: roottoc
     :hidden:
 
     Apply <apply>
