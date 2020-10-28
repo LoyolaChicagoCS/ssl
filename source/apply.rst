@@ -1,10 +1,10 @@
 Apply to Join SSL
-===================
+==================
 
 We consider applicants for SSL on an ongoing basis.
 
 Process
----------
+-------
 
 - You are given a problem to work on for two weeks, related to projects selected in the application form.
 
@@ -17,7 +17,7 @@ Process
 - Please do not enroll in an independent study until you have completed the screening process.
 
 Deadlines
------------
+---------
 
 The deadline to apply varies by semester: Fall, Spring, and Summer.
 
@@ -41,4 +41,7 @@ The deadline to apply varies by semester: Fall, Spring, and Summer.
      - May 1
      - June 1
 
-To apply, please fill in this `Google Form <https://docs.google.com/forms/d/e/1FAIpQLSdwWsOnLZZtBTeDjk9MR_Cx-tUk0vOnPvq2EcnEL18jGFU71w/viewform>`__.
+To apply, please fill in this `Google Form <https://docs.google.com/forms/d/e/1FAIpQLSdwWsOnLZZtBTeDjk9MR_Cx-tUk0vOnPvq2EcnEL18jGFU71w/viewform>`_.
+
+.. todo::
+    Update this process

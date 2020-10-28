@@ -11,10 +11,10 @@ To join the research group, you must apply. Current team members interview prosp
    :maxdepth: 2
    :hidden:
 
-   team
-   projects
    apply
+   projects
    reading
+   team
 
 
 GitHub

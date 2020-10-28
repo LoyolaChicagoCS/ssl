@@ -1,5 +1,8 @@
 Metrics Dashboard
-===================
+=================
+
+Project Abstract
+----------------
 
 There is an emerging consensus in the scientific software community that progress in scientific research is dependent on the quality and accessibility of software at all levels.
 Continued progress depends on embracing the best traditional--and emergent--practices in software engineering, especially agile practices that intersect with the more formal tradition of software engineering.
