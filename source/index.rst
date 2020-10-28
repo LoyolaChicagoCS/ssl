@@ -39,7 +39,7 @@ This site is also available in |pdf-version| or |epub-version| formats.
 
    Apply <apply>
    Members <team/index>
-   Open-Edu Initiative <open-edu-initiative/index>
+   Open-Edu Initiative <open-cs-initiative/index>
    Projects <projects/index>
 
 .. _Computer Science Department at Loyola University Chicago: https://www.luc.edu/cs
