@@ -1,7 +1,6 @@
-Core Projects
---------------
-
-Core Projects are SSL projecgts that represent active research and development.
+In Progress Research
+^^^^^^^^^^^^^^^^^^^^
+Below is a list of research projects that are currently being worked on by members of |SSL|.
 
 .. list-table::
    :widths: 10 20

@@ -1,7 +1,6 @@
-Collaborative Projects
------------------------
-
-Collaborative Projects are efforts with one or more *external* institutions.
+Collaborative Research
+^^^^^^^^^^^^^^^^^^^^^^
+Below is a list of research projects that are currently being worked on by members of |SSL| and other research organizations at `Loyola University Chicago <https://www.luc.edu>`_ and abroad.
 
 .. list-table::
    :widths: 10 20
