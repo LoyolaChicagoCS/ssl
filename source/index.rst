@@ -3,19 +3,11 @@ Welcome to SSL
 
 Hello World
 -----------
-Thank you for checking out the Software and Systems Laboratory (SSL) website. We are a research laboratory based in the Computer Science Department at Loyola University Chicago.
+Thank you for checking out the Software and Systems Laboratory (SSL) website. We are a research laboratory based in the `Computer Science Department at Loyola University Chicago <https://www.luc.edu/cs>`_.
 
-Our members form an interdisciplinary group with faculty and student interests in computer science, software engineering, information technology, cybersecurity, and engineering.
+Our :doc:`team <team/index>` form an interdisciplinary group with :doc:`faculty and student interests <projects/index>` in computer science, software engineering, information technology, cybersecurity, and engineering.
 
-The laboratory's focus is on researching computer systems and applied software engineering to solve STEAM releated problems.
-
-.. todo::
-    * Add link to Loyola University Chicago
-    * Add abbreviation for Loyola University Chicago
-    * Add link to the Computer Science Department
-    * Add abbreviation for STEAM
-    * Add link to the team page at the word members
-    * Add link to the projects page at the words faculty and student interests
+The laboratory's focus is on researching computer systems and applied software engineering to solve |STEAM| releated problems.
 
 Methodology
 -----------
@@ -58,3 +50,4 @@ This site is also available in |pdf-version| or |epub-version| formats.
 
 
 .. |SSL| replace:: :abbr:`SSL (Software Systems Laboratory)`
+.. |STEAM| replace:: :abbr:`STEAM (Science, Technology, Engineering, Arts, and Mathematics)`
