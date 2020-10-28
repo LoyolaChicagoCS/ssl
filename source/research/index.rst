@@ -108,8 +108,8 @@ Publications prior to the formation of the |SSL| Collection (2019) can be found 
     :name: researchtoc
     :hidden:
 
-    Completed Research
-    In Progress Research
-    Incubation Research
-    Collaborative Research
-    Depricated Research
+    Collaborative Research <collaborative/index>
+    Completed Research <completed/index>
+    Depricated Research <depricated/index>
+    Incubation Research <incubation/index>
+    In Progress Research <in-progress/index>
