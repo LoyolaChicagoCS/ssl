@@ -34,7 +34,7 @@ Other Formats
 This site is also available in |pdf-version| or |epub-version| formats.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :hidden:
 
    apply
