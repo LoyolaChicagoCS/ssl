@@ -1,5 +1,8 @@
-Apply to Join SSL
-==================
+Application Process
+===================
+
+.. todo::
+    Figure out what the new application process is
 
 We consider applicants for SSL on an ongoing basis.
 
@@ -42,6 +45,3 @@ The deadline to apply varies by semester: Fall, Spring, and Summer.
      - June 1
 
 To apply, please fill in this `Google Form <https://docs.google.com/forms/d/e/1FAIpQLSdwWsOnLZZtBTeDjk9MR_Cx-tUk0vOnPvq2EcnEL18jGFU71w/viewform>`_.
-
-.. todo::
-    Update this process
