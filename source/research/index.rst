@@ -42,23 +42,6 @@ Below is a list of research projects that are currently being worked on by membe
         - Insert table from in-progress/index.rst
         - Test
 
-Incubation Research
-^^^^^^^^^^^^^^^^^^^
-Below is a list of research projects that are currently not being worked on by members of |SSL| due to a lack of resources or because they are early in development.
-
-.. list-table::
-    :widths: 50 50
-    :header-rows: 1
-    :align: center
-
-    *
-        - Research Project Title
-        - Link
-
-    *
-        - Insert table from incubation/index.rst
-        - Test
-
 Collaborative Research
 ^^^^^^^^^^^^^^^^^^^^^^
 Below is a list of research projects that are currently being worked on by members of |SSL| and other research organizations in the United States and Abroad.
@@ -76,6 +59,22 @@ Below is a list of research projects that are currently being worked on by membe
         - Insert table from incubation/index.rst
         - Test
 
+Incubation Research
+^^^^^^^^^^^^^^^^^^^
+Below is a list of research projects that are currently not being worked on by members of |SSL| due to a lack of resources or because they are early in development.
+
+.. list-table::
+    :widths: 50 50
+    :header-rows: 1
+    :align: center
+
+    *
+        - Research Project Title
+        - Link
+
+    *
+        - Insert table from incubation/index.rst
+        - Test
 
 Depricated Research
 ^^^^^^^^^^^^^^^^^^^
@@ -103,3 +102,14 @@ Publications prior to the formation of the |SSL| Collection (2019) can be found 
 
 .. _SSL Collecton: https://ecommons.luc.edu/ssl_pubs
 .. _Computer Science Collection: https://ecommons.luc.edu/cs_facpubs
+
+.. toctree::
+    :maxdepth: 2
+    :name: researchtoc
+    :hidden:
+
+    Completed Research
+    In Progress Research
+    Incubation Research
+    Collaborative Research
+    Depricated Research
