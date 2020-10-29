@@ -10,3 +10,7 @@ Below is a list of research projects that are currently not being worked on by m
     *
         - Research Project Title
         - Research Description
+
+    *
+        - Temp Research Project Title
+        - Temp Research Description

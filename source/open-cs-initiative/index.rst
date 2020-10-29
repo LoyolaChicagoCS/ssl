@@ -41,11 +41,11 @@ Other Projects
 
     *
         - Free CS Education
-        - `Link <https://nicholassynovic.github.io/Free-CS-Education/>`_
+        - https://nicholassynovic.github.io/Free-CS-Education/
 
     *
         - Open Culture
-        - `Link <https://www.openculture.com/freeonlinecourses>`_
+        - https://www.openculture.com/freeonlinecourses
 
 .. note::
     Unlike other projects, the Open CS Initiative is a permanently ongoing project that is unlikely to change course during its existance. In other words, there is no finish line for this project.

@@ -1,3 +1,5 @@
+:orphan:
+
 Laptop Ensemble and Software
 ============================
 

@@ -10,11 +10,11 @@ Faculty Leadership
 
    * - Neil Klingensmith
      - *Co-Director*
-     - Hermes, VoltKey
+     - |Hermes|, |VoltKey|
 
    * - George K. Thiruvathukal
      - *Director*
-     - Metrics Dashboard, Testing Effectiveness, Shape Analysis, Laptop Ensemble and Software, VoltKey
+     - |Metrics Dashboard|, |TE|, |Shape Analysis|, |LUTE|, |VoltKey|
 
 Affiliated Faculty
 ^^^^^^^^^^^^^^^^^^
@@ -28,11 +28,11 @@ Affiliated Faculty
 
    * - Eric Chan-Tin
      - *Affiliated Faculty*
-     - autonomous vehicle security
+     - Autonomous Vehicle Security
 
    * - David B. Dennis
      - *Affiliated Faculty*
-     - ZettelGeist
+     - |ZettelGeist|
 
    * - Nicholas J. Hayward
      - *Affiliated Faculty*
@@ -44,12 +44,12 @@ Affiliated Faculty
 
    * - Konstantin Läufer
      - *Affiliated Faculty*
-     - Metrics Dashboard, Testing Effectiveness
+     - |Metrics Dashboard|, |TE|
 
    * - Gregory J. Matthews
      - *Affiliated Faculty*
-     - Shape Analysis
+     - |Shape Analysis|
 
    * - David Wetzel
      - *Affiliated Faculty*
-     - Laptop Ensemble and Software
+     - |LUTE|

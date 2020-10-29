@@ -1,3 +1,5 @@
+:orphan:
+
 VoltKey
 =========
 
@@ -14,4 +16,3 @@ Key Publications
 ------------------
 
 Kyuin Lee, Neil Klingensmith, Younghyun Kim, Suman Banerjee, *VoltKey: Continuous Secret Key Generation based on Power Line Noise for Zero-Involvement Pairing and Authentication*, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), September 2019
-

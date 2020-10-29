@@ -1,3 +1,5 @@
+:orphan:
+
 Non-Local Mean Curvature
 ========================
 

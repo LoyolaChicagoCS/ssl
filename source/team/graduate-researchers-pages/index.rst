@@ -10,4 +10,4 @@ Graduate Researchers
 
    * - Jack West
      - *Software Developer, Software Engineer*
-     - ZettelGeist, VoltKey
+     - |ZettelGeist|, |VoltKey|

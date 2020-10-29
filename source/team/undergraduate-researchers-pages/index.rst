@@ -10,4 +10,4 @@ Undergraduate Researchers
 
    * - Emmanuel Amobi
      - *Software Developer, Software Engineer*
-     - ZettelGeist, Metrics Dashboard
+     - |ZettelGeist|, |Metrics Dashboard|

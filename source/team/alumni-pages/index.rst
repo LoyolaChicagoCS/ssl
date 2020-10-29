@@ -10,36 +10,36 @@
 
    * - Riley Clarkson
      - *Software Developer*
-     - *Projects:* :doc:`zettelgeist`
+     - |ZettelGeist|
 
    * - Zac Gallagher
      - *Software Developer*
-     - :doc:`zettelgeist`
+     - |ZettelGeist|
 
    * - Sean Higgins
      - *Software Developer*
-     - :doc:`zettelgeist`
+     - |ZettelGeist|
 
    * - Linette Maliakal
      - *Software Developer*
-     - :doc:`zettelgeist`
+     - |ZettelGeist|
 
    * - Allan Miller
      - *Software Developer, Software Engineer*
-     - :doc:`metrics_dashboard`
+     - |Metrics Dashboard|
 
    * - Morgan Richardson
      - *Front-End Developer*
-     - :doc:`zettelgeist`
+     - |ZettelGeist|
 
    * - Shilpika
      - *Software Developer*
-     - :doc:`metrics_dashboard`
+     - |Metrics Dashboard|
 
    * - Jonathan Warkentin
      - *Software Developer*
-     - :doc:`zettelgeist`, :doc:`shape_analysis`
+     - |ZettelGeist|, |Shape Analysis|
 
    * - Martin Zugschwert
      - *Software Developer*
-     - :doc:`metrics_dashboard`
+     - |Metrics Dashboard|

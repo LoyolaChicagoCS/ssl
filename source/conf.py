@@ -32,6 +32,20 @@ rst_epilog = (
 .. |SSL| replace:: :abbr:`SSL (Software Systems Laboratory)`
 
 .. |STEAM| replace:: :abbr:`STEAM (Science, Technology, Engineering, Arts, and Mathematics)`
+
+.. |ZettelGeist| replace:: :doc:`/research/incubation/zettelgeist`
+
+.. |Metrics Dashboard| replace:: :doc:`/research/in-progress/metrics-dashboard`
+
+.. |Shape Analysis| replace:: :doc:`/research/collaborations/shape-analysis`
+
+.. |VoltKey| replace:: :doc:`/research/in-progress/voltkey`
+
+.. |Hermes| replace:: :doc:`/research/incubation/hermes`
+
+.. |LUTE| replace:: :doc:`/research/incubation/lute`
+
+.. |TE| replace:: `/research/in-progress/test-effectiveness`
 """
     % vars()
 )
