@@ -1,3 +1,4 @@
 sphinx
 sphinx-rtd-theme
 travis-sphinx
+black
