@@ -22,34 +22,42 @@ Affiliated Faculty
    :widths: 10 10 30
    :header-rows: 1
 
-   * - Name
-     - Position
-     - Research Areas
+   *
+        - Name
+        - Position
+        - Research Areas
 
-   * - Eric Chan-Tin
-     - *Affiliated Faculty*
-     - Autonomous Vehicle Security
+   *
+        - Eric Chan-Tin
+        - *Affiliated Faculty*
+        - Autonomous Vehicle Security
 
-   * - David B. Dennis
-     - *Affiliated Faculty*
-     - |ZettelGeist|
+   *
+        - David B. Dennis
+        - *Affiliated Faculty*
+        - |ZettelGeist|
 
-   * - Nicholas J. Hayward
-     - *Affiliated Faculty*
-     - TBD
+   *
+        - Nicholas J. Hayward
+        - *Affiliated Faculty*
+        - TBD
 
-   * - William L. Honig
-     - *Affiliated Faculty*
-     - Doyle Living Systems Lab (TBD)
+   *
+        - William L. Honig
+        - *Affiliated Faculty*
+        - Doyle Living Systems Lab (TBD)
 
-   * - Konstantin Läufer
-     - *Affiliated Faculty*
-     - |Metrics Dashboard|, |TE|
+   *
+        - Konstantin Läufer
+        - *Affiliated Faculty*
+        - |Metrics Dashboard|, |TE|
 
-   * - Gregory J. Matthews
-     - *Affiliated Faculty*
-     - |Shape Analysis|
+   *
+        - Gregory J. Matthews
+        - *Affiliated Faculty*
+        - |Shape Analysis|
 
-   * - David Wetzel
-     - *Affiliated Faculty*
-     - |LUTE|
+   *
+        - David Wetzel
+        - *Affiliated Faculty*
+        - |LUTE|
