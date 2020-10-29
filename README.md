@@ -37,7 +37,6 @@ In addition, we release PDF and EPUB versions of the site per commit as well.
 | Travis-Sphinx    | https://github.com/syntaf/travis-sphinx                            |
 
 [Sphinx]: https://www.sphinx-doc.org/en/master/index.html#
-[Travis CI]: https://travis-ci.com/
 [Sphinx docs]: https://www.sphinx-doc.org/en/master/contents.html
 [ReStructuredText]: https://docutils.sourceforge.io/docs/ref/rst/introduction.html
 [Documentation Links]: #documentation-links
