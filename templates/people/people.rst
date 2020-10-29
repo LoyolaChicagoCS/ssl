@@ -1,3 +1,5 @@
+:orphan:
+
 .. note::
     The file name for an individuals profile is going to be *first name-last name.rst*.
 
