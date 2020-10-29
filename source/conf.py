@@ -45,7 +45,7 @@ rst_epilog = (
 
 .. |LUTE| replace:: :doc:`/research/incubation/lute`
 
-.. |TE| replace:: `/research/in-progress/test-effectiveness`
+.. |TE| replace:: :doc:`/research/in-progress/test-effectiveness`
 
 .. |NLC| replace:: `/research/incubation/nlc`
 
