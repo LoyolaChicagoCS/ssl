@@ -5,7 +5,6 @@ Introduction
 ------------
 The Software and Systems Laboratory is led by a core group of computer science and interdisciplinary faculty with projects that span software engineering and computer systems. We work as peers when it comes to day-to-day life in the research group. We rely upon our current members to grow the research group to include new researchers and faculty with synergistic interests. In the spirit of being true peers, we list all names in alphabetical order by last name.
 
-
 Team Members
 ------------
 
@@ -25,4 +24,6 @@ If you're a past collaborator with the SSL or one of Prof. Thiruvathukal's earli
 
 Apply to Join
 -------------
-Want to join us? :doc:`Apply <apply>` today! You may also directly inquire other core faculty and members of the research team to find out more about SSL and our projects but an application is required to be considered for membership.
+Want to join us? |Apply| today! You may also directly inquire other core faculty and members of the research team to find out more about SSL and our projects but an application is required to be considered for membership.
+
+.. |Apply| replace:: :doc:`Apply </apply>`
