@@ -104,10 +104,10 @@ math_number_all = True
 html_theme = "sphinx_rtd_theme"
 html_theme_options = {
     # "canonical_url": "",
-    "analytics_id": "UA-5482792-29"
+    "analytics_id": "UA-5482792-29",
     # "logo_only": False,
     # "display_version": True,
-    # "prev_next_buttons_location": "bottom",
+    "prev_next_buttons_location": "none",
     # "style_external_links": False,
     # "vcs_pageview_mode": "",
     # "style_nav_header_background": "white",
