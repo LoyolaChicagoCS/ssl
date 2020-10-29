@@ -1,3 +1,5 @@
+:orphan:
+
 ZettelGeist
 ==============
 
@@ -9,6 +11,3 @@ Publications
 -------------
 
 - https://zettelgeist.com
-
-
-
