@@ -16,7 +16,7 @@ The Open CS Initiative consists of two parts:
 1. An internal reading group/ podcast hosted by members of SSL.
 2. A searchable static website that contains all of the links aggregated by members of the Computer Science community.
 
-The reading group/ podcast is an internally ran project that meets weekly to discuss the latest research in the field of Computer Science, Software Engineering, Cyber Security, and Information Technology. All meetings will be recorded and published to YouTube. More information can be found on the :doc:`Reading Group (reading-group)` page.
+The reading group/ podcast is an internally ran project that meets weekly to discuss the latest research in the field of Computer Science, Software Engineering, Cyber Security, and Information Technology. All meetings will be recorded and published to YouTube. More information can be found on the :doc:`Reading Group <reading-group-podcast>` page.
 
 The searchable static website is the deliverable of the Open CS Initiative project. More information on it can be found `here`_.
 

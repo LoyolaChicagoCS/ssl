@@ -13,21 +13,21 @@ Below is a list of research projects that are currently not being worked on by m
         - Research Description
 
    *
-        - :doc:`incubation/lute`
+        - |LUTE|
         - The Loyola University Technology Ensemble performs using a collection of tools for interactive music performance. These tools alow for group performance on laptops and to allow for tracking of progress through a group-performed composition.
 
    *
-        - :doc:`incubation/zettelgeist`
+        - |ZettelGeist|
         - ZettelGeist is a plaintext note-taking system, inspired by the `ZettelKasten <https://zettelkasten.de/>`__ Method.
 
    *
-        - :doc:`incubation/hermes`
+        - |Hermes|
         - Hermes is a hypervisor for MCU-based systems with real-time requirements. The goal of Hermes is to manage tradeoffs between performance and flexibility in software that runs on embedded systems.
 
    *
-        - :doc:`incubation/nlc`
+        - |NLC|
         - NLC is a mathematics project centered around writting algorithms for analyical mathematical concepts in a parraell way.
 
    *
-        - :doc:`incubation/flic`
+        - |FLIC|
         - FLIC is a fog computing project which makes a fog topology more effecient with it's bytes in and bytes out.
