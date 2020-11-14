@@ -1,4 +1,4 @@
-Faculty Leadership
+|SSL| Faculty Leadership
 ^^^^^^^^^^^^^^^^^^
 .. list-table::
    :widths: 10 10 30
@@ -16,7 +16,7 @@ Faculty Leadership
      - *Director*
      - |Metrics Dashboard|, |TE|, |Shape Analysis|, |LUTE|, |VoltKey|
 
-Affiliated Faculty
+|SSL| Affiliated Faculty
 ^^^^^^^^^^^^^^^^^^
 .. list-table::
    :widths: 10 10 30
@@ -26,6 +26,11 @@ Affiliated Faculty
         - Name
         - Position
         - Research Areas
+
+   *
+        - Abegaz, Brook
+        - *Affiliated Faculty*
+        - *Not Assigned*
 
    *
         - Eric Chan-Tin

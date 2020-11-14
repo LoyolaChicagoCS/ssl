@@ -1,3 +1,6 @@
+.. This list not only contains the names of the alumni of SSL, but also those who have not specified what year/ years they have been a part of SSL
+.. List is compiled in alphabetical order of LAST NAMES
+
 |SSL| Alumni
 ^^^^^^^^^^^^
 .. list-table::
@@ -10,19 +13,34 @@
         - Research Projects
 
    *
+        - Shilpika
+        - *Software Developer*
+        - |Metrics Dashboard|
+
+   *
         - Riley Clarkson
         - *Software Developer*
         - |ZettelGeist|
 
    *
-        - Zac Gallagher
+        - Zachary Gallagher
         - *Software Developer*
         - |ZettelGeist|
 
    *
         - Sean Higgins
         - *Software Developer*
-        - |ZettelGeist|
+        - |ZettelGeist|, |Metrics Dashboard|
+
+   *
+        - Andrew Lake
+        - *Software Developer*
+        - *Not Assigned*
+
+   *
+        - Jean-Luc Putter
+        - *Software Developer*
+        - |Metrics Dashboard|
 
    *
         - Linette Maliakal
@@ -31,18 +49,33 @@
 
    *
         - Allan Miller
-        - *Software Developer, Software Engineer*
-        - |Metrics Dashboard|
+        - *Software Engineer*
+        - |ZettelGeist|, |Metrics Dashboard|
+
+   *
+        - Iryna Motyashok
+        - *Software Developer*
+        - *Not Assigned*
+
+   *
+        - Jack Narowski
+        - *Software Developer*
+        - *Not Assigned*
+
+   *
+        - Daniel Palacios
+        - *Software Developer*
+        - *Not Assigned*
 
    *
         - Morgan Richardson
-        - *Front-End Developer*
+        - *Software Developer*
         - |ZettelGeist|
 
    *
-        - Shilpika
+        - Mike Robinson
         - *Software Developer*
-        - |Metrics Dashboard|
+        - *Not Assigned*
 
    *
         - Jonathan Warkentin
