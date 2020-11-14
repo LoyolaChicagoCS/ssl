@@ -20,7 +20,7 @@ Team Members
 
 Not Listed Here?
 -----------------
-If you're a past collaborator with the SSL or one of Prof. Thiruvathukal's earlier research groups/projects and *want to be listed here*, please e-mail `gkt@cs.luc.edu <mailto:gkt@cs.luc.edu>`_ to be added. Just because your name is not shown here doesn't mean that your past participation is not valued, but we'd like your permission before listing you.
+If you're a past collaborator with |SSL| or one of Prof. Thiruvathukal's earlier research groups/projects and *want to be listed here*, please e-mail `gkt@cs.luc.edu <mailto:gkt@cs.luc.edu>`_ to be added. Just because your name is not shown here doesn't mean that your past participation is not valued, but we'd like your permission before listing you.
 
 Apply to Join
 -------------
