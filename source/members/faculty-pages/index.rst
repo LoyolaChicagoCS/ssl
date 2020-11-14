@@ -6,7 +6,7 @@
 
    * - Name
      - Position
-     - Research Projects
+     - |SSL| Research Projects
 
    * - Neil Klingensmith
      - *Co-Director*
@@ -25,7 +25,7 @@
    *
         - Name
         - Position
-        - Research Areas
+        - |SSL| Research Projects
 
    *
         - Brook Abegaz

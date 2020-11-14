@@ -9,7 +9,7 @@
    *
         - Name
         - Position
-        - Research Projects
+        - |SSL| Research Projects
 
    *
         - Sophie Von Hatten

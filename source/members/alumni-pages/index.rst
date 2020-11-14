@@ -10,7 +10,7 @@
    *
         - Name
         - Position
-        - Research Projects
+        - |SSL| Research Projects
 
    *
         - Shilpika
