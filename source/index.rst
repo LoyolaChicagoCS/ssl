@@ -47,7 +47,7 @@ This site is also available in |pdf-version| or |epub-version| formats.
     :hidden:
 
     Apply <apply>
-    Members <team/index>
+    Members <members/index>
     Open CS Initiative <open-cs-initiative/index>
     Reading Group/ Podcast <open-cs-initiative/reading-group-podcast>
     Research <research/index>
