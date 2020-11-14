@@ -60,3 +60,8 @@
         - Alex Rose
         - *Team Lead, Software Engineer*
         - |Metrics Dashboard|, |History of Computing|
+
+   *
+        - Nicholas Synovic
+        - *Team Lead, Software Engineer*
+        - |Metrics Dashboard|, |Political Python|

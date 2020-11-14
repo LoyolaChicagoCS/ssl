@@ -28,9 +28,9 @@
         - Research Areas
 
    *
-        - Abegaz, Brook
+        - Brook Abegaz
         - *Affiliated Faculty*
-        - *Not Assigned*
+        - TBD
 
    *
         - Eric Chan-Tin
