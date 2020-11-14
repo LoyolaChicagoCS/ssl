@@ -63,5 +63,5 @@
 
    *
         - Nicholas Synovic
-        - *Team Lead, Software Engineer*
+        - *Team Lead, Software Engineer, SSL Admin*
         - |Metrics Dashboard|, |Political Python|

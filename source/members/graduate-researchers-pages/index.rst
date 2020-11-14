@@ -13,10 +13,10 @@
 
    *
         - Sophie Von Hatten
-        - *Team Lead, Software Engineer*
+        - *Team Lead, Software Engineer, SSL Admin*
         - |Metrics Dashboard|
 
    *
         - Jack West
-        - *Team Lead, Software Engineer*
+        - *Team Lead, Software Engineer, SSL Admin*
         - |ZettelGeist|, |VoltKey|
