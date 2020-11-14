@@ -19,4 +19,4 @@
    *
         - Jack West
         - *Team Lead, Software Engineer, SSL Admin*
-        - |ZettelGeist|, |VoltKey|
+        - |VoltKey|, |ZettelGeist|

@@ -14,7 +14,7 @@
 
    * - George K. Thiruvathukal
      - *Director*
-     - |Metrics Dashboard|, |TE|, |Shape Analysis|, |LUTE|, |VoltKey|
+     - |LUTE|, |Metrics Dashboard|, |Shape Analysis|, |TE|, |VoltKey|
 
 |SSL| Affiliated Faculty
 ^^^^^^^^^^^^^^^^^^
@@ -35,7 +35,7 @@
    *
         - Eric Chan-Tin
         - *Affiliated Faculty*
-        - Autonomous Vehicle Security
+        - |Autonomous Vehicle Security|
 
    *
         - David B. Dennis
@@ -50,7 +50,7 @@
    *
         - William L. Honig
         - *Affiliated Faculty*
-        - Doyle Living Systems Lab (TBD)
+        - |Doyle Living Systems Lab|
 
    *
         - Konstantin Läufer
