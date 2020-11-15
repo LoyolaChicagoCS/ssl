@@ -15,6 +15,8 @@ extensions = [
     "sphinx.ext.mathjax",
     "sphinx.ext.ifconfig",
     "sphinx.ext.viewcode",
+    "sphinx.ext.intersphinx",
+    "sphinx.ext.autosectionlabel",
 ]
 source_suffix = {".rst": "restructuredtext"}
 source_encoding = "utf-8-sig"
@@ -45,7 +47,7 @@ rst_epilog = (
 
 .. |LUTE| replace:: :doc:`/research/incubation/lute`
 
-.. |TE| replace:: `/research/in-progress/test-effectiveness`
+.. |TE| replace:: :doc:`/research/in-progress/test-effectiveness`
 
 .. |NLC| replace:: `/research/incubation/nlc`
 
