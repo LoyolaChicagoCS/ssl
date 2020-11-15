@@ -15,6 +15,8 @@ extensions = [
     "sphinx.ext.mathjax",
     "sphinx.ext.ifconfig",
     "sphinx.ext.viewcode",
+    "sphinx.ext.intersphinx",
+    "sphinx.ext.autosectionlabel",
 ]
 source_suffix = {".rst": "restructuredtext"}
 source_encoding = "utf-8-sig"

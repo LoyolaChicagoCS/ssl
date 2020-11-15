@@ -5,7 +5,7 @@ Hello World
 -----------
 Thank you for checking out the Software and Systems Laboratory (SSL) website. We are a research laboratory based in the `Computer Science Department at Loyola University Chicago`_.
 
-Our :doc:`team </team/index>` form an interdisciplinary group with :doc:`faculty and student interests <research/index>` in computer science, software engineering, information technology, cybersecurity, and engineering.
+Our :doc:`members </members/index>` form an interdisciplinary group with :doc:`faculty and student interests </research/index>` in computer science, software engineering, information technology, cybersecurity, and engineering.
 
 The laboratory's focus is on researching computer systems and applied software engineering to solve |STEAM| releated problems.
 

@@ -1,58 +1,39 @@
 :orphan:
 
-.. note::
-    The file name for an individuals profile is going to be *first name-last name.rst*.
-
-Full Professional Name
-======================
+Sophie Von Hatten
+=================
 
 About
 -----
 
-*An about section written in the third person with a sidebar containing their photo and contact information.*
+.. sidebar:: Sophie Von Hatten's Contact Information
 
-.. note::
-    Reference https://www.luc.edu/cs/people/ftfaculty/ for ideas.
-
-**Example**
-
-.. sidebar:: Person #1's Contact Information
-
-    .. image:: images/user.jpg
-       :alt: Persona #1's Headshot
+    .. image:: /images/user.jpg
+       :alt: Sophie Von Hatten's Headshot
        :align: center
 
     |
 
-    * Personal Website
-    * Email Address
-    * Linkedin
-    * GitHub
-    * Other Socials
+    * `Linkedin <https://www.linkedin.com/in/sophie-von-hatten-9863a018b/>`_
+    * `GitHub <https://github.com/svonhatten>`_
 
-
-Person #1 is a Sophomore at Loyola University Chicago majoring in Computer Science expected to graduate in the Spring of 2023. Their childhood interest in computer science propelled them into their current education track. Person #1 likes to help others and solve other’s questions in the field of Computer Science. In their leisure time, Person #1 is interested in music production. After college, they plan on pursuing a Master's degree in Computer Science.
-
-
+Sophie is a Front-end Software Engineer currently in her 1st year as a Graduate student at Loyola University Chicago for an MS in Software Engineering. As a member of SSL since her senior year as an undergraduate student at Loyola, she has been a part of the Metrics Dashboard team, her contributions including the front-end design and development of the visual data representation.
+In addition, she now resides as a co-administrator for SSL as a whole. Her duties as such include managing and maintaining the organization from a student standpoint.
 
 Research Areas
 --------------
-*A bulleted list of research interests.*
 
-**Example**
+* Front-End UI/UX Design
+* Data Visualizations and Representations
 
-* Autonomous Vehicles
-* Programming Languages
-* Computer Systems
+|
+|
+|
+|
+|
 
 Research Projects
 -----------------
-* A list of research projects that the individual has worked on as well as the year(s) that they worked on them. This list is in order by **year** then by **research project name**.*
-
-.. note::
-    All projects must link back to their own respected **project** page(s) on this site.
-
-**Example**
 
 .. list-table::
    :widths: 50 50
@@ -62,45 +43,16 @@ Research Projects
      - Years Worked On
 
    * - |Metrics Dashboard|
-     - 2020 - Present
-   * - |ZettelGeist|
-     - 2019 - 2020
-
+     - 2019 - Present
 
 
 Education Background
 --------------------
-*A bulleted list of all of the degrees/ certifications that an individual has.*
+* `BS in Software Engineering <https://www.luc.edu/cs/academics/undergraduateprograms/bsse/>`_ from `Loyola University Chicago <https://www.luc.edu/>`_. Graduated: 2020
 
-.. note::
-    Attempt to link the degrees/ certifications and the educational institution to their respected home pages.
-
-**Example**
-
-* `BS in Computer Science <https://www.luc.edu/cs/academics/undergraduateprograms/bscs/>`_ from `Loyola University Chicago <https://www.luc.edu/>`_. Estimated Graduation: 2023
-* `CompTIA A+ Certified <https://www.comptia.org/certifications/a>`_ from `CompTIA <https://www.comptia.org/>`_. 2020
-
-
-Professional and Community Affiliations
----------------------------------------
-*A bulleted list of all of the professional and community affiliations that an individual is a part of as well as their position within such communities.*
-
-.. note::
-    Attempt to link the organizations to their home respected home pages.
-
-.. warning::
-    **Do not add "Member of SSL" into this list**
-
-**Example**
-
-* Member of the `Eta Omega Chapter of Beta Theta Pi <https://luc.beta.org/>`_
-* Board Member of the `ACM Special Interest Group on Design Automation <https://www.acm.org/special-interest-groups/sigs/sigda>`_
-
+* `MS in Software Engineering <https://www.luc.edu/cs/academics/graduateprograms/msse/>`_ from `Loyola University Chicago <https://www.luc.edu/>`_. Estimated Graduation: 2022
 
 Professional Employment History
 -------------------------------
-* Links to the individuals resume and CV that can be downloaded.
 
-**Example**
-
-Person #1's :download:`Resume <https://nerdist.com/wp-content/uploads/2020/07/maxresdefault.jpg>` and :download:`CV <https://nerdist.com/wp-content/uploads/2020/07/maxresdefault.jpg>`
+* Resume Download

@@ -1,58 +1,39 @@
 :orphan:
 
-.. note::
-    The file name for an individuals profile is going to be *first name-last name.rst*.
-
-Full Professional Name
-======================
+Alex Rose
+=========
 
 About
 -----
 
-*An about section written in the third person with a sidebar containing their photo and contact information.*
+.. sidebar:: Alex Rose's Contact Information
 
-.. note::
-    Reference https://www.luc.edu/cs/people/ftfaculty/ for ideas.
-
-**Example**
-
-.. sidebar:: Person #1's Contact Information
-
-    .. image:: images/user.jpg
-       :alt: Persona #1's Headshot
+    .. image:: /images/user.jpg
+       :alt: Alex Rose's Headshot
        :align: center
 
     |
 
-    * Personal Website
-    * Email Address
-    * Linkedin
-    * GitHub
-    * Other Socials
+    * `Personal Website <https://acrose99.github.io/PersonalWebsite/>`_
+    * `Linkedin <https://www.linkedin.com/in/alexander-r-5a14b0118/>`_
+    * `GitHub <https://github.com/acrose99>`_
 
+Alex is a Junior CS major at Loyola University Chicago.  Alex does research for the Loyola Software Systems Laboratory under Professor George Thiruvathukal and Professor David Dennis, as a Mulcahy Fellow. Alex currently leads a team of three students on a project about the History of Computing.
 
-Person #1 is a Sophomore at Loyola University Chicago majoring in Computer Science expected to graduate in the Spring of 2023. Their childhood interest in computer science propelled them into their current education track. Person #1 likes to help others and solve other’s questions in the field of Computer Science. In their leisure time, Person #1 is interested in music production. After college, they plan on pursuing a Master's degree in Computer Science.
-
-
+|
+|
+|
+|
+|
 
 Research Areas
 --------------
-*A bulleted list of research interests.*
 
-**Example**
-
-* Autonomous Vehicles
-* Programming Languages
-* Computer Systems
+* Web Development
+* The History of Computing
 
 Research Projects
 -----------------
-* A list of research projects that the individual has worked on as well as the year(s) that they worked on them. This list is in order by **year** then by **research project name**.*
-
-.. note::
-    All projects must link back to their own respected **project** page(s) on this site.
-
-**Example**
 
 .. list-table::
    :widths: 50 50
@@ -62,45 +43,22 @@ Research Projects
      - Years Worked On
 
    * - |Metrics Dashboard|
-     - 2020 - Present
-   * - |ZettelGeist|
      - 2019 - 2020
-
-
+   * - |History of Computing|
+     - 2020 - Present
 
 Education Background
 --------------------
-*A bulleted list of all of the degrees/ certifications that an individual has.*
 
-.. note::
-    Attempt to link the degrees/ certifications and the educational institution to their respected home pages.
-
-**Example**
-
-* `BS in Computer Science <https://www.luc.edu/cs/academics/undergraduateprograms/bscs/>`_ from `Loyola University Chicago <https://www.luc.edu/>`_. Estimated Graduation: 2023
-* `CompTIA A+ Certified <https://www.comptia.org/certifications/a>`_ from `CompTIA <https://www.comptia.org/>`_. 2020
-
+* `BS in Computer Science <https://www.luc.edu/cs/academics/undergraduateprograms/bscs/>`_ from `Loyola University Chicago <https://www.luc.edu/>`_. Estimated Graduation: 2022
+* `Minor in History <https://www.luc.edu/history/undergrad/require2.shtml>`_ from `Loyola University Chicago <https://www.luc.edu/>`_. Estimated Graduation: 2022
 
 Professional and Community Affiliations
 ---------------------------------------
-*A bulleted list of all of the professional and community affiliations that an individual is a part of as well as their position within such communities.*
 
-.. note::
-    Attempt to link the organizations to their home respected home pages.
-
-.. warning::
-    **Do not add "Member of SSL" into this list**
-
-**Example**
-
-* Member of the `Eta Omega Chapter of Beta Theta Pi <https://luc.beta.org/>`_
-* Board Member of the `ACM Special Interest Group on Design Automation <https://www.acm.org/special-interest-groups/sigs/sigda>`_
-
+* Vice President of `Don't Panic! <https://dontpanic.cs.luc.edu/>`_
 
 Professional Employment History
 -------------------------------
-* Links to the individuals resume and CV that can be downloaded.
 
-**Example**
-
-Person #1's :download:`Resume <https://nerdist.com/wp-content/uploads/2020/07/maxresdefault.jpg>` and :download:`CV <https://nerdist.com/wp-content/uploads/2020/07/maxresdefault.jpg>`
+* Resume Download

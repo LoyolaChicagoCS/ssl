@@ -1,106 +1,68 @@
 :orphan:
 
-.. note::
-    The file name for an individuals profile is going to be *first name-last name.rst*.
-
-Full Professional Name
-======================
+Emmanuel Amobi
+==============
 
 About
 -----
 
-*An about section written in the third person with a sidebar containing their photo and contact information.*
+.. sidebar:: Emmanuel Amobi's Contact Information
 
-.. note::
-    Reference https://www.luc.edu/cs/people/ftfaculty/ for ideas.
-
-**Example**
-
-.. sidebar:: Person #1's Contact Information
-
-    .. image:: images/user.jpg
-       :alt: Persona #1's Headshot
+    .. image:: /images/user.jpg
+       :alt: Emmanuel Amobi's Headshot
        :align: center
 
     |
 
-    * Personal Website
-    * Email Address
-    * Linkedin
-    * GitHub
-    * Other Socials
+    * `Linkedin <https://www.linkedin.com/in/emmaamobi/>`_
+    * `GitHub <https://github.com/emmaamobi>`_
 
-
-Person #1 is a Sophomore at Loyola University Chicago majoring in Computer Science expected to graduate in the Spring of 2023. Their childhood interest in computer science propelled them into their current education track. Person #1 likes to help others and solve other’s questions in the field of Computer Science. In their leisure time, Person #1 is interested in music production. After college, they plan on pursuing a Master's degree in Computer Science.
-
-
+Emmanuel is currently a senior majoring in software engineering with a minor in Mathematics. He is currently conducting research for the metrics dashboard in a research group at Loyola known as SSL. He is also a member of DON’T PANIC club, at computer science club at a Loyola that hosts a lot of computer science events. He has worked with various students and professors at the Loyola Computer Science Tutoring Department, aiding students with CS related topics and giving them the needed assistance. In his free time he likes to workout, watch youtube videos on a variety of topics of interest, and likes to read research papers and books on nutrition and psychology
 
 Research Areas
 --------------
-*A bulleted list of research interests.*
 
-**Example**
+* Effective Planning and Decision Making
+* Open Source Software Development
+* Programming Tools and Environments
 
-* Autonomous Vehicles
-* Programming Languages
-* Computer Systems
+|
+|
+|
+|
+|
 
 Research Projects
 -----------------
-* A list of research projects that the individual has worked on as well as the year(s) that they worked on them. This list is in order by **year** then by **research project name**.*
-
-.. note::
-    All projects must link back to their own respected **project** page(s) on this site.
-
-**Example**
 
 .. list-table::
    :widths: 50 50
    :header-rows: 1
 
-   * - Research Project Name
-     - Years Worked On
+   *
+    - Research Project Name
+    - Years Worked On
 
-   * - |Metrics Dashboard|
-     - 2020 - Present
-   * - |ZettelGeist|
-     - 2019 - 2020
-
-
+   *
+    - |Metrics Dashboard|
+    - 2019 - Present
+   *
+    - |ZettelGeist|
+    - 2018 - 2019
 
 Education Background
 --------------------
-*A bulleted list of all of the degrees/ certifications that an individual has.*
 
-.. note::
-    Attempt to link the degrees/ certifications and the educational institution to their respected home pages.
+* `BS in Software Engineering <https://www.luc.edu/cs/academics/undergraduateprograms/bsse/>`_ from `Loyola University Chicago <https://www.luc.edu/>`_. Estimated Graduation: 2021
 
-**Example**
-
-* `BS in Computer Science <https://www.luc.edu/cs/academics/undergraduateprograms/bscs/>`_ from `Loyola University Chicago <https://www.luc.edu/>`_. Estimated Graduation: 2023
-* `CompTIA A+ Certified <https://www.comptia.org/certifications/a>`_ from `CompTIA <https://www.comptia.org/>`_. 2020
-
+* `Minor in Mathematics <https://www.luc.edu/math/minormath.shtml>`_ from `Loyola University Chicago <https://www.luc.edu/>`_. Estimated Graduation: 2021
 
 Professional and Community Affiliations
 ---------------------------------------
-*A bulleted list of all of the professional and community affiliations that an individual is a part of as well as their position within such communities.*
 
-.. note::
-    Attempt to link the organizations to their home respected home pages.
-
-.. warning::
-    **Do not add "Member of SSL" into this list**
-
-**Example**
-
-* Member of the `Eta Omega Chapter of Beta Theta Pi <https://luc.beta.org/>`_
-* Board Member of the `ACM Special Interest Group on Design Automation <https://www.acm.org/special-interest-groups/sigs/sigda>`_
-
+* Member of `Don't Panic! <https://dontpanic.cs.luc.edu/>`_
 
 Professional Employment History
 -------------------------------
-* Links to the individuals resume and CV that can be downloaded.
 
-**Example**
-
-Person #1's :download:`Resume <https://nerdist.com/wp-content/uploads/2020/07/maxresdefault.jpg>` and :download:`CV <https://nerdist.com/wp-content/uploads/2020/07/maxresdefault.jpg>`
+* Resume Download

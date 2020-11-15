@@ -26,11 +26,11 @@
      - Position
      - |SSL| Research Projects
 
-   * - Neil Klingensmith
+   * - `Neil Klingensmith <https://www.luc.edu/cs/people/ftfaculty/klingensmithneil.shtml>`_
      - *Co-Director*
      - |Hermes|, |VoltKey|
 
-   * - George K. Thiruvathukal
+   * - `George K. Thiruvathukal <https://www.luc.edu/cs/people/ftfaculty/gkt.shtml>`_
      - *Director*
      - |LUTE|, |Metrics Dashboard|, |Shape Analysis|, |TE|, |VoltKey|
 
@@ -46,32 +46,32 @@
         - |SSL| Research Projects
 
    *
-        - Brook Abegaz
+        - :doc:`/members/faculty-pages/brookAbegaz`
         - *Affiliated Faculty*
         - TBD
 
    *
-        - Eric Chan-Tin
+        - `Eric Chan-Tin <https://www.luc.edu/cs/people/ftfaculty/chan-tineric.shtml>`_
         - *Affiliated Faculty*
         - |Autonomous Vehicle Security|
 
    *
-        - David B. Dennis
+        - :doc:`/members/faculty-pages/davidDennis`
         - *Affiliated Faculty*
         - |ZettelGeist|
 
    *
-        - Nicholas J. Hayward
+        - `Nicholas J. Hayward <https://www.luc.edu/cs/people/ftfaculty/haywardnicholas.shtml>`_
         - *Affiliated Faculty*
         - TBD
 
    *
-        - William L. Honig
+        - `William L. Honig <https://www.luc.edu/cs/people/ftfaculty/honigwilliaml.shtml>`_
         - *Affiliated Faculty*
         - |Doyle Living Systems Lab|
 
    *
-        - Konstantin Läufer
+        - `Konstantin Läufer <https://www.luc.edu/cs/people/ftfaculty/lauferkonstantin.shtml>`_
         - *Affiliated Faculty*
         - |Metrics Dashboard|, |TE|
 
@@ -81,6 +81,6 @@
         - |Shape Analysis|
 
    *
-        - David Wetzel
+        - `David B. Wetzel <https://www.luc.edu/cs/people/ptfaculty/davidbwetzel.shtml>`_
         - *Affiliated Faculty*
         - |LUTE|

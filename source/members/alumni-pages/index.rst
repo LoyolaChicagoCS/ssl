@@ -14,7 +14,7 @@
         executing development plans and programming software into existence," [1].
 
 ..  [1]K. Heinz, “Software Engineer vs. Developer: What’s The
-        Difference?,” Built In, Jan. 15, 2020. https://builtin.com/recruiting/software-engineer-vs-developer (accessed Nov. 14, 2020).
+        Difference?,” Built In, Jan. 15, 2020. https:/builtin.com/recruiting/software-engineer-vs-developer (accessed Nov. 14, 2020).
 
 .. Projects are listed in ALPHABETICAL ORDER
 
@@ -30,76 +30,76 @@
         - |SSL| Research Projects
 
    *
-        - Shilpika
+        - :doc:`/members/alumni-pages/shilpika`
         - *Software Developer*
         - |Metrics Dashboard|
 
    *
-        - Riley Clarkson
+        - :doc:`/members/alumni-pages/rileyClarkson`
         - *Software Developer*
         - |ZettelGeist|
 
    *
-        - Zachary Gallagher
+        - :doc:`/members/alumni-pages/zacharyGallagher`
         - *Software Developer*
         - |ZettelGeist|
 
    *
-        - Sean Higgins
+        - :doc:`/members/alumni-pages/seanHiggins`
         - *Software Developer*
         - |ZettelGeist|, |Metrics Dashboard|
 
    *
-        - Andrew Lake
+        - :doc:`/members/alumni-pages/andrewLake`
         - *Software Developer*
         - *Not Assigned*
 
    *
-        - Jean-Luc Putter
+        - :doc:`/members/alumni-pages/jeanLucPutter`
         - *Software Developer*
         - |Metrics Dashboard|
 
    *
-        - Linette Maliakal
+        - :doc:`/members/alumni-pages/linetteMaliakal`
         - *Software Developer*
         - |ZettelGeist|
 
    *
-        - Allan Miller
+        - :doc:`/members/alumni-pages/allanMiller`
         - *Software Engineer*
         - |ZettelGeist|, |Metrics Dashboard|
 
    *
-        - Iryna Motyashok
+        - :doc:`/members/alumni-pages/irynaMotyashok`
         - *Software Developer*
         - *Not Assigned*
 
    *
-        - Jack Narowski
+        - :doc:`/members/alumni-pages/jackNarowski`
         - *Software Developer*
         - *Not Assigned*
 
    *
-        - Daniel Palacios
+        - :doc:`/members/alumni-pages/danielPalacios`
         - *Software Developer*
         - *Not Assigned*
 
    *
-        - Morgan Richardson
+        - :doc:`/members/alumni-pages/morganRichardson`
         - *Software Developer*
         - |ZettelGeist|
 
    *
-        - Mike Robinson
+        - :doc:`/members/alumni-pages/mikeRobinson`
         - *Software Developer*
         - *Not Assigned*
 
    *
-        - Jonathan Warkentin
+        - :doc:`/members/alumni-pages/jonathanWarkentin`
         - *Software Developer*
         - |ZettelGeist|, |Shape Analysis|
 
    *
-        - Martin Zugschwert
+        - :doc:`/members/alumni-pages/martinZugschwert`
         - *Software Developer*
         - |Metrics Dashboard|

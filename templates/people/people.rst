@@ -1,7 +1,7 @@
 :orphan:
 
 .. note::
-    The file name for an individuals profile is going to be *first name-last name.rst*.
+    The file name for an individuals profile is going to be *firstnameLastName.rst*.
 
 Full Professional Name
 ======================
@@ -18,7 +18,7 @@ About
 
 .. sidebar:: Person #1's Contact Information
 
-    .. image:: images/user.jpg
+    .. image:: /images/user.jpg
        :alt: Persona #1's Headshot
        :align: center
 
@@ -33,8 +33,6 @@ About
 
 Person #1 is a Sophomore at Loyola University Chicago majoring in Computer Science expected to graduate in the Spring of 2023. Their childhood interest in computer science propelled them into their current education track. Person #1 likes to help others and solve other’s questions in the field of Computer Science. In their leisure time, Person #1 is interested in music production. After college, they plan on pursuing a Master's degree in Computer Science.
 
-
-
 Research Areas
 --------------
 *A bulleted list of research interests.*
@@ -44,6 +42,12 @@ Research Areas
 * Autonomous Vehicles
 * Programming Languages
 * Computer Systems
+
+|
+|
+|
+|
+|
 
 Research Projects
 -----------------
