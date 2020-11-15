@@ -39,13 +39,17 @@ Research Projects
    :widths: 50 50
    :header-rows: 1
 
-   * - Research Project Name
-     - Years Worked On
+   *
+    - Research Project Name
+    - Years Worked On
 
-   * - |Metrics Dashboard|
-     - 2019 - 2020
-   * - |History of Computing|
-     - 2020 - Present
+   *
+    - |Metrics Dashboard|
+    - 2019 - 2020
+
+   *
+    - |History of Computing|
+    - 2020 - Present
 
 Education Background
 --------------------

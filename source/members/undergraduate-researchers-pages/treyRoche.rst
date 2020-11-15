@@ -18,7 +18,7 @@ About
     * `Linkedin <https://www.linkedin.com/in/trey-roche-587b7717a/>`_
     * `GitHub <https://github.com/Troche4>`_
 
-Person #1 is a Sophomore at Loyola University Chicago majoring in Computer Science expected to graduate in the Spring of 2023. Their childhood interest in computer science propelled them into their current education track. Person #1 likes to help others and solve other’s questions in the field of Computer Science. In their leisure time, Person #1 is interested in music production. After college, they plan on pursuing a Master's degree in Computer Science.
+Trey is an undergraduate researcher at SSL pursuing a B.S. in Computer Science. He is currently leading the Color Deficiency Correction Project at SSL. His research interests include web development, distributed systems, and promoting accessible development.
 
 Research Areas
 --------------
@@ -40,11 +40,13 @@ Research Projects
    :widths: 50 50
    :header-rows: 1
 
-   * - Research Project Name
-     - Years Worked On
+   *
+    - Research Project Name
+    - Years Worked On
 
-   * - |Color Deficiency Correction|
-     - 2020 - Present
+   *
+    - |Color Deficiency Correction|
+    - 2020 - Present
 
 Education Background
 --------------------

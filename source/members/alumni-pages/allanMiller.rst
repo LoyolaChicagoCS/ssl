@@ -40,19 +40,22 @@ Research Projects
    :widths: 50 50
    :header-rows: 1
 
-   * - Research Project Name
-     - Years Worked On
+   *
+    - Research Project Name
+    - Years Worked On
 
-   * - |Metrics Dashboard|
-     - 2019 - 2020
-   * - |ZettelGeist|
-     - 2018 - 2019
+   *
+    - |Metrics Dashboard|
+    - 2019 - 2020
+
+   *
+    - |ZettelGeist|
+    - 2018 - 2019
 
 Education Background
 --------------------
 
 * `MS in Computer Science <https://www.luc.edu/cs/academics/graduateprograms/mscs/>`_ from `Loyola University Chicago <https://www.luc.edu/>`_. Graduated: 2020
-
 
 Professional and Community Affiliations
 ---------------------------------------
