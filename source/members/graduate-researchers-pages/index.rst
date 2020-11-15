@@ -28,11 +28,11 @@
         - |SSL| Research Projects
 
    *
-        - Sophie Von Hatten
+        - :doc:`/members/graduate-researchers-pages/sophieVonHatten`
         - *Team Lead, Software Engineer, SSL Admin*
         - |Metrics Dashboard|
 
    *
-        - Jack West
+        - :doc:`/members/graduate-researchers-pages/jackWest`
         - *Team Lead, Software Engineer, SSL Admin*
         - |VoltKey|, |ZettelGeist|

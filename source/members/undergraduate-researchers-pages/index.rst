@@ -29,56 +29,56 @@
         - |SSL| Research Projects
 
    *
-        - Isaac Ahlgren
+        - :doc:`/members/undergraduate-researchers-pages/isaacAhlgren`
         - *Software Developer*
         - |Local Mean Curvature|, |VoltKey|
 
    *
-        - Emmanuel Amobi
+        - :doc:`/members/undergraduate-researchers-pages/emmanuelAmobi`
         - *Software Developer*
         - |Metrics Dashboard|, |ZettelGeist|
 
    *
-        - Alexandra Crane
+        - :doc:`/members/undergraduate-researchers-pages/alexandraCrane`
         - *Software Developer*
         - |History of Computing|
 
    *
-        - Erik Greve
+        - :doc:`/members/undergraduate-researchers-pages/erikGreve`
         - *Software Developer*
         - *Not Assigned*
 
    *
-        - Collin Jones
+        - :doc:`/members/undergraduate-researchers-pages/collinJones`
         - *Software Developer*
         - *Not Assigned*
 
    *
-        - Emily Meister
+        - :doc:`/members/undergraduate-researchers-pages/emilyMeister`
         - *Software Developer*
         - |Metrics Dashboard|
 
    *
-        - Austin Pinderski
+        - :doc:`/members/undergraduate-researchers-pages/austinPinderski`
         - *Software Developer*
         - |Metrics Dashboard|
 
    *
-        - Trey Roche
+        - :doc:`/members/undergraduate-researchers-pages/treyRoche`
         - *Team Lead, Software Developer*
         - |Color Deficiency Correction|
 
    *
-        - Stephanie Rodriguez
+        - :doc:`/members/undergraduate-researchers-pages/stephanieRodriguez`
         - *Software Developer*
         - |Metrics Dashboard|
 
    *
-        - Alex Rose
+        - :doc:`/members/undergraduate-researchers-pages/alexRose`
         - *Team Lead, Software Engineer*
         - |History of Computing|, |Metrics Dashboard|
 
    *
-        - Nicholas Synovic
+        - :doc:`/members/undergraduate-researchers-pages/nicholasSynovic`
         - *SSL Admin, Team Lead, Software Engineer*
         - |Metrics Dashboard|, |Political Python|
