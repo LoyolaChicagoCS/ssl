@@ -12,6 +12,7 @@
         "markdownlint.run": "onSave",
         "python.analysis.completeFunctionParens": true,
         "python.languageServer": "Pylance",
-        "restructuredtext.linter.run": "onSave"
+        "restructuredtext.confPath": "${workspaceFolder}/source",
+        "restructuredtext.linter.run": "onSave",
     }
 }
