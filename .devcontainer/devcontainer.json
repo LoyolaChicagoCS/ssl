@@ -1,0 +1,17 @@
+{
+    "name": "LUC SSL Website",
+    "extensions": [
+        "yzhang.markdown-all-in-one",
+        "lextudio.restructuredtext",
+        "davidanson.vscode-markdownlint",
+        "ms-python.python",
+        "ms-python.vscode-pylance"
+    ],
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "markdownlint.run": "onSave",
+        "python.analysis.completeFunctionParens": true,
+        "python.languageServer": "Pylance",
+        "restructuredtext.linter.run": "onSave"
+    }
+}

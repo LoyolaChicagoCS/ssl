@@ -1,4 +1,5 @@
+black
+isort
 recommonmark
 sphinx
 sphinx-rtd-theme
-travis-sphinx
