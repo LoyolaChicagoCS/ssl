@@ -1,59 +1,44 @@
 Application Process
 ===================
 
-.. todo::
-    Figure out what the new application process is
+Introduction
+------------
 
-We consider applicants for SSL on an ongoing basis.
+We consider applicants for SSL on an ongoing basis. However, it is best to apply before the start of the Fall or Spring semester as that will put applicants in the best position to begin working on research.
 
-What YOU Need to Do
--------------------
+Typically, applicants for SSL have completed at least two semesters of their Computer Science, Software Engineering, IT, and/or Cybersecurity major **OR** have completed `COMP 271: Data Structures I <https://academics.cs.luc.edu/courses/comp271.html>`_ and `COMP 272: Data Structures II <https://academics.cs.luc.edu/courses/comp272.html>`_. Furthermore, applicants need to have strong academic merit reflected by their GPA when applying. Academic achievements such as Honors, Dean's List, Academic Scholarships, and Fellowships, or any academic accomplishments should be provided in the application.
 
-What WE Will Do
+.. note::
+    While an applicant's GPA does not determine their acceptance, we prefer to see applicants having a 3.0 cumulative GPA or higher.
+
+What Applicants Need to Do
+--------------------------
+
+Before applying, applicants will need:
+
+- To be in good standing with the Computer Science department,
+- Have a GitHub account set up,
+- Know and understand our current research projects.
+
+After accomplishing the above tasks, applicants can apply by filling out this `form <https://tinyurl.com/yymoo4af>`_.
+
+What We Will Do
 ---------------
 
-Notification of Decision
-------------------------
+After receiving an application the advisory board of SSL will review it and determine whether or not to pursue further application steps with the applicant.
+
+.. note::
+    The application specific questions (such as your name or academic level) do not play a role in our thought process. Such information is collected purely for record-keeping and to reach out to applicants.
+
+Regardless of the decision applicants will be notified via email about it as well as any further application steps that need to be taken.
 
 Final Steps
 -----------
 
-Process
--------
+Two meetings are conducted before one is fully accepted into SSL. The first of which is one-on-one with a researcher who has been in SSL for over three semesters. The second of which is an interview with a professor or mentor affiliated with SSL.
 
-- You are given a problem to work on for two weeks, related to projects selected in the application form.
+The first meeting is designed to see if an applicant would be a good fit for the lab. The questions that will be asked will test their character and not their knowledge of Computer Science or affiliated fields.
 
-- Upon completion of the challenge, you will meet with existing members of the team.
+The second meeting is meant for the applicant to get approval from the Loyola University Chicago Computer Science Staff. Questions asked during this meeting, if any, will be left to the professor or mentor.
 
-- The interview involves a good deal of back and forth, and you may be asked to enhance (with a short timeframe) your code to assess your ability to deal with changing requirements.
-
-- Upon completion of the interview, you will meet with the professors and team leaders to discuss the next steps.
-
-- Please do not enroll in an independent study until you have completed the screening process.
-
-Deadlines
----------
-
-The deadline to apply varies by semester: Fall, Spring, and Summer.
-
-.. list-table::
-   :header-rows: 1
-   :widths: 10 10 10
-
-   * - Semester
-     - Application Deadline
-     - Notification Deadline
-
-   * - Fall
-     - May 1
-     - June 1
-
-   * - Spring
-     - November 22
-     - December 15
-
-   * - Summer
-     - May 1
-     - June 1
-
-To apply, please fill in this `Google Form <https://docs.google.com/forms/d/e/1FAIpQLSdwWsOnLZZtBTeDjk9MR_Cx-tUk0vOnPvq2EcnEL18jGFU71w/viewform>`_.
+After completing both meetings, an applicant becomes a member of SSL and can begin attending research meetings as well as be officially be listed on projects on the SSL website.
