@@ -8,7 +8,7 @@ About
 
 .. sidebar:: Collin Jones's Contact Information
 
-    .. image:: /images/user.jpg
+    .. image:: /images/Collin_Jones.jpg
        :alt: Collin Jones's Headshot
        :align: center
 
@@ -65,4 +65,4 @@ Education Background
 Professional Employment History
 -------------------------------
 
-* Resume Download
+* :download:`Resume Download <../../files/resumes/CJones_f20_resume-Collin_Jones.pdf>`

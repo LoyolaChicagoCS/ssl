@@ -65,4 +65,4 @@ Professional and Community Affiliations
 Professional Employment History
 -------------------------------
 
-* Resume Download
+* :download:`Resume Download <../../files/resumes/ResumeSSL-Alex_Rose.docx>`
