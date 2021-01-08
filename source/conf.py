@@ -49,9 +49,10 @@ rst_epilog = (
 
 .. |TE| replace:: :doc:`/research/in-progress/test-effectiveness`
 
-.. |NLC| replace:: `/research/incubation/nlc`
+.. |NLC| replace:: :doc:`/research/incubation/nlc`
 
-.. |FLIC| replace:: `/research/incubation/flic`
+.. |FLIC| replace:: :doc:`/research/incubation/flic`
+
 """
     % vars()
 )
