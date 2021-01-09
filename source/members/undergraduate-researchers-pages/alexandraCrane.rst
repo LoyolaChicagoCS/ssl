@@ -8,7 +8,7 @@ About
 
 .. sidebar:: Alexandra Crane's Contact Information
 
-    .. image:: /images/user.jpg
+    .. image:: /images/headshot2-Alexandra_Crane.jpg
        :alt: Alexandra Crane's Headshot
        :align: center
 
@@ -53,5 +53,5 @@ Education Background
 Professional Employment History
 -------------------------------
 
-* Resume Download
-* CV Download
+* :download:`Resume Download <../../files/resumes/CraneResume_2020-Alexandra_Crane.pdf>`
+* :download:`CV Download <../../files/cvs/Crane-SSL_CL-Alexandra_Crane.docx>`

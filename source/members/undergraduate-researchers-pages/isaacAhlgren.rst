@@ -47,25 +47,23 @@ Research Projects
     - Years Worked On
 
    *
-    - |Voltkey|
+    - |VoltKey|
     - 2020 - Present
 
    *
-    - |Local Mean Curvature|
+    - |NLC|
     - 2020 - Present
 
 Education Background
 --------------------
-*A bulleted list of all of the degrees/ certifications that an individual has.*
-
-.. note::
-    Attempt to link the degrees/ certifications and the educational institution to their respected home pages.
-
-**Example**
 
 * `BS in Computer Science <https://www.luc.edu/cs/academics/undergraduateprograms/bscs/>`_ from `Loyola University Chicago <https://www.luc.edu/>`_. Estimated Graduation: 2023
+
+Professional and Community Affiliations
+---------------------------------------
+* Software Intern at Eschaton Technologies
 
 Professional Employment History
 -------------------------------
 
-* Resume Download
+* :download:`Resume <../../files/resumes/Resume-Isaac_Ahlgren.pdf>`

@@ -55,4 +55,4 @@ Education Background
 Professional Employment History
 -------------------------------
 
-* Resume Download
+* :download:`Resume Download <../../files/resumes/Austin Pinderski_SSL_Resume.pdf>`

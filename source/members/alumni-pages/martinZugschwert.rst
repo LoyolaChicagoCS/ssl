@@ -8,7 +8,7 @@ About
 
 .. sidebar:: Martin Zugschwert's Contact Information
 
-    .. image:: /images/user.jpg
+    .. image:: /images/martin.jpg
        :alt: Martin Zugschwert's Headshot
        :align: center
 
@@ -59,4 +59,4 @@ Education Background
 Professional Employment History
 -------------------------------
 
-* Resume Download
+* :download:`Resume <../../files/resumes/Martin_Zugschwert_Resume-Martin_Zugschwert.pdf>`

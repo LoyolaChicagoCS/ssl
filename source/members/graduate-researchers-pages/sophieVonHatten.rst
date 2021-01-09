@@ -57,4 +57,4 @@ Education Background
 Professional Employment History
 -------------------------------
 
-* Resume Download
+* :download:`Resume <../../files/resumes/SophieVonHattenResume-Sophie_Von_Hatten.docx>`

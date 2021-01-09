@@ -8,7 +8,7 @@ About
 
 .. sidebar:: Allan Miller's Contact Information
 
-    .. image:: /images/user.jpg
+    .. image:: /images/allan.jpeg
        :alt: Allan Miller's Headshot
        :align: center
 
@@ -68,4 +68,4 @@ Professional and Community Affiliations
 Professional Employment History
 -------------------------------
 
-* Resume Download
+* :download:`Resume <../../files/resumes/AllanMillerResume_07_24_2020-Allan_Miller.pdf>`
