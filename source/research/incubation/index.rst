@@ -14,7 +14,7 @@ Below is a list of research projects that are currently not being worked on by m
 
    *
         - |LUTE|
-        - The Loyola University Technology Ensemble performs using a collection of tools for interactive music performance. These tools alow for group performance on laptops and to allow for tracking of progress through a group-performed composition.
+        - The Loyola University Technology Ensemble performs using a collection of tools for interactive music performance. These tools allow for a group performance on laptops and to allow for tracking of progress through a group-performed composition.
 
    *
         - |ZettelGeist|
@@ -26,8 +26,8 @@ Below is a list of research projects that are currently not being worked on by m
 
    *
         - |NLC|
-        - NLC is a mathematics project centered around writting algorithms for analyical mathematical concepts in a parraell way.
+        - NLC is a mathematics project centered around writing algorithms for analytical mathematical concepts in a parallel way.
 
    *
         - |FLIC|
-        - FLIC is a fog computing project which makes a fog topology more effecient with it's bytes in and bytes out.
+        - FLIC is a fog computing project which makes a fog topology more efficient with its bytes in and bytes out.

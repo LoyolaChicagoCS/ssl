@@ -24,6 +24,6 @@ If you're a past collaborator with |SSL| or one of Prof. Thiruvathukal's earlier
 
 Apply to Join
 -------------
-Want to join us? |Apply| today! You may also directly inquire other core faculty and members of the research team to find out more about SSL and our projects but an application is required to be considered for membership.
+Want to join us? |Apply| today! You may also directly inquire about other core faculty and members of the research team to find out more about SSL and our projects but an application is required to be considered for membership.
 
 .. |Apply| replace:: :doc:`Apply </apply>`

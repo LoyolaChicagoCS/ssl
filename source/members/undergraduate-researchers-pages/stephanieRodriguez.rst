@@ -17,7 +17,7 @@ About
     * `Linkedin <https://www.linkedin.com/in/stephanie99rodriguez/>`_
     * `GitHub <https://github.com/Steph99rod>`_
 
-Stephanie Rodriguez is pursuing a double-major in Computer Science and Business Information Systems as well as a student in the Quinlan School of Business Honors Program. She has experience in developing data pipelines to transform data stored in common workplace files such as excel, PDFs, text files, etc., in order to load the data into a local database or one hosted on AWS.
+Stephanie Rodriguez is pursuing a double-major in Computer Science and Business Information Systems as well as a student in the Quinlan School of Business Honors Program. She has experience in developing data pipelines to transform data stored in common workplace files such as excel, PDFs, text files, etc., to load the data into a local database or one hosted on AWS.
 
 Research Interests
 ------------------

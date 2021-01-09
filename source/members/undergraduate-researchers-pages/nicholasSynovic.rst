@@ -18,7 +18,7 @@ About
     * `Linkedin <https://linkedin.com/in/nsynovic>`_
     * `GitHub <https://github.com/NicholasSynovic>`_
 
-Nicholas Synovic is an undergraduate researcher working with |SSL| as a Team Lead and Software Engineer for the back-end portion of the |Metrics Dashboard| project, the current web maintainer for |SSL|, and as an Admin for the group. Furthermore, he is a part of the Chicago Area Undergraduate Research Inter-School Board, and the Loyola University Chicago Eta Omega Chapter of Beta Theta Pi as their Vice President of Communications. While taking on this load, Nicholas is also pursing a bachelors degree in Computer Science and intends to pursue a Master's degree in the same field.
+Nicholas Synovic is an undergraduate researcher working with SSL as a Team Lead and Software Engineer for the back-end portion of the Metrics Dashboard project, the current web maintainer for SSL, and as an Admin for the group. Furthermore, he is a part of the Chicago Area Undergraduate Research Inter-School Board, and the Loyola University Chicago Eta Omega Chapter of Beta Theta Pi as their Vice President of Communications. While taking on this load, Nicholas is also pursuing a bachelor's degree in Computer Science and intends to pursue a Master’s degree in the same field.
 
 Research Interests
 ------------------

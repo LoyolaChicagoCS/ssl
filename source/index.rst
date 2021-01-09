@@ -7,7 +7,7 @@ Thank you for checking out the Software and Systems Laboratory (SSL) website. We
 
 Our :doc:`members </members/index>` form an interdisciplinary group with :doc:`faculty and student interests </research/index>` in computer science, software engineering, information technology, cybersecurity, and engineering.
 
-The laboratory's focus is on researching computer systems and applied software engineering to solve |STEAM| related problems.
+The laboratory's focus is on researching computer systems and applied software engineering to solve |STEAM|-related problems.
 
 Methodology
 -----------
