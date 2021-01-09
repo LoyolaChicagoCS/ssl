@@ -68,4 +68,4 @@ Professional and Community Affiliations
 Professional Employment History
 -------------------------------
 
-* :download:`Resume Download <../../files/resumes/AllanMillerResume_07_24_2020-Allan_Miller.pdf>`
+* :download:`Resume <../../files/resumes/AllanMillerResume_07_24_2020-Allan_Miller.pdf>`

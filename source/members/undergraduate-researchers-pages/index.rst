@@ -61,7 +61,7 @@
    *
         - :doc:`/members/undergraduate-researchers-pages/treyRoche`
         - *Software Developer*
-        - |Color Deficiency Correction|
+        - Color Deficiency Correction
 
    *
         - :doc:`/members/undergraduate-researchers-pages/stephanieRodriguez`

@@ -8,7 +8,7 @@ About
 
 .. sidebar:: Alex Rose's Contact Information
 
-    .. image:: /images/user.jpg
+    .. image:: /images/0-Alex_Rose.jpg
        :alt: Alex Rose's Headshot
        :align: center
 
@@ -30,7 +30,7 @@ Research Areas
 --------------
 
 * Web Development
-* The History of Computing
+* The history of computing
 
 Research Projects
 -----------------
@@ -65,4 +65,4 @@ Professional and Community Affiliations
 Professional Employment History
 -------------------------------
 
-* :download:`Resume Download <../../files/resumes/ResumeSSL-Alex_Rose.docx>`
+* :download:`Resume <../../files/resumes/ResumeSSL-Alex_Rose.docx>`
