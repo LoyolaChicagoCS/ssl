@@ -31,7 +31,7 @@
    *
         - :doc:`/members/undergraduate-researchers-pages/isaacAhlgren`
         - *Software Developer*
-        - |Local Mean Curvature|, |VoltKey|
+        - |NLC|, |VoltKey|
 
    *
         - :doc:`/members/undergraduate-researchers-pages/emmanuelAmobi`
@@ -44,14 +44,9 @@
         - |History of Computing|
 
    *
-        - :doc:`/members/undergraduate-researchers-pages/erikGreve`
-        - *Software Developer*
-        - *Not Assigned*
-
-   *
         - :doc:`/members/undergraduate-researchers-pages/collinJones`
         - *Software Developer*
-        - *Not Assigned*
+        - Cyclometric Complexity
 
    *
         - :doc:`/members/undergraduate-researchers-pages/emilyMeister`
@@ -65,8 +60,8 @@
 
    *
         - :doc:`/members/undergraduate-researchers-pages/treyRoche`
-        - *Team Lead, Software Developer*
-        - |Color Deficiency Correction|
+        - *Software Developer*
+        - Color Deficiency Correction
 
    *
         - :doc:`/members/undergraduate-researchers-pages/stephanieRodriguez`
@@ -75,10 +70,10 @@
 
    *
         - :doc:`/members/undergraduate-researchers-pages/alexRose`
-        - *Team Lead, Software Engineer*
+        - *Software Engineer*
         - |History of Computing|, |Metrics Dashboard|
 
    *
         - :doc:`/members/undergraduate-researchers-pages/nicholasSynovic`
-        - *SSL Admin, Team Lead, Software Engineer*
-        - |Metrics Dashboard|, |Political Python|
+        - *Software Engineer*
+        - |Metrics Dashboard|

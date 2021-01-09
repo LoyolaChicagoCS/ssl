@@ -46,17 +46,17 @@
         - |SSL| Research Projects
 
    *
-        - :doc:`/members/faculty-pages/brookAbegaz`
+        - Brook Abegaz
         - *Affiliated Faculty*
         - TBD
 
    *
         - `Eric Chan-Tin <https://www.luc.edu/cs/people/ftfaculty/chan-tineric.shtml>`_
         - *Affiliated Faculty*
-        - |Autonomous Vehicle Security|
+        - Autonomous Vehicle Security
 
    *
-        - :doc:`/members/faculty-pages/davidDennis`
+        - David B. Dennis
         - *Affiliated Faculty*
         - |ZettelGeist|
 
@@ -68,7 +68,7 @@
    *
         - `William L. Honig <https://www.luc.edu/cs/people/ftfaculty/honigwilliaml.shtml>`_
         - *Affiliated Faculty*
-        - |Doyle Living Systems Lab|
+        - Doyle Living Systems Lab
 
    *
         - `Konstantin Läufer <https://www.luc.edu/cs/people/ftfaculty/lauferkonstantin.shtml>`_
@@ -81,6 +81,6 @@
         - |Shape Analysis|
 
    *
-        - `David B. Wetzel <https://www.luc.edu/cs/people/ptfaculty/davidbwetzel.shtml>`_
+        - David B. Wetzel
         - *Affiliated Faculty*
         - |LUTE|

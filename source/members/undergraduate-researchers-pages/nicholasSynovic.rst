@@ -8,7 +8,7 @@ About
 
 .. sidebar:: Nicholas Synovic's Contact Information
 
-    .. image:: /images/user.jpg
+    .. image:: /images/Nicholas_Synovic.png
        :alt: Nicholas Synovic's Headshot
        :align: center
 
@@ -50,10 +50,6 @@ Research Projects
     - |Metrics Dashboard|
     - 2019 - Present
 
-   *
-    - |Political Python|
-    - 2019 - Present
-
 Education Background
 --------------------
 
@@ -70,4 +66,4 @@ Professional and Community Affiliations
 Professional Employment History
 -------------------------------
 
-* Resume Download
+* :download:`Resume <../../files/resumes/Nicholas_Synovic-Resume.pdf>`

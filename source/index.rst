@@ -1,29 +1,31 @@
 Welcome to SSL
 ==============
 
-Hello World
------------
+Hello World!
+------------
 Thank you for checking out the Software and Systems Laboratory (SSL) website. We are a research laboratory based in the `Computer Science Department at Loyola University Chicago`_.
 
 Our :doc:`members </members/index>` form an interdisciplinary group with :doc:`faculty and student interests </research/index>` in computer science, software engineering, information technology, cybersecurity, and engineering.
 
-The laboratory's focus is on researching computer systems and applied software engineering to solve |STEAM| releated problems.
+The laboratory's focus is on researching computer systems and applied software engineering to solve |STEAM| related problems.
 
 Methodology
 -----------
-We foster innovation by encouraging experimentation and collaboration with a strong emphasis on openness. To uphold this commitment, we enforce `open-source software development`_, open access and dissemination of research software, and by creating reproducible results within all of our projects.
+We foster innovation by encouraging experimentation and collaboration with a strong emphasis on openness. To uphold this commitment, we enforce `open-source software development`_, open access, and dissemination of research software by creating reproducible results within all of our projects.
 
-|SSL| embraces the notion that diversity drives creativity and innovation. Following the principles of the `IEEE Special Technical Community on Broadening Participation`_, all are welcome, regardless of gender, race, ethnicity, socio-economic advantage, physical, mental, and cognitive ability, and LGBTQA+ status.
+|SSL| embraces the notion that diversity drives creativity and innovation. We follow the principles of the `IEEE Special Technical Community on Broadening Participation`_ allowing anyone regardless of gender, race, ethnicity, socio-economic status, physical, mental, and cognitive ability, or LGBTQA+ status to join our lab.
 
 Apply
 -----
 While we are based at Loyola University Chicago, we welcome anyone interested in using emerging technologies and software engineering to solve problems.
 
-To join the research group, you must apply. Current team members interview prospective team members, followed by an interview with the director, and affiliated faculty. Decisions are based on previous development experience, the ability to work in a team setting, and a statement of purpose. All Loyola University Chicago participants are eligible to apply for `independent study`_. Regardless of whether one earns credit or non-credit, we expect participants to make at least a 6-month commitment to remain inactive status within the research group.
+To learn more about how to apply, see our :doc:`Apply <apply>` page.
 
-.. todo::
-    * Change the application requirements
-    * Add a link to the application at the word apply
+.. To join the research group, you must apply. Current team members interview prospective team members, followed by an interview with the director and affiliated faculty. Decisions are based on previous development experience, the ability to work in a team setting, and a statement of purpose. All Loyola University Chicago participants are eligible to apply for `independent study`_. Regardless of whether one earns credit or non-credit, we expect participants to make at least a 6-month commitment to remain inactive status within the research group.
+
+.. .. todo::
+..     * Change the application requirements
+..     * Add a link to the application at the word apply
 
 Website Issues
 --------------
@@ -48,6 +50,4 @@ This site is also available in |pdf-version| or |epub-version| formats.
 
     Apply <apply>
     Members <members/index>
-    Open CS Initiative <open-cs-initiative/index>
-    Reading Group/ Podcast <open-cs-initiative/reading-group-podcast>
     Research <research/index>

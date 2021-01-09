@@ -8,7 +8,7 @@ About
 
 .. sidebar:: Collin Jones's Contact Information
 
-    .. image:: /images/user.jpg
+    .. image:: /images/Collin_Jones.jpg
        :alt: Collin Jones's Headshot
        :align: center
 
@@ -35,8 +35,6 @@ Research Areas
 
 Research Projects
 -----------------
-
- implementing cyclomatic complexity measurements in the mini compiler for comp 371 - 2020 to current.
 
 .. list-table::
    :widths: 50 50
@@ -65,4 +63,4 @@ Education Background
 Professional Employment History
 -------------------------------
 
-* Resume Download
+* :download:`Resume Download <../../files/resumes/CJones_f20_resume-Collin_Jones.pdf>`

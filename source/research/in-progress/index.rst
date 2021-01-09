@@ -11,6 +11,10 @@ Below is a list of research projects that are currently being worked on by membe
         - Project Description
 
    *
+        - |History of Computing|
+        - A single page React website that compares and contrasts the historical timelines in both the History of Computing and the History of Culture.
+
+   *
         - |Metrics Dashboard|
         - The Metrics Dashboard is research software to apply classical in-process and code metrics to observe team progress and project health in open source projects.
 

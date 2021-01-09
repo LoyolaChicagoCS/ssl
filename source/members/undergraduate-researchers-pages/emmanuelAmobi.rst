@@ -8,7 +8,7 @@ About
 
 .. sidebar:: Emmanuel Amobi's Contact Information
 
-    .. image:: /images/user.jpg
+    .. image:: /images/emmanuel.jpg
        :alt: Emmanuel Amobi's Headshot
        :align: center
 
@@ -65,4 +65,4 @@ Professional and Community Affiliations
 Professional Employment History
 -------------------------------
 
-* Resume Download
+* :download:`Resume <../../files/resumes/Emmanuel_Amobi-Resume.pdf>`
