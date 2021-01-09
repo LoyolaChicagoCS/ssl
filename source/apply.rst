@@ -28,7 +28,7 @@ What We Will Do
 After receiving an application the advisory board of SSL will review it and determine whether or not to pursue further application steps with the applicant.
 
 .. note::
-    The application specific questions (such as your name or academic level) do not play a role in our thought process. Such information is collected purely for record-keeping and to reach out to applicants.
+    The application-specific questions (such as your name or academic level) do not play a role in our thought process. Such information is collected purely for record-keeping and to reach out to applicants.
 
 Regardless of the decision applicants will be notified via email about it as well as any further application steps that need to be taken.
 

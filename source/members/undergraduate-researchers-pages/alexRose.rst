@@ -18,7 +18,7 @@ About
     * `Linkedin <https://www.linkedin.com/in/alexander-r-5a14b0118/>`_
     * `GitHub <https://github.com/acrose99>`_
 
-Alex is a Junior CS major at Loyola University Chicago.  Alex does research for the Loyola Software Systems Laboratory under Professor George Thiruvathukal and Professor David Dennis, as a Mulcahy Fellow. Alex currently leads a team of three students on a project about the History of Computing.
+Alex is a Junior CS major at Loyola University Chicago. Alex researches the Loyola Software Systems Laboratory under Professor George Thiruvathukal and Professor David Dennis, as a Mulcahy Fellow. Alex currently leads a team of three students on a project about the History of Computing.
 
 |
 |

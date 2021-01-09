@@ -17,7 +17,7 @@ About
     * `Linkedin <https://www.linkedin.com/in/emmaamobi/>`_
     * `GitHub <https://github.com/emmaamobi>`_
 
-Emmanuel is currently a senior majoring in software engineering with a minor in Mathematics. He is currently conducting research for the metrics dashboard in a research group at Loyola known as SSL. He is also a member of DON’T PANIC club, at computer science club at a Loyola that hosts a lot of computer science events. He has worked with various students and professors at the Loyola Computer Science Tutoring Department, aiding students with CS related topics and giving them the needed assistance. In his free time he likes to workout, watch youtube videos on a variety of topics of interest, and likes to read research papers and books on nutrition and psychology
+Emmanuel is currently a senior majoring in software engineering with a minor in Mathematics. He is currently researching the metrics dashboard in a research group at Loyola known as SSL. He is also a member of the DON’T PANIC club, at computer science club at Loyola that hosts a lot of computer science events. He has worked with various students and professors at the Loyola Computer Science Tutoring Department, aiding students with CS-related topics and giving them the needed assistance. In his free time, he likes to work out, watch youtube videos on a variety of topics of interest and likes to read research papers and books on nutrition and psychology.
 
 Research Areas
 --------------

@@ -14,7 +14,7 @@ Abstract
 --------
 Technically, we would like to create a site that compares and contrasts the historical timelines in both the History of Computing and the History of Culture. This solves a separate problem about the field of the History of Computing, there are not many aesthetically pleasing condensed summaries for readers without the time to read a whole book, and there are none that also take into account the aspect of Culture within the history of computing.
 
-Currently the code is being hosted on a personal repo, this is subject to change to a more streamlined process in the coming weeks.
+Currently, the code is being hosted on a personal repo, this is subject to change to a more streamlined process in the coming weeks.
 
 The first version of the documentation has been published too.
 
@@ -29,7 +29,7 @@ Presentations
 -------------
 By the end of the year, we would like our website to be presentable to the public!
 
-We may also present on ACM SIGCIS 2020, if accepted!
+We may also present on ACM SIGCIS 2020 if accepted!
 
 Tech Reports
 ------------

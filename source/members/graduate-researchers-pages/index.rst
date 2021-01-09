@@ -29,10 +29,10 @@
 
    *
         - :doc:`/members/graduate-researchers-pages/sophieVonHatten`
-        - *Team Lead, Software Engineer, SSL Admin*
+        - *Software Engineer*
         - |Metrics Dashboard|
 
    *
         - :doc:`/members/graduate-researchers-pages/jackWest`
-        - *Team Lead, Software Engineer, SSL Admin*
+        - *Software Engineer*
         - |VoltKey|, |ZettelGeist|

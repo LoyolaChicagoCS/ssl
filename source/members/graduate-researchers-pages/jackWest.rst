@@ -8,7 +8,7 @@ About
 
 .. sidebar:: Jack West's Contact Information
 
-    .. image:: /images/jack.jpeg
+    .. image:: /images/user.jpg
        :alt: Jack West's Headshot
        :align: center
 

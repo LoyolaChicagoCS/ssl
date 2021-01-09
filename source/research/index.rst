@@ -21,7 +21,7 @@ Research Publications
 ---------------------
 All |SSL| publications are maintained in the Loyola University eCommons under the `SSL Collecton`_.
 
-Publications prior to the formation of the |SSL| Collection (2019) can be found in the `Computer Science Collection`_.
+Publications before the formation of the |SSL| Collection (2019) can be found in the `Computer Science Collection`_.
 
 .. _SSL Collecton: https://ecommons.luc.edu/ssl_pubs
 .. _Computer Science Collection: https://ecommons.luc.edu/cs_facpubs
