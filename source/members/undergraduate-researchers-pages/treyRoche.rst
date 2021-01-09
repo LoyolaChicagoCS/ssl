@@ -8,13 +8,13 @@ About
 
 .. sidebar:: Trey Roche's Contact Information
 
-    .. image:: /images/user.jpg
+    .. image:: /images/profile-Trey_Roche.jpg
        :alt: Trey Roche's Headshot
        :align: center
 
     |
 
-    * `Personal Website <http://treyroche.com >`_
+    * `Personal Website <http://treyroche.com>`_
     * `Linkedin <https://www.linkedin.com/in/trey-roche-587b7717a/>`_
     * `GitHub <https://github.com/Troche4>`_
 
@@ -45,7 +45,7 @@ Research Projects
     - Years Worked On
 
    *
-    - |Color Deficiency Correction|
+    - Color Deficiency Correction
     - 2020 - Present
 
 Education Background
@@ -56,4 +56,4 @@ Education Background
 Professional Employment History
 -------------------------------
 
-* Resume Download
+* :download:`Resume <../../files/resumes/ResumeTreyRoche-Trey_Roche.docx>`

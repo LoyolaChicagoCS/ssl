@@ -36,8 +36,6 @@ Research Areas
 Research Projects
 -----------------
 
- implementing cyclomatic complexity measurements in the mini compiler for comp 371 - 2020 to current.
-
 .. list-table::
    :widths: 50 50
    :header-rows: 1

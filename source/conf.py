@@ -53,6 +53,8 @@ rst_epilog = (
 
 .. |FLIC| replace:: :doc:`/research/incubation/flic`
 
+.. |History of Computing| replace:: :doc:`/research/in-progress/history-of-computing`
+
 """
     % vars()
 )

@@ -46,7 +46,7 @@
    *
         - :doc:`/members/undergraduate-researchers-pages/collinJones`
         - *Software Developer*
-        - *Not Assigned*
+        - Cyclometric Complexity
 
    *
         - :doc:`/members/undergraduate-researchers-pages/emilyMeister`
@@ -70,7 +70,7 @@
 
    *
         - :doc:`/members/undergraduate-researchers-pages/alexRose`
-        - * Software Engineer*
+        - *Software Engineer*
         - |History of Computing|, |Metrics Dashboard|
 
    *
