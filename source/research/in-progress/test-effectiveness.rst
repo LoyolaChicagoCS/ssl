@@ -13,5 +13,5 @@ Key Papers
 .. list-table::
    :widths: 25 15
 
-   * - |Konstantin Läufer|, John O’Sullivan, and |George-K-Thiruvathukal|. 2019. *Tests as Maintainable Assets Via Auto-generated Spies*. In Proceedings of Tenth ACM SIGPLAN Scala Symposium, London, United Kingdom, July 17, 2019 (Scala ’19), https://ecommons.luc.edu/cs_facpubs/230/
+   * - |Konstantin Läufer|, John O’Sullivan, and |George K. Thiruvathukal|. 2019. *Tests as Maintainable Assets Via Auto-generated Spies*. In Proceedings of Tenth ACM SIGPLAN Scala Symposium, London, United Kingdom, July 17, 2019 (Scala ’19), https://ecommons.luc.edu/cs_facpubs/230/
      - :index:`testing`, :index:`software quality`, :index:`maintainability`, :index:`software engineering`, :index:`programming languages`

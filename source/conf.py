@@ -47,7 +47,7 @@ rst_epilog = (
 
 .. |Emmanuel Amobi| replace:: :doc:`/members/undergraduate-researchers-pages/emmanuelAmobi`
 
-.. |EmilyMeister| replace:: :doc:`/members/undergraduate-researchers-pages/emilyMeister`
+.. |Emily Meister| replace:: :doc:`/members/undergraduate-researchers-pages/emilyMeister`
 
 .. |Eric Chan-Tin| replace:: `Eric Chan-Tin <https://www.luc.edu/cs/people/ftfaculty/chan-tineric.shtml>`__
 
