@@ -3,7 +3,7 @@ Welcome to SSL
 
 Hello World!
 ------------
-Thank you for checking out the Software and Systems Laboratory (SSL) website. We are a research laboratory based in the `Computer Science Department at Loyola University Chicago`_.
+Thank you for checking out the Software and Systems Laboratory (|SSL|) website. We are a research laboratory based in the `Computer Science Department at Loyola University Chicago`_.
 
 Our :doc:`members </members/index>` form an interdisciplinary group with :doc:`faculty and student interests </research/index>` in computer science, software engineering, information technology, cybersecurity, and engineering.
 
