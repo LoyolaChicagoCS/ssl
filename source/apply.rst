@@ -39,6 +39,6 @@ Two meetings are conducted before one is fully accepted into |SSL|. The first of
 
 The first meeting is designed to see if an applicant would be a good fit for the lab. The questions that will be asked will test their character and not their knowledge of Computer Science or affiliated fields.
 
-The second meeting is meant for the applicant to get approval from the Loyola University Chicago Computer Science Staff. Questions asked during this meeting, if any, will be left to the professor or mentor.
+The second meeting is meant for the applicant to get approval from the |LUC| Computer Science Staff. Questions asked during this meeting, if any, will be left to the professor or mentor.
 
 After completing both meetings, an applicant becomes a member of |SSL| and can begin attending research meetings as well as be officially be listed on projects on the |SSL| website.

@@ -24,4 +24,4 @@
 .. csv-table::
    :header: "Name", "Position", "|SSL| Research Project(s)"
    :widths: 10, 10, 30
-   :file: alumni.csv
+   :file: researchers.csv

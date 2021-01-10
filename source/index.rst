@@ -14,7 +14,7 @@ Hello World!
 ------------
 Thank you for checking out the Software and Systems Laboratory (|SSL|) website. We are a research laboratory based in the `Computer Science Department at Loyola University Chicago`_.
 
-Our :doc:`members </members/index>` form an interdisciplinary group with :doc:`faculty and student interests </research/index>` in computer science, software engineering, information technology, cybersecurity, and engineering.
+Our |Members| form an interdisciplinary group with :doc:`faculty and student interests </research/index>` in computer science, software engineering, information technology, cybersecurity, and engineering.
 
 The laboratory's focus is on researching computer systems and applied software engineering to solve |STEAM|-related problems.
 
@@ -26,15 +26,9 @@ We foster innovation by encouraging experimentation and collaboration with a str
 
 Apply
 -----
-While we are based at Loyola University Chicago, we welcome anyone interested in using emerging technologies and software engineering to solve problems.
+While we are based at Loyola University Chicago (|LUC|), we welcome anyone interested in using emerging technologies and software engineering to solve problems.
 
-To learn more about how to apply, see our :doc:`Apply <apply>` page.
-
-.. To join the research group, you must apply. Current team members interview prospective team members, followed by an interview with the director and affiliated faculty. Decisions are based on previous development experience, the ability to work in a team setting, and a statement of purpose. All Loyola University Chicago participants are eligible to apply for `independent study`_. Regardless of whether one earns credit or non-credit, we expect participants to make at least a 6-month commitment to remain inactive status within the research group.
-
-.. .. todo::
-..     * Change the application requirements
-..     * Add a link to the application at the word apply
+To learn more about how to apply, see our |Apply| page.
 
 Website Issues
 --------------

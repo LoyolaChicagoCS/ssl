@@ -35,6 +35,8 @@ rst_epilog = (
 
 .. |Andrew Lake| replace:: :doc:`/members/alumni-pages/andrewLake`
 
+.. |Apply| replace:: :doc:`Apply </apply>`
+
 .. |Argonne National Laboratory| replace:: `Argonne National Laboratory <https://www.anl.gov/>`__
 
 .. |Austin Pinderski| replace:: :doc:`/members/undergraduate-researchers-pages/austinPinderski`
@@ -77,9 +79,13 @@ rst_epilog = (
 
 .. |Louisiana State University| replace:: `Louisiana State University <https://lsu.edu/>`__
 
+.. |LUC| replace:: :abbr:`LUC (Loyola University Chicago)`
+
 .. |LUTE| replace:: :doc:`/research/incubation/lute`
 
 .. |Martin Zugschwert| replace:: :doc:`/members/alumni-pages/martinZugschwert`
+
+.. |Members| replace:: :doc:`members </members/index>`
 
 .. |Metrics Dashboard| replace:: :doc:`/research/in-progress/metrics-dashboard`
 
@@ -116,7 +122,6 @@ rst_epilog = (
 .. |STEAM| replace:: :abbr:`STEAM (Science, Technology, Engineering, Arts, and Mathematics)`
 
 .. |Stephanie Rodriguez| replace:: :doc:`/members/undergraduate-researchers-pages/stephanieRodriguez`
-
 
 .. |TE| replace:: :doc:`/research/in-progress/test-effectiveness`
 
