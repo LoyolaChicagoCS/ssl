@@ -45,6 +45,8 @@ rst_epilog = (
 
 .. |Daniel Palacios| replace:: :doc:`/members/alumni-pages/danielPalacios`
 
+.. |ECE| replace:: :abbr:`ECE (Electrical and Computer Engineering)`
+
 .. |Emmanuel Amobi| replace:: :doc:`/members/undergraduate-researchers-pages/emmanuelAmobi`
 
 .. |Emily Meister| replace:: :doc:`/members/undergraduate-researchers-pages/emilyMeister`
@@ -102,6 +104,8 @@ rst_epilog = (
 .. |NLC| replace:: :doc:`/research/incubation/nlc`
 
 .. |pdf-version| replace:: `printable PDF  <https://github.com/LoyolaChicagoCS/ssl/releases/download/%(version)s/SoftwareSystemsLaboratory.pdf>`__
+
+.. |Purdue University| replace:: `Purdue University <https://www.purdue.edu/>`__
 
 .. |Riley Clarkson| replace:: :doc:`/members/alumni-pages/rileyClarkson`
 
