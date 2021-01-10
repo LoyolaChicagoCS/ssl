@@ -12,68 +12,13 @@
         executing development plans and programming software into existence," [1].
 
 ..  [1]K. Heinz, “Software Engineer vs. Developer: What’s The
-        Difference?,” Built In, Jan. 15, 2020. https://builtin.com/recruiting/software-engineer-vs-developer (accessed Nov. 14, 2020).
+        Difference?,” Built In, Jan. 15, 2020. https://builtin.com/recruiting/softwareengineervsdeveloper (accessed Nov. 14, 2020).
 
 .. Projects are listed in ALPHABETICAL ORDER
 
 |SSL| Undergraduate Researchers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table::
-   :widths: 10 10 30
-   :header-rows: 1
-
-   *
-        - Name
-        - Position
-        - |SSL| Research Projects
-
-   *
-        - :doc:`/members/undergraduate-researchers-pages/isaacAhlgren`
-        - *Software Developer*
-        - |NLC|, |VoltKey|
-
-   *
-        - :doc:`/members/undergraduate-researchers-pages/emmanuelAmobi`
-        - *Software Developer*
-        - |Metrics Dashboard|, |ZettelGeist|
-
-   *
-        - :doc:`/members/undergraduate-researchers-pages/alexandraCrane`
-        - *Software Developer*
-        - |History of Computing|
-
-   *
-        - :doc:`/members/undergraduate-researchers-pages/collinJones`
-        - *Software Developer*
-        - Cyclometric Complexity
-
-   *
-        - :doc:`/members/undergraduate-researchers-pages/emilyMeister`
-        - *Software Developer*
-        - |Metrics Dashboard|
-
-   *
-        - :doc:`/members/undergraduate-researchers-pages/austinPinderski`
-        - *Software Developer*
-        - |Metrics Dashboard|
-
-   *
-        - :doc:`/members/undergraduate-researchers-pages/treyRoche`
-        - *Software Developer*
-        - Color Deficiency Correction
-
-   *
-        - :doc:`/members/undergraduate-researchers-pages/stephanieRodriguez`
-        - *Software Developer*
-        - |Metrics Dashboard|
-
-   *
-        - :doc:`/members/undergraduate-researchers-pages/alexRose`
-        - *Software Engineer*
-        - |History of Computing|, |Metrics Dashboard|
-
-   *
-        - :doc:`/members/undergraduate-researchers-pages/nicholasSynovic`
-        - *Software Engineer*
-        - |Metrics Dashboard|
+.. csv-table::
+   :header: "Name", "Position", "|SSL| Research Project(s)"
+   :widths: 10, 10, 30
+   :file: researchers.csv

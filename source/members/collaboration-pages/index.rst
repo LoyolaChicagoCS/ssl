@@ -4,85 +4,37 @@
 
 |SSL| Collaborations (Argonne National Laboratory)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. list-table::
-   :widths: 10 40
-   :header-rows: 1
+.. csv-table::
+   :header: "Name", "Position", "|SSL| Research Project(s)"
+   :widths: 10, 20, 20
+   :file: argonne.csv
 
-   *
-        - Name
-        - Position
-
-   *
-        - Xiaoyong Jin
-        - *Assistant Scientist at Argonne National Laboratory*
-
-   *
-        - Silvio B. Rizzi
-        - *Computer Scientist at Argonne National Laboratory*
-
-   *
-        - Venkatram Vishwanath
-        - *Computer Scientist at Argonne National Laboratory*
 
 |SSL| Collaborations (LSU)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. list-table::
-   :widths: 10 40
-   :header-rows: 1
+.. csv-table::
+   :header: "Name", "Position", "|SSL| Research Project(s)"
+   :widths: 10, 20, 20
+   :file: lsu.csv
 
-   *
-        - Name
-        - Position
-
-   *
-        - Juliet Brophy
-        - *Assistant Professor of Anthropology at Louisiana State University*
 
 |SSL| Collaborations (Outside Ph.D. Students)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. list-table::
-   :widths: 10 40
-   :header-rows: 1
-
-   *
-        - Name
-        - University
-
-   *
-        - Dario J. Dematties
-        - University of Buenos Aires, Argentina
-
-   *
-        - Nasir O. Eisty
-        - University of Alabama
+.. csv-table::
+   :header: "Name", "School", "|SSL| Research Project(s)"
+   :widths: 10, 20, 20
+   :file: outsidePHD.csv
 
 |SSL| Collaborations (Purdue)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. list-table::
-   :widths: 10 10 30
-   :header-rows: 1
-
-   *
-        - Name
-        - Position
-        - Research Lab
-
-   *
-        - Yung-Hsiang Lu
-        - *Professor of Computer Engineering at Purdue University*
-        - `High-Energy Low-Power Systems Laboratory <https://purduehelps.org>`_
+.. csv-table::
+   :header: "Name", "Position", "|SSL| Research Project(s)"
+   :widths: 10, 20, 20
+   :file: purdue.csv
 
 |SSL| Collaborations (UoA)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. list-table::
-   :widths: 10 40
-   :header-rows: 1
-
-   *
-        - Name
-        - Position
-
-   *
-        - Jeffrey C. Carver
-        - *Professor of Computer Science at University of Alabama*
+.. csv-table::
+   :header: "Name", "Position", "|SSL| Research Project(s)"
+   :widths: 10, 20, 20
+   :file: uoa.csv

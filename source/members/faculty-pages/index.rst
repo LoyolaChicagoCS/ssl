@@ -18,69 +18,15 @@
 
 |SSL| Faculty Leadership
 ^^^^^^^^^^^^^^^^^^^^^^^^
-.. list-table::
-   :widths: 10 10 30
-   :header-rows: 1
+.. csv-table::
+   :header: "Name", "Position", "|SSL| Research Project(s)"
+   :widths: 10, 10, 30
+   :file: leadership.csv
 
-   * - Name
-     - Position
-     - |SSL| Research Projects
-
-   * - `Neil Klingensmith <https://www.luc.edu/cs/people/ftfaculty/klingensmithneil.shtml>`_
-     - *Co-Director*
-     - |Hermes|, |VoltKey|
-
-   * - `George K. Thiruvathukal <https://www.luc.edu/cs/people/ftfaculty/gkt.shtml>`_
-     - *Director*
-     - |LUTE|, |Metrics Dashboard|, |Shape Analysis|, |TE|, |VoltKey|
 
 |SSL| Affiliated Faculty
-^^^^^^^^^^^^^^^^^^
-.. list-table::
-   :widths: 10 10 30
-   :header-rows: 1
-
-   *
-        - Name
-        - Position
-        - |SSL| Research Projects
-
-   *
-        - Brook Abegaz
-        - *Affiliated Faculty*
-        - TBD
-
-   *
-        - `Eric Chan-Tin <https://www.luc.edu/cs/people/ftfaculty/chan-tineric.shtml>`_
-        - *Affiliated Faculty*
-        - Autonomous Vehicle Security
-
-   *
-        - David B. Dennis
-        - *Affiliated Faculty*
-        - |ZettelGeist|
-
-   *
-        - `Nicholas J. Hayward <https://www.luc.edu/cs/people/ftfaculty/haywardnicholas.shtml>`_
-        - *Affiliated Faculty*
-        - TBD
-
-   *
-        - `William L. Honig <https://www.luc.edu/cs/people/ftfaculty/honigwilliaml.shtml>`_
-        - *Affiliated Faculty*
-        - Doyle Living Systems Lab
-
-   *
-        - `Konstantin Läufer <https://www.luc.edu/cs/people/ftfaculty/lauferkonstantin.shtml>`_
-        - *Affiliated Faculty*
-        - |Metrics Dashboard|, |TE|
-
-   *
-        - Gregory J. Matthews
-        - *Affiliated Faculty*
-        - |Shape Analysis|
-
-   *
-        - David B. Wetzel
-        - *Affiliated Faculty*
-        - |LUTE|
+^^^^^^^^^^^^^^^^^^^^^^^^
+.. csv-table::
+   :header: "Name", "Position", "|SSL| Research Project(s)"
+   :widths: 10, 10, 30
+   :file: affiliated.csv

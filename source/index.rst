@@ -1,6 +1,15 @@
 Welcome to SSL
 ==============
 
+.. todo::
+    Add to the epilouge all Universities and Labs mentioned on this website
+    - EX: Loyola and Purdue and Purdue ECE
+
+.. todo::
+    Go through all of the research pages and make sure that there are:
+    - Proper links to all research and references via the epilouge
+    - Have proper links to all students from the research pages
+
 Hello World!
 ------------
 Thank you for checking out the Software and Systems Laboratory (|SSL|) website. We are a research laboratory based in the `Computer Science Department at Loyola University Chicago`_.
