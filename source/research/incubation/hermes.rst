@@ -22,8 +22,8 @@ Key Papers
 
 .. todo:: Neil to put these papers up on eCommons.
 
-Neil Klingensmith and Suman Banerjee, *Using Virtualized Task Isolation to Improve Responsiveness in Mobile and IoT Software*, ACM IoTDI, Montreal, QC, CA, April 2019
+|Neil Klingensmith| and Suman Banerjee, *Using Virtualized Task Isolation to Improve Responsiveness in Mobile and IoT Software*, ACM IoTDI, Montreal, QC, CA, April 2019
 
-Neil Klingensmith and Suman Banerjee, *A Hypervisor-Based Privacy Agent for Mobile and IoT Systems*, ACM HotMobile, Santa Cruz, CA, February 2019
+|Neil Klingensmith| and Suman Banerjee, *A Hypervisor-Based Privacy Agent for Mobile and IoT Systems*, ACM HotMobile, Santa Cruz, CA, February 2019
 
-Neil Klingensmith and Suman Banerjee, *Hermes: A Real Time Hypervisor for Mobile and IoT Systems*, ACM HotMobile, Tempe, AZ, February 2018
+|Neil Klingensmith| and Suman Banerjee, *Hermes: A Real Time Hypervisor for Mobile and IoT Systems*, ACM HotMobile, Tempe, AZ, February 2018

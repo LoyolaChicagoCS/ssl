@@ -10,9 +10,9 @@ VoltKey is a plug that generates USB power for IoT devices from a 120V wall outl
 Faculty Advisor
 ------------------
 
-Neil Klingensmith
+|Neil Klingensmith|
 
 Key Publications
 ------------------
 
-Kyuin Lee, Neil Klingensmith, Younghyun Kim, Suman Banerjee, *VoltKey: Continuous Secret Key Generation based on Power Line Noise for Zero-Involvement Pairing and Authentication*, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), September 2019
+Kyuin Lee, |Neil Klingensmith|, Younghyun Kim, Suman Banerjee, *VoltKey: Continuous Secret Key Generation based on Power Line Noise for Zero-Involvement Pairing and Authentication*, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), September 2019

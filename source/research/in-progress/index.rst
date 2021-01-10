@@ -5,4 +5,4 @@ Below is a list of research projects that are currently being worked on by membe
 .. csv-table::
    :header: "|SSL| Research", "Description"
    :widths: 20, 30
-   :fil: research.csv
+   :file: research.csv

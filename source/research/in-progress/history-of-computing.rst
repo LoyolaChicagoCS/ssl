@@ -7,7 +7,7 @@ History of Computing
 
 Introduction
 ------------
-Our goal, with Prof. Thiruvathukal and Professor David Dennis, is to synthesize the field of Computer Science and Cultural History. We aim to go beyond the traditional narratives of computational historiography, in which linear technological developments are focused upon. Instead, it seeks to provide a more fulfilling explanation of The History of Computing, by explaining the cultural aspects that led to the information age, an overview of how the advent of new computational technology led to significant cultural shifts, while also showing a clear timeline of significant developments in the sphere of computing.
+Our goal, with Professor |George K. Thiruvathukal| and Professor David Dennis, is to synthesize the field of Computer Science and Cultural History. We aim to go beyond the traditional narratives of computational historiography, in which linear technological developments are focused upon. Instead, it seeks to provide a more fulfilling explanation of The History of Computing, by explaining the cultural aspects that led to the information age, an overview of how the advent of new computational technology led to significant cultural shifts, while also showing a clear timeline of significant developments in the sphere of computing.
 
 
 Abstract
@@ -21,7 +21,6 @@ The first version of the documentation has been published too.
 Publications
 ------------
 The idea of the book, which will be our historical basis, was first presented at the CSTEMER 2017 conference: `"Computer Science and Cultural History: A Dialogue” by David B. Dennis and George K. Thiruvathukal <https://ecommons.luc.edu/history_facpubs/42/>`_
-
 
 A textbook titled *The History of Computing* is forthcoming!
 
@@ -45,12 +44,12 @@ Source Code
 
 Faculty Advisors
 ----------------
-- Professor George K. Thiruvathukal as Project Advisor
+- Professor |George K. Thiruvathukal| as Project Advisor
 - Professor David Dennis as Historical Advisor
 
 Undergraduate Researchers
 -------------------------
 
-- Alex Rose as Team Lead
-- Alex Crane
-- Jack Narowski
+- |Alex Rose|
+- |Alexandra Crane|
+- |Jack Narowski|

@@ -16,34 +16,49 @@ The Metrics Dashboard focuses on metrics indicative of team progress and project
 Student Researchers
 ---------------------
 
-- Allan Miller
-- Emmanuel Amobi
-- Sean Higgins
-- Linette Maliakal
-- Emily Meister
-- Jean-Luc Putter
-- Alex Rose
-- Nicholas Synovic
-- Sophie Von Hatten
-- Jonathan Warkentin
-- Martin Zugschwert
+Graduate Researchers
+^^^^^^^^^^^^^^^^^^^^
+- |Sophie Von Hatten|
+
+Undergraduate Researchers
+^^^^^^^^^^^^^^^^^^^^^^^^^
+- |Austin Pinderski|
+- |Emmanuel Amobi|
+- |Nicholas Synovic|
+- |Stephanie Rodriguez|
+
+Past Researchers
+^^^^^^^^^^^^^^^^
+
+.. note::
+    This list contains both alumni and current members who have stepped away from this project to pursue other interests.
+
+- |Alex Rose|
+- |Allan Miller|
+- |Emily Meister|
+- |Jean-Luc Putter|
+- |Jonathan Warkentin|
+- |Linette Maliakal|
+- |Martin Zugschwert|
+- |Sean Higgins|
+- |Shilpika|
 
 Faculty Advisors
 ------------------
 
-- George K. Thiruvathukal
-- Nick Hayward
-- Konstantin Läufer
+- |George K. Thiruvathukal|
+- |Nicholas J. Hayward|
+- |Konstantin Läufer|
 
 Research Prototype
 ---------------------------------
 
-http://luc-metrics.herokuapp.com/ (proof of concept)
+http://luc-metrics.herokuapp.com/
 
 GitHub
 --------
 
-https://github.com/AJM10565/SSLMetrics (new work)
+https://github.com/SoftwareSystemsLaboratory/Metrics-Dashboard
 
 Presentations
 ---------------
@@ -53,16 +68,16 @@ Allan Miller's presentation at the Graduate Student Symposium, Spring 2020, http
 Publications
 -------------
 
-- Nasir U. Eisty, George K. Thiruvathukal, and Jeffrey C. Carver, *Use of Software Process in Research Software Development: A Survey*, Proceedings of the Evaluation and Assessment on Software Engineering (EASE) 2019.  2019, https://ecommons.luc.edu/cs_facpubs/214/
+- Nasir U. Eisty, |George K. Thiruvathukal|, and Jeffrey C. Carver, *Use of Software Process in Research Software Development: A Survey*, Proceedings of the Evaluation and Assessment on Software Engineering (EASE) 2019.  2019, https://ecommons.luc.edu/cs_facpubs/214/
 
-- Nasir U. Eisty, George K. Thiruvathukal, and Jeffrey C. Carver, *A Survey of Software Metric Use in Research Software Development*, IEEE 14th International Conference on e-Science (e-Science), 2018, pp. 212-222, https://ecommons.luc.edu/cs_facpubs/206/
+- Nasir U. Eisty, |George K. Thiruvathukal|, and Jeffrey C. Carver, *A Survey of Software Metric Use in Research Software Development*, IEEE 14th International Conference on e-Science (e-Science), 2018, pp. 212-222, https://ecommons.luc.edu/cs_facpubs/206/
 
 Tech Reports
 --------------
 
-- George K. Thiruvathukal, Shilpika, Nicholas J. Hayward, and Konstantin Läufer, *Metrics Dashboard: A Hosted Platform for Software Quality Metrics*, https://arxiv.org/abs/1804.02053
+- |George K. Thiruvathukal|, |Shilpika|, |Nicholas J. Hayward|, and |Konstantin Läufer|, *Metrics Dashboard: A Hosted Platform for Software Quality Metrics*, https://arxiv.org/abs/1804.02053
 
 Theses
 -------
 
-- Shilpika, "Metrics Dashboard Services: A Framework for Analyzing Free/Open Source Team Repositories" (2016). Master's Theses. 3270, https://ecommons.luc.edu/luc_theses/3270.
+- |Shilpika|, "Metrics Dashboard Services: A Framework for Analyzing Free/Open Source Team Repositories" (2016). Master's Theses. 3270, https://ecommons.luc.edu/luc_theses/3270.
