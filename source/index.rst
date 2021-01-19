@@ -43,5 +43,6 @@ This site is also available in |pdf-version| or |epub-version| formats.
     :hidden:
 
     Apply <apply>
+    Leadership <leadership>
     Members <members/index>
     Research <research/index>
