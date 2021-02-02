@@ -18,21 +18,7 @@
 
 |SSL| Graduate Researchers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. list-table::
-   :widths: 10 10 30
-   :header-rows: 1
-
-   *
-        - Name
-        - Position
-        - |SSL| Research Projects
-
-   *
-        - :doc:`/members/graduate-researchers-pages/sophieVonHatten`
-        - *Software Engineer*
-        - |Metrics Dashboard|
-
-   *
-        - :doc:`/members/graduate-researchers-pages/jackWest`
-        - *Software Engineer*
-        - |VoltKey|, |ZettelGeist|
+.. csv-table::
+   :header: "Name", "Position", "|SSL| Research Project(s)"
+   :widths: 10, 10, 30
+   :file: members.csv

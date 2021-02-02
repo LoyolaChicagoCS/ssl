@@ -13,7 +13,6 @@ Faculty Advisor
 
 Brian Sequin
 
-
 Github Repo
 ------------------
 

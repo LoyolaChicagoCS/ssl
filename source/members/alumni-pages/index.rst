@@ -18,88 +18,10 @@
 
 .. Projects are listed in ALPHABETICAL ORDER
 
+
 |SSL| Alumni
 ^^^^^^^^^^^^
-.. list-table::
-   :widths: 10 10 30
-   :header-rows: 1
-
-   *
-        - Name
-        - Position
-        - |SSL| Research Projects
-
-   *
-        - :doc:`/members/alumni-pages/shilpika`
-        - *Software Developer*
-        - |Metrics Dashboard|
-
-   *
-        - :doc:`/members/alumni-pages/rileyClarkson`
-        - *Software Developer*
-        - |ZettelGeist|
-
-   *
-        - :doc:`/members/alumni-pages/zacharyGallagher`
-        - *Software Developer*
-        - |ZettelGeist|
-
-   *
-        - :doc:`/members/alumni-pages/seanHiggins`
-        - *Software Developer*
-        - |ZettelGeist|, |Metrics Dashboard|
-
-   *
-        - :doc:`/members/alumni-pages/andrewLake`
-        - *Software Developer*
-        - *Not Assigned*
-
-   *
-        - :doc:`/members/alumni-pages/jeanLucPutter`
-        - *Software Developer*
-        - |Metrics Dashboard|
-
-   *
-        - :doc:`/members/alumni-pages/linetteMaliakal`
-        - *Software Developer*
-        - |ZettelGeist|
-
-   *
-        - :doc:`/members/alumni-pages/allanMiller`
-        - *Software Engineer*
-        - |ZettelGeist|, |Metrics Dashboard|
-
-   *
-        - :doc:`/members/alumni-pages/irynaMotyashok`
-        - *Software Developer*
-        - *Not Assigned*
-
-   *
-        - :doc:`/members/alumni-pages/jackNarowski`
-        - *Software Developer*
-        - *Not Assigned*
-
-   *
-        - :doc:`/members/alumni-pages/danielPalacios`
-        - *Software Developer*
-        - *Not Assigned*
-
-   *
-        - :doc:`/members/alumni-pages/morganRichardson`
-        - *Software Developer*
-        - |ZettelGeist|
-
-   *
-        - :doc:`/members/alumni-pages/mikeRobinson`
-        - *Software Developer*
-        - *Not Assigned*
-
-   *
-        - :doc:`/members/alumni-pages/jonathanWarkentin`
-        - *Software Developer*
-        - |ZettelGeist|, |Shape Analysis|
-
-   *
-        - :doc:`/members/alumni-pages/martinZugschwert`
-        - *Software Developer*
-        - |Metrics Dashboard|
+.. csv-table::
+   :header: "Name", "Position", "|SSL| Research Project(s)"
+   :widths: 10, 10, 30
+   :file: researchers.csv

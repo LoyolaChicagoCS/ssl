@@ -12,18 +12,18 @@ FLIC is a project in the field of fog computing. Fog computing is an exciting ne
 Student Researcher(s)
 ---------------------
 
-- Jack West
+- |Jack West|
 
 Faculty Advisors
 ----------------
 
-- Neil Klingensmith
-- George K. Thiruvathukal
+- |Neil Klingensmith|
+- |George K. Thiruvathukal|
 
 Presentations
 -------------
 
-- Presentation by Jack West at ICFC 2020
+- Presentation by |Jack West| at ICFC 2020
 
   .. raw:: html
 
@@ -34,4 +34,4 @@ Presentations
 Publications
 ------------
 
-- Jack West, Neil Klingensmith, and George K. Thiruvathukal, *FLIC: A Distributed Fog Cache for City-Scale Applications, Proceedings of 2020 IEEE International Conference on Fog Computing*, https://ecommons.luc.edu/cs_facpubs/243/
+- |Jack West|, |Neil Klingensmith|, and |George K. Thiruvathukal|, *FLIC: A Distributed Fog Cache for City-Scale Applications, Proceedings of 2020 IEEE International Conference on Fog Computing*, https://ecommons.luc.edu/cs_facpubs/243/

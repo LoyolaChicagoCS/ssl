@@ -27,34 +27,121 @@ templates_path = ["_templates"]
 # template_bridge =
 rst_epilog = (
     """
-.. |pdf-version| replace:: `printable PDF  <https://github.com/LoyolaChicagoCS/ssl/releases/download/%(version)s/SoftwareSystemsLaboratory.pdf>`__
+.. |Allan Miller| replace:: :doc:`/members/alumni-pages/allanMiller`
+
+.. |Alex Rose| replace:: :doc:`/members/undergraduate-researchers-pages/alexRose`
+
+.. |Alexandra Crane| replace:: :doc:`/members/undergraduate-researchers-pages/alexandraCrane`
+
+.. |Andrew Lake| replace:: :doc:`/members/alumni-pages/andrewLake`
+
+.. |Apply| replace:: :doc:`Apply </apply>`
+
+.. |Argonne National Laboratory| replace:: `Argonne National Laboratory <https://www.anl.gov/>`__
+
+.. |Austin Pinderski| replace:: :doc:`/members/undergraduate-researchers-pages/austinPinderski`
+
+.. |Collin Jones| replace:: :doc:`/members/undergraduate-researchers-pages/collinJones`
+
+.. |Daniel Palacios| replace:: :doc:`/members/alumni-pages/danielPalacios`
+
+.. |ECE| replace:: :abbr:`ECE (Electrical and Computer Engineering)`
+
+.. |Emmanuel Amobi| replace:: :doc:`/members/undergraduate-researchers-pages/emmanuelAmobi`
+
+.. |Emily Meister| replace:: :doc:`/members/undergraduate-researchers-pages/emilyMeister`
+
+.. |Eric Chan-Tin| replace:: `Eric Chan-Tin <https://www.luc.edu/cs/people/ftfaculty/chan-tineric.shtml>`__
 
 .. |epub-version| replace:: `eBook <https://github.com/LoyolaChicagoCS/ssl/releases/download/%(version)s/SoftwareSystemsLaboratory.epub>`__
+
+.. |FLIC| replace:: :doc:`/research/incubation/flic`
+
+.. |George K. Thiruvathukal| replace:: `George K. Thiruvathukal <https://www.luc.edu/cs/people/ftfaculty/gkt.shtml>`__
+
+.. |Hermes| replace:: :doc:`/research/incubation/hermes`
+
+.. |History of Computing| replace:: :doc:`/research/in-progress/history-of-computing`
+
+.. |Isaac Ahlgren| replace:: :doc:`/members/undergraduate-researchers-pages/isaacAhlgren`
+
+.. |Iryna Motyashok| replace:: :doc:`/members/alumni-pages/irynaMotyashok`
+
+.. |Jack West| replace:: :doc:`/members/graduate-researchers-pages/jackWest`
+
+.. |Jack Narowski| replace:: :doc:`/members/alumni-pages/jackNarowski`
+
+.. |Jean-Luc Putter| replace:: :doc:`/members/alumni-pages/jeanLucPutter`
+
+.. |Jonathan Warkentin| replace:: :doc:`/members/alumni-pages/jonathanWarkentin`
+
+.. |Konstantin Läufer| replace:: `Konstantin Läufer <https://www.luc.edu/cs/people/ftfaculty/lauferkonstantin.shtml>`__
+
+.. |Linette Maliakal| replace:: :doc:`/members/alumni-pages/linetteMaliakal`
+
+.. |Louisiana State University| replace:: `Louisiana State University <https://lsu.edu/>`__
+
+.. |LUC| replace:: :abbr:`LUC (Loyola University Chicago)`
+
+.. |LUTE| replace:: :doc:`/research/incubation/lute`
+
+.. |Martin Zugschwert| replace:: :doc:`/members/alumni-pages/martinZugschwert`
+
+.. |Members| replace:: :doc:`members </members/index>`
+
+.. |Metrics Dashboard| replace:: :doc:`/research/in-progress/metrics-dashboard`
+
+.. |Mike Robinson| replace:: :doc:`/members/alumni-pages/mikeRobinson`
+
+.. |Morgan Richardson| replace:: :doc:`/members/alumni-pages/morganRichardson`
+
+.. |Neil Klingensmith| replace:: `Neil Klingensmith <https://www.luc.edu/cs/people/ftfaculty/klingensmithneil.shtml>`__
+
+.. |Nicholas J. Hayward| replace:: `Nicholas J. Hayward <https://www.luc.edu/cs/people/ftfaculty/haywardnicholas.shtml>`__
+
+.. |Nicholas Synovic| replace:: :doc:`/members/undergraduate-researchers-pages/nicholasSynovic`
+
+.. |NLC| replace:: :doc:`/research/incubation/nlc`
+
+.. |pdf-version| replace:: `printable PDF  <https://github.com/LoyolaChicagoCS/ssl/releases/download/%(version)s/SoftwareSystemsLaboratory.pdf>`__
+
+.. |Purdue University| replace:: `Purdue University <https://www.purdue.edu/>`__
+
+.. |Riley Clarkson| replace:: :doc:`/members/alumni-pages/rileyClarkson`
+
+.. |Sean Higgins| replace:: :doc:`/members/alumni-pages/seanHiggins`
+
+.. |Shape Analysis| replace:: :doc:`/research/collaborations/shape-analysis`
+
+.. |Shilpika| replace:: :doc:`/members/alumni-pages/shilpika`
+
+.. |Software Developer| replace:: :abbr:`Software Developer (Responsible for executing development plans and programming software into existence)`
+
+.. |Software Engineer| replace:: :abbr:`Software Engineer (Individual who applies engineering principles to the design, development, maintenance, testing, and evaluation of the software that make computers or other devices containing software)`
+
+.. |Sophie Von Hatten| replace:: :doc:`/members/graduate-researchers-pages/sophieVonHatten`
 
 .. |SSL| replace:: :abbr:`SSL (Software Systems Laboratory)`
 
 .. |STEAM| replace:: :abbr:`STEAM (Science, Technology, Engineering, Arts, and Mathematics)`
 
-.. |ZettelGeist| replace:: :doc:`/research/incubation/zettelgeist`
-
-.. |Metrics Dashboard| replace:: :doc:`/research/in-progress/metrics-dashboard`
-
-.. |Shape Analysis| replace:: :doc:`/research/collaborations/shape-analysis`
-
-.. |VoltKey| replace:: :doc:`/research/in-progress/voltkey`
-
-.. |Hermes| replace:: :doc:`/research/incubation/hermes`
-
-.. |LUTE| replace:: :doc:`/research/incubation/lute`
+.. |Stephanie Rodriguez| replace:: :doc:`/members/undergraduate-researchers-pages/stephanieRodriguez`
 
 .. |TE| replace:: :doc:`/research/in-progress/test-effectiveness`
 
-.. |NLC| replace:: :doc:`/research/incubation/nlc`
+.. |Trey Roche| replace:: :doc:`/members/undergraduate-researchers-pages/treyRoche`
 
-.. |FLIC| replace:: :doc:`/research/incubation/flic`
+.. |University of Alabama| replace:: `University of Alabama <https://www.ua.edu/>`__
 
-.. |History of Computing| replace:: :doc:`/research/in-progress/history-of-computing`
+.. |University of Buenos Aires| replace:: `University of Buenos Aires <http://www.uba.ar/internacionales/index.php?lang=en>`__
 
+.. |VoltKey| replace:: :doc:`/research/in-progress/voltkey`
+
+.. |William L. Honig| replace:: `William L. Honig <https://www.luc.edu/cs/people/ftfaculty/honigwilliaml.shtml>`__
+
+.. |Zachary Gallagher| replace:: :doc:`/members/alumni-pages/zacharyGallagher`
+
+.. |ZettelGeist| replace:: :doc:`/research/incubation/zettelgeist`
 """
     % vars()
 )
