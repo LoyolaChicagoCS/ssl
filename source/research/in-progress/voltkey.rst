@@ -13,14 +13,16 @@ Video Demonstration:
 --------------------
 
 .. raw:: html
-    
+
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SIn331PUXlM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 
-Faculty Advisor
+Team Members
 ------------------
 
-|Neil Klingensmith|
+- |Neil Klingensmith|
+- |George K. Thiruvathukal|
+- Jack West
 
 Key Publications
 ------------------
