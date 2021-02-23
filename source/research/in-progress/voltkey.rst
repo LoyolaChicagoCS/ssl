@@ -14,7 +14,7 @@ Video Demonstration:
 
 .. raw:: html
     
-    <iframe width="420" height="315"src="https://www.youtube.com/watch?v=SIn331PUXlM&feature=emb_title"></iframe> 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SIn331PUXlM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 
 Faculty Advisor
