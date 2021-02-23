@@ -1,0 +1,231 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html4" lang="en" >
+<head>
+  <meta charset="utf-8" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>Testing Effectiveness &mdash; Software and Systems Laboratory vv0.3.1</title>
+  
+
+  
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/theme_overrides.css" type="text/css" />
+
+  
+  
+
+  
+  
+
+  
+
+  
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+        <script type="text/javascript" src="../../_static/jquery.js"></script>
+        <script type="text/javascript" src="../../_static/underscore.js"></script>
+        <script type="text/javascript" src="../../_static/doctools.js"></script>
+        <script type="text/javascript" src="../../_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
+
+    
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="../../index.html" class="icon icon-home"> Software and Systems Laboratory
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                v0.3.1
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../apply.html">Apply</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../leadership.html">Leadership</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../members/index.html">Members</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../index.html">Research</a></li>
+</ul>
+
+            
+          
+        </div>
+        
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">Software and Systems Laboratory</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
+        
+      <li>Testing Effectiveness</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+          
+            <a href="../../_sources/research/in-progress/test-effectiveness.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="testing-effectiveness">
+<h1>Testing Effectiveness<a class="headerlink" href="#testing-effectiveness" title="Permalink to this headline">¶</a></h1>
+<p>As part of our overall interest in code quality, we’re interested in looking at test effectiveness. To improve testing effectiveness, we must not only look at techniques such as code coverage but, more broadly, at the quality of the tests themselves.  We’ve started by looking at this within major codebases such as the Scala core library and, specifically, how to test stateful abstractions.</p>
+<p>In testing stateful abstractions, it is often necessary to record interactions, such as method invocations, and express assertions over these interactions. Following the Test Spy design pattern, we can reify such interactions programmatically through an additional mutable state. Alternatively, a mocking framework, such as Mockito, can automatically generate test spies that allow us to record the interactions and express our expectations in a declarative domain-specific language.  According to our study of the test code for Scala’s Iterator trait, the latter approach can lead to a significant reduction of test code complexity in terms of metrics such as code size (in some cases over 70% smaller), cyclomatic complexity, and amount of additional mutable state required. In this tools paper, we argue that the resulting test code is not only more maintainable, readable, and intentional, but also a better stylistic match for the Scala community than manually implemented, explicitly stateful test spies.</p>
+<div class="section" id="key-papers">
+<h2>Key Papers<a class="headerlink" href="#key-papers" title="Permalink to this headline">¶</a></h2>
+<table border="1" class="colwidths-given docutils">
+<colgroup>
+<col width="63%" />
+<col width="38%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><a class="reference external" href="https://www.luc.edu/cs/people/ftfaculty/lauferkonstantin.shtml">Konstantin Läufer</a>, John O’Sullivan, and <a class="reference external" href="https://www.luc.edu/cs/people/ftfaculty/gkt.shtml">George K. Thiruvathukal</a>. 2019. <em>Tests as Maintainable Assets Via Auto-generated Spies</em>. In Proceedings of Tenth ACM SIGPLAN Scala Symposium, London, United Kingdom, July 17, 2019 (Scala ’19), <a class="reference external" href="https://ecommons.luc.edu/cs_facpubs/230/">https://ecommons.luc.edu/cs_facpubs/230/</a></td>
+<td><span class="target" id="index-0"></span>testing, <span class="target" id="index-1"></span>software quality, <span class="target" id="index-2"></span>maintainability, <span class="target" id="index-3"></span>software engineering, <span class="target" id="index-4"></span>programming languages</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+
+    </p>
+  </div> 
+
+</footer>
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+    <!-- Theme Analytics -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-5482792-29', 'auto');
+    
+    ga('send', 'pageview');
+    </script>
+
+    
+   
+
+</body>
+</html>
