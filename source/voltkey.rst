@@ -5,8 +5,14 @@ The goal of VoltKey is to make deployment and maintenance of new IoT devices eas
 
 VoltKey is a plug that generates USB power for IoT devices from a 120V wall outlet. It harvests entropy (noise) from the wall power and generates a unique security key that the IoT device can use to authenticate to the local WiFi network.
 
-The main areas of focus for VoltKey are Context-Based Authentication (CBA) and applied Internet of Things (IoT). Voltkey has several branches of work that stem from the project. Moonshine is one of those projects; Moonshine is a randomness distiller for abstract noise sources for compact IoT devices. We were able to apply methods gathered from Voltkey to a new space and make improvements in randomness distillation. Voltkey explores the applicability of new algorithmic methods to generate and filter keys to be more random and more secure. 
+The main areas of focus for VoltKey are Context-Based Authentication (CBA) and applied Internet of Things (IoT). Voltkey has several branches of work that stem from the project. Moonshine is one of those projects; Moonshine is a randomness distiller for abstract noise sources for compact IoT devices. We were able to apply methods gathered from Voltkey to a new space and make improvements in randomness distillation. Voltkey explores the applicability of new algorithmic methods to generate and filter keys to be more random and more secure.
 
+Video Demonstration:
+--------------------
+
+.. raw:: html
+    
+    <iframe width="420" height="315"src="https://www.youtube.com/watch?v=SIn331PUXlM&feature=emb_title"></iframe> 
   
 
 Faculty Advisor
