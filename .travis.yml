@@ -25,7 +25,7 @@ script:
 - BOOK_VERSION=$(./get-current-version.sh) make latexpdf
 - BOOK_VERSION=$(./get-current-version.sh) make epub
 after_success:
-- travis-sphinx deploy --cname ssl.cs.luc.edu
+- travis-sphinx deploy
 deploy:
   provider: releases
   api_key: $GH_TOKEN
